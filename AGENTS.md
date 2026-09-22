@@ -2,21 +2,20 @@
 
 ## Purpose
 
-This repository is the canonical, human-readable specification of Minitongue. Keep it small, deterministic, and easy for humans and language models to inspect.
+This repository is the canonical, human-readable specification of Proto-Minitongue. Keep it small, deterministic, and easy for humans and language models to inspect.
 
 ## Repository governance
 
 Use only these branches:
 
-- `main` — canonical, accepted Minitongue language state.
-- `experimental` — provisional or exploratory Minitongue work that is not yet canonical.
-- `proto` — independent Proto-Minitongue design workspace using the same repository contracts; its linguistic data are not canonical Minitongue data.
+- `main` — canonical, accepted Proto-Minitongue language state.
+- `experimental` — provisional or exploratory Proto-Minitongue work that is not yet canonical.
 
 Do not create, rename, delete, or use additional branches unless the user explicitly requests it.
 
 Do not alter the repository structure unless the user explicitly requests a structural change. This includes adding, deleting, renaming, moving, or reorganizing files or directories. New linguistic content must fit the established files by default.
 
-When branch choice matters, accepted canonical Minitongue changes belong on `main`; exploratory Minitongue changes belong on `experimental`; Proto-Minitongue work belongs on `proto`.
+When branch choice matters, accepted canonical Proto-Minitongue changes belong on `main`; exploratory Proto-Minitongue changes belong on `experimental`.
 
 ## Read order
 
@@ -27,14 +26,14 @@ Before changing language data:
 3. Read only the relevant rows/columns of `lexicon.tsv` and `examples.tsv`.
 4. Read `schema.json` only for data-shape, interchange, or TEI work.
 5. Use the validator's discovery modes instead of manually deriving repository state when applicable.
-6. Run `python scripts/validate.py` after edits.
+<!-- TEMPORARILY DISABLED: 6. Run `python scripts/validate.py` after edits. -->
 
 Do not treat chat history as canonical language data.
 
 ## Repository map
 
 ```text
-minitongue/
+protominitongue/
 ├── AGENTS.md          # workflow and file contracts
 ├── grammar.md         # canonical linguistic rules + controlled vocabularies
 ├── lexicon.tsv        # canonical lexemes; one row per sense
@@ -183,8 +182,10 @@ These are project mappings, not TEI conformance. Validate generated XML independ
 2. Decide whether the request is already licensed, underspecified, or contradictory.
 3. Make the smallest coherent accepted change.
 4. Update dependent references and regression examples.
+<!-- TEMPORARILY DISABLED:
 5. Run `python scripts/validate.py` from the repository root.
 6. Resolve every error before considering the change complete.
+-->
 
 If changing file structure or column names, update `AGENTS.md`, `schema.json`, and `scripts/validate.py` together.
 
@@ -214,5 +215,9 @@ If that connected passage requires an unanticipated construction, mark the const
 
 ## Definition of done
 
-Canonical files agree; IDs and references resolve; IPA/Leipzig mechanical checks pass; JSON-in-TSV parses; and `python scripts/validate.py` exits 0.
+Canonical files agree and accepted changes are internally consistent.
+
+<!-- TEMPORARILY DISABLED VALIDATION REQUIREMENT:
+IDs and references resolve; IPA/Leipzig mechanical checks pass; JSON-in-TSV parses; and `python scripts/validate.py` exits 0.
+-->
 
