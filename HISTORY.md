@@ -61,7 +61,15 @@ PERL, INS, and COM descend from an older broad WITH/BY/THROUGH relation organize
 
 Ordinary nominal ABS is zero. Pronouns preserve person-specific ABS stem alternations and additional conservative core-case relics from an older pronominal paradigm; their exact forms remain to be reconstructed.
 
-When consonant-only case endings followed consonant-final stems, cluster repair was generalized as a productive pre-case /i/ linker. Older lexical linker vowels can survive in individual nouns, providing a potential source of later declensional irregularity. Vowel-bearing members of the `t(V)` and `m(V)` families attach directly and continue to participate in the ordinary boundary phonology.
+The modern pre-case /i/ linker is historically the ANIMATE class theme generalized beyond its original lexical class. The older noun-class system was semantically motivated and classifier-like, then became stem-integrated and partly opaque. An older SOCIAL class merged productively with MOBILE-LIVING to yield ANIMATE, while residual SOCIAL morphology survived separately in person-sensitive DAT and COM. Its fuller marker is reconstructable only schematically as `*Ci`; the consonant remains UNSPECIFIED.
+
+The surviving productive theme profiles are ANIMATE `*-i`, GROWING `*-a`, LAND/WATER `*-u`, and MADE `*Ø/C`. Semantic reassignment and sound change both contributed to the collapse of older classes, while high-frequency nouns retained fossil material from extinct distinctions. Apocope obscured class marking in many ABS.SG citation forms.
+
+Analogy spread ANIMATE `*-i` as the default linker before consonantal cases, but conservative class pockets resisted leveling. GROWING retains `*-a` especially before LOC `*-t` and PERL/INS `*-m`, yielding transparent Proto-Minitongue `-at` and `-am`. LAND/WATER analogously preserves `*-u` in `-ut` and `-um`, with additional older `u ~ Ø` and consonantal relics surviving lexically. MADE was remodeled most strongly toward the /i/ default, though older artifact nouns may retain compact direct/fused `-m` PERL/INS, reinforced by frequent instrumental uses. ANIMATE's original class status is recoverable chiefly from irregular high-frequency fusions and from later number morphology rather than from a fully separate modern declension.
+
+Dual and plural descend from class-independent number morphology, but contact with class themes created class-sensitive surface outputs. The restricted natural/conventional-pair dual preserves more conservative interactions than the plural.
+
+A later attributive classifier layer developed partly from inherited class material and partly from newer semantic classifiers. Unlike lexical noun class, it remained sensitive to current construal and could cross-cut inherited declension, allowing, for example, a LAND/WATER noun to take SOCIAL/PERSON classification in ritual discourse without changing its lexical case behavior.
 
 ### Final repair and stress
 
