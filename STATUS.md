@@ -5,9 +5,10 @@ This file records current working state only. Git history is the project-develop
 ## Active questions
 
 - How is phase selected when separation and benefit coexist, as in “I remove a splinter for your benefit”? Participant-oriented, event-oriented, and class-specific analyses were offered; none was selected.
-- Case, number, applicative, auxiliary, and derivational exponents are UNSPECIFIED. Exact root templates and distributions, the extension of dual beyond natural pairs, and detailed active–stative verb-class assignments remain UNSPECIFIED.
+- Case, number, applicative, auxiliary, derivational, nominalizer, participle, and converb exponents are UNSPECIFIED. Exact lexical distributions of root shapes and detailed active–stative verb-class assignments remain UNSPECIFIED.
+- Individual productive case-stacking combinations remain to be established semantically; the architecture permits at most two construction-licensed case layers.
 - Ordering and disambiguation of original patient versus applied object when both have the same person are UNSPECIFIED. Patient-before-applied-object was a testing convention, not a separately accepted rule.
-- Nominalizer, participle, and converb inventories and their historical derivations remain to be developed.
+- Historical derivations of the nominalizer, participle, and converb systems remain to be developed.
 
 ## Provisional systems
 
@@ -21,7 +22,7 @@ The earlier proposed negative-phase benefit reading and the later preference for
 
 ## Next useful tests
 
-Phonology and morphophonology now have canonical syllabification, vowel-contact, coda-shortening, moraic-weight, stress, boundary-repair, and orthographic-diacritic rules. Apply them mechanically once canonical lexical and morphological forms are available rather than reopening the architecture.
+Phonology, morphophonology, and the high-level morphological architecture are now canonical. Apply them mechanically once canonical lexical and morphological exponents are available rather than reopening the architecture. The next decisive morphology test is exponent design across number, case stacking, nominalization, derivation/AUX ordering, and applicative boundaries.
 
 | Diagnostic | Established expectation | Remaining dependency |
 | --- | --- | --- |
