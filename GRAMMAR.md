@@ -87,9 +87,9 @@ If the following consonant is resyllabified as the onset of a following vowel-in
 
 ### Nominal morphology
 
-**G-MORPH-001.** Noun template: `NOUN-NUMBER-CASE`. Number categories are singular, dual, and plural. The dual is used with natural pairs; its extension beyond natural pairs is UNSPECIFIED. Number exponents are UNSPECIFIED. Case belongs on nouns, not in the verb template.
+**G-MORPH-001.** Productive nouns share one inflectional architecture: `NOUN-NUMBER-(INNER CASE)-(OUTER CASE)`. Singular number is zero; dual and plural are overt, though their exponents are UNSPECIFIED. The dual is restricted to natural or conventional pairs. Number scopes over the lexical noun before case relations apply. Additional declensional classes may arise later through historical differentiation or reanalysis, but none are part of the current productive architecture. Case belongs on nouns, not in the verb template.
 
-**G-MORPH-002.** Agents and active subjects receive an overt core case; patients and stative subjects are unmarked. Case exponents are UNSPECIFIED. The additional functional inventory is:
+**G-MORPH-002.** Agents and active subjects receive an overt core case; patients and stative subjects are unmarked. Case exponents are UNSPECIFIED. Limited case stacking is productive: at most two case layers may occur, and an outer case is licensed only where it compositionally scopes over the relation established by the inner case. Individual stacking patterns must therefore be established construction by construction; arbitrary case chains are not grammatical. The additional functional inventory is:
 
 | Case function | Scope |
 | --- | --- |
@@ -102,31 +102,31 @@ If the following consonant is resyllabified as the onset of a following vowel-in
 | Containment | Physical interior |
 | Position | Surface contact or support |
 
-**G-MORPH-003.** The design includes rich nominalizer and participle systems. Converbs have the structure `a-grade nonfinite stem + nominalizer + case`. Individual forms and functions are UNSPECIFIED.
+**G-MORPH-003.** The productive nonfinite system contains a small set of semantic nominalizers centered on event/action, participant, and result/place functions, with participial extensions built from this system. A nominalized verb enters ordinary nominal morphology: `ROOT-a-NMLZ-NUMBER-(CASE)`, and may take construction-licensed stacked case like other referential nouns. Event/action nominalizations are normally singular unless construed as countable events. Converbs have the structure `a-grade nonfinite stem + nominalizer + case` and ordinarily take exactly one case; additional case stacking is not productive in the converb construction. Individual nominalizer, participle, and converb exponents remain UNSPECIFIED.
 
 ### Verbal morphology
 
 **G-MORPH-004.** Verb template:
 
-`RELATIONAL PHASE-OBJ/PAT-ROOT+GRADE-AUX/DERIV-APPL-AGT/SUBJ-TENSE-ASPECT`
+`RELATIONAL PHASE-OBJ/PAT-ROOT+GRADE-(DERIV)-(AUX)-APPL-AGT/SUBJ-TENSE-ASPECT`
 
-This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. Auxiliary and derivational inventories are UNSPECIFIED.
+This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. DERIV and AUX form a small ordered derivational zone: DERIV precedes AUX, either may be absent, and only semantically and morphologically compatible combinations occur. Their inventories and exponents remain UNSPECIFIED.
 
-**G-MORPH-005.** Grades are suffixal stem formatives attached to the lexical root: `-a` nonfinite, `-u` realis, `-i` irrealis, `-e` linking. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels, with unequal productivity across these types. Exact root templates and distributions remain UNSPECIFIED.
+**G-MORPH-005.** Grades are suffixal stem formatives attached to the lexical root: `-a` nonfinite, `-u` realis, `-i` irrealis, `-e` linking. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels. These are phonological root shapes, not separate conjugation classes: all use the same morphological architecture, and surface differences arise through phonology and morphophonology. Exact lexical distributions remain UNSPECIFIED.
 
-**G-MORPH-006.** Agent/subject suffixes: `-k` first person, `-t` second person, `-p` third person. Ordinary object/patient prefixes consist of `n-` plus `k/t/p` for first/second/third person. With an applicative, the applied object is indexed by `k/t/p` without `n-`. These distinctions do not establish person-number paradigms beyond person.
+**G-MORPH-006.** Agent/subject suffixes: `-k` first person, `-t` second person, `-p` third person. Ordinary object/patient prefixes consist of `n-` plus `k/t/p` for first/second/third person. With an applicative, the applied object is indexed by `k/t/p` without `n-`. Verbal indexing encodes person only, never number; nominal or pronominal morphology carries number distinctions.
 
 **G-MORPH-007.** Tense suffixes: `-i` nonpast, `-a` past. Aspect suffixes: zero imperfective, `-n` perfective.
 
 **G-MORPH-008.** Relational phase prefixes: `i-` positive, `a-` negative, zero neutral. Their interpretation is governed by G-SEM-001–004.
 
-**G-MORPH-009.** The two applicatives are affected-person (including beneficiaries and relevant gain/loss participants) and means (including instruments). Their exponents are UNSPECIFIED. The applicative occupies APPL; it is not a case marker.
+**G-MORPH-009.** The two applicatives are affected-person (including beneficiaries and relevant gain/loss participants) and means (including instruments). Their exponents are UNSPECIFIED. Exactly one applicative may occur per verb. The applicative occupies APPL; it is not a case marker; any additional non-core participant must remain case-marked or be expressed by another construction.
 
 ## Syntax
 
 **G-SYN-001.** Basic constituent order is SOV. Order between the original patient and an applied object is UNSPECIFIED.
 
-**G-SYN-002.** Alignment is active–stative. The system is fluid where differences in control, active involvement, or affectedness motivate an alternation, while some verbs are lexically fixed to one behavior. Detailed verb-class assignments and alternation restrictions are UNSPECIFIED.
+**G-SYN-002.** Alignment is active–stative. The system is fluid where differences in control, active involvement, or affectedness motivate an alternation, while some verbs are lexically fixed to one behavior. The alternation is expressed through argument case and choice of agreement position alone; there is no additional voice or alignment morpheme. Detailed verb-class assignments and alternation restrictions are UNSPECIFIED.
 
 **G-SYN-003.** Adjectives are stative verbs.
 
