@@ -174,9 +174,13 @@ Abstract spatial-case uses develop as conventional extensions, not unrestricted 
 
 **G-SEM-004.** Contact verbs have an engage/withdraw tendency with root-specific contrasts. Alteration supports distinct class patterns of degree increase/decrease, establishing/undoing, and applying/removing. These patterns do not by themselves establish roots or assign their alignment.
 
+**G-PRAG-001.** Social personhood is a graded, relational construal rather than a categorical human/nonhuman feature. Humans are ordinarily treated as persons by default. Nonhuman beings may receive stronger person construal through established reciprocity and/or communal ritual recognition. Such beings can be categorized simultaneously by domain (for example animal, water, storm, or place), by relational status (for example familiar, dangerous, obligated, or ancestral), and, where culturally licensed, as a collective person such as a herd, river, or forest. These distinctions do not by themselves establish a noun class or agreement system.
+
 ## Discourse
 
 **G-DISC-001.** Recoverable indexed pronouns may be omitted. Ordinary applied second-person participants such as “you” in “I cook bread for you” need not appear as overt nouns; the verb indexes them. Agent indexing likewise permits recoverable agent omission. Indexing distinguishes persons, not multiple nouns of the same person.
+
+**G-DISC-002.** Third-person reference is construal-sensitive: speakers may refer to the same eligible nonhuman referent in a more person-like or more thing-like way according to the discourse relation being foregrounded. Physical description does not require person-like reference, while reciprocity, intention, obligation, ritual interaction, or ancestry may favor it. The exact pronominal or referential forms realizing this contrast are UNSPECIFIED.
 
 ## Orthography
 
