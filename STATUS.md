@@ -25,9 +25,9 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 
 ## Active questions
 
-- Animacy distinctions and possible noun classes are UNSPECIFIED. They should be developed together with the historical source of nominal stem classes and tested as possible conditioning factors for surface case allomorphy, without assuming that cultural personhood maps directly onto grammatical animacy.
+- Exact exponents and fossil distributions within the tested noun-class system remain UNSPECIFIED: the consonant of relic SOCIAL `*Ci`, the resulting person-sensitive DAT/COM allomorphs, LAND/WATER consonantal relic cells, ANIMATE high-frequency fusion relics, and the exact attributive-classifier exponents/final inventory.
 - How is phase selected when separation and benefit coexist, as in “I remove a splinter for your benefit”? Participant-oriented, event-oriented, and class-specific analyses were offered; none was selected.
-- Number, applicative, auxiliary, derivational, nominalizer, participle, converb, and inalienable possessive-index exponents are UNSPECIFIED. Exact lexical distributions of root shapes and detailed active–stative verb-class assignments remain UNSPECIFIED.
+- Number, applicative, auxiliary, derivational, nominalizer, participle, converb, and inalienable possessive-index exponents are UNSPECIFIED. Number is class-independent underlyingly but must be tested for theme-conditioned fusion, with the natural-pair dual expected to preserve more conservative class interactions. Exact lexical distributions of root shapes and detailed active–stative verb-class assignments remain UNSPECIFIED.
 - Exact pronominal case relics, the lexical set of canonical route/path nouns preserving PERL `-mi`, and noun-specific inherited linker vowels remain UNSPECIFIED; these do not block productive nominal inflection.
 - Ordering and disambiguation of original patient versus applied object when both have the same person are UNSPECIFIED. Patient-before-applied-object was a testing convention, not a separately accepted rule.
 - Historical derivations of the nominalizer, participle, and converb systems remain to be developed.
@@ -44,7 +44,7 @@ The earlier proposed negative-phase benefit reading and the later preference for
 
 ## Next useful tests
 
-Phonology, morphophonology, the high-level morphological architecture, and the productive case system are now canonical. The case module has passed a morphophonological regression pass, including consonant-final linker repair, weight-sensitive coda shortening, case-family contrasts, GEN stacking, and bimoraic-nucleus saturation before vowel-initial morphology. The next decisive morphology tests are exponent design for number, nominalization, derivation/AUX ordering, applicatives, and inalienable possessive indexing.
+Phonology, morphophonology, the high-level morphological architecture, productive case system, grammatical animacy, and noun-class architecture are now canonical. The noun-class module establishes ANIMATE /i/, GROWING /a/, LAND/WATER /u/, MADE Ø/C, a relic SOCIAL stratum, class-conditioned LOC/PERL/INS pockets, person-sensitive DAT/COM, and a newer cross-cutting attributive classifier layer. Exact unresolved forms remain listed above. The next decisive morphology tests are number exponent design and class-theme fusion, followed by nominalization, derivation/AUX ordering, applicatives, and inalienable possessive indexing.
 
 | Diagnostic | Established expectation | Remaining dependency |
 | --- | --- | --- |
