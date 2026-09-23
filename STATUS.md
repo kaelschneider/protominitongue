@@ -5,8 +5,8 @@ This file records current working state only. Git history is the project-develop
 ## Active questions
 
 - How is phase selected when separation and benefit coexist, as in “I remove a splinter for your benefit”? Participant-oriented, event-oriented, and class-specific analyses were offered; none was selected.
-- Case, number, applicative, auxiliary, derivational, nominalizer, participle, and converb exponents are UNSPECIFIED. Exact lexical distributions of root shapes and detailed active–stative verb-class assignments remain UNSPECIFIED.
-- Individual productive case-stacking combinations remain to be established semantically; the architecture permits at most two construction-licensed case layers.
+- Number, applicative, auxiliary, derivational, nominalizer, participle, converb, and inalienable possessive-index exponents are UNSPECIFIED. Exact lexical distributions of root shapes and detailed active–stative verb-class assignments remain UNSPECIFIED.
+- Exact pronominal case relics, the lexical set of canonical route/path nouns preserving PERL `-mi`, and noun-specific inherited linker vowels remain UNSPECIFIED; these do not block productive nominal inflection.
 - Ordering and disambiguation of original patient versus applied object when both have the same person are UNSPECIFIED. Patient-before-applied-object was a testing convention, not a separately accepted rule.
 - Historical derivations of the nominalizer, participle, and converb systems remain to be developed.
 
@@ -22,12 +22,12 @@ The earlier proposed negative-phase benefit reading and the later preference for
 
 ## Next useful tests
 
-Phonology, morphophonology, and the high-level morphological architecture are now canonical. Apply them mechanically once canonical lexical and morphological exponents are available rather than reopening the architecture. The next decisive morphology test is exponent design across number, case stacking, nominalization, derivation/AUX ordering, and applicative boundaries.
+Phonology, morphophonology, the high-level morphological architecture, and the productive case system are now canonical. The case module has passed a morphophonological regression pass, including consonant-final linker repair, weight-sensitive coda shortening, case-family contrasts, GEN stacking, and bimoraic-nucleus saturation before vowel-initial morphology. The next decisive morphology tests are exponent design for number, nominalization, derivation/AUX ordering, applicatives, and inalienable possessive indexing.
 
 | Diagnostic | Established expectation | Remaining dependency |
 | --- | --- | --- |
-| Dance into/out of/inside a house | Positive/negative/neutral plus containment; no obligatory movement derivation | Root and case forms |
-| Put onto/take off/reposition on a platform | Positive/negative/neutral plus position with a broad handling root | Root and case forms |
+| Dance into/out of/inside a house | Positive/negative/neutral plus INESS `-ti`; no obligatory movement derivation | Root form |
+| Put onto/take off/reposition on a platform | Positive/negative/neutral plus SUPER `-ta` with a broad handling root | Root form |
 | I cook bread for you | Applied second-person indexing without n; first-person agent suffix; recoverable pronouns omitted | Phase interpretation and applicative exponent |
 | I take bread from you | Negative transfer can index you as applied object; bread remains unmarked | Root and applicative exponent |
 | I cut bread with a knife | Means applicative indexes knife; bread remains unmarked; redundant instrument case need not be retained | Same-person noun ordering; forms |

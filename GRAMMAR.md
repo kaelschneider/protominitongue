@@ -65,7 +65,7 @@ The language has SOV order, active–stative alignment, relational phase prefixe
 | `ui` | /u.i/ | hiatus |
 | `ue` | /u.i/ | hiatus with raising of the second vowel |
 
-The permitted `CjV` onset means glide formation is not blocked merely because a consonant precedes the input sequence.
+The permitted `CjV` onset means glide formation is not blocked merely because a consonant precedes the input sequence. Vowel-contact processes in this rule apply only when the preceding nucleus is monomoraic. A bimoraic nucleus—whether a diphthong or a contracted heavy monophthong—is saturated: a following vowel-initial morpheme begins a new syllable and remains in hiatus (for example, `pâ-e → pâ.e` and `pai-e → pai.e`).
 
 **G-PHON-009.** Coda-conditioned shortening applies after resyllabification and prevents a bimoraic nucleus from combining with a moraic coda. Historical source remains relevant to the output:
 
@@ -89,18 +89,29 @@ If the following consonant is resyllabified as the onset of a following vowel-in
 
 **G-MORPH-001.** Productive nouns share one inflectional architecture: `NOUN-NUMBER-(INNER CASE)-(OUTER CASE)`. Singular number is zero; dual and plural are overt, though their exponents are UNSPECIFIED. The dual is restricted to natural or conventional pairs. Number scopes over the lexical noun before case relations apply. Additional declensional classes may arise later through historical differentiation or reanalysis, but none are part of the current productive architecture. Case belongs on nouns, not in the verb template.
 
-**G-MORPH-002.** Agents and active subjects receive an overt core case; patients and stative subjects are unmarked. Case exponents are UNSPECIFIED. Limited case stacking is productive: at most two case layers may occur, and an outer case is licensed only where it compositionally scopes over the relation established by the inner case. Individual stacking patterns must therefore be established construction by construction; arbitrary case chains are not grammatical. The additional functional inventory is:
+**G-MORPH-002.** The productive case inventory and ordinary nominal exponents are:
 
-| Case function | Scope |
-| --- | --- |
-| Reference | Endpoint or anchor across compatible semantic classes |
-| Location | General location; detailed contrasts remain UNSPECIFIED |
-| Recipient/beneficiary | Recipient, gain/loss participant, or beneficiary as licensed by construction and phase |
-| Companion | Accompaniment |
-| Means/instrument | Means or instrument |
-| Possessor | Possession |
-| Containment | Physical interior |
-| Position | Surface contact or support |
+| Case | Exponent | Core scope |
+| --- | --- | --- |
+| ABS | `Ø` | Patient and stative/inactive S; ordinary nouns are unmarked |
+| ERG | `-k` | Transitive A and active/agentive S |
+| GEN | `-n` | Alienable possession and broader nominal relation |
+| DAT | `-r` | Recipient, beneficiary/maleficiary, experiencer, affected animate participant |
+| LOC | `-t` | General location |
+| INESS | `-ti` | Interior/containment |
+| SUPER | `-ta` | Surface contact/support |
+| PERL | `-m`; conservative `-mi` | Route/path, especially motion through or along |
+| INS | `-m` | Instrument or means |
+| COM | `-ma` | Companion or co-participant association |
+| ESS | `-e` | Temporary state, role, life-stage, circumstance, or temporary function/material construal |
+
+Pronouns preserve person-specific ABS stem alternations and several conservative core-case forms; their exact paradigm is UNSPECIFIED. Inalienable possession is productively head-marked by possessor indexing on the possessed noun, with older/high-frequency nouns permitted to preserve irregular indexed stems; the possessive exponents themselves remain UNSPECIFIED.
+
+LOC `-t`, INESS `-ti`, and SUPER `-ta` form a synchronically recognizable `t(V)` family, and PERL/INS `-m`, conservative PERL `-mi`, and COM `-ma` form a recognizable `m(V)` family. Speakers recognize these relationships analogically, but the vowels are not independently productive morphemes. PERL and INS are normally syncretic in `-m`; `-mi` remains productively conservative on pronouns and canonical route/path nouns, whose lexical membership is UNSPECIFIED. With inanimate associates, `-m` favors functional/instrumental association while `-ma` can construe the referent as a companion or co-participant.
+
+After a consonant-final nominal stem, the consonant-only cases ERG `-k`, GEN `-n`, DAT `-r`, LOC `-t`, and PERL/INS `-m` productively insert linker /i/ before the case consonant when required to avoid an illegal final cluster: schematically `C-k → Cik`, `C-t → Cit`. Vowel-bearing `-ti -ta -mi -ma -e` attach directly and undergo ordinary phonology; thus a matching stem-final consonant may form a legal heterosyllabic geminate, as in schematic `pat-ti → patti`. A small number of older nouns may preserve lexical linker vowels instead of productive /i/.
+
+Limited case stacking is productive but narrower than the general two-slot architecture suggests. GEN may serve as an inner case before LOC, INESS, SUPER, or PERL when an outer spatial relation compositionally scopes over a possessive or referential GEN relation; abstract relational GEN resists such stacking. DAT and ESS do not stack productively. Arbitrary case chains are ungrammatical. There is no productive Reference case: affected or animate endpoint functions fall to DAT, spatial anchors and routes to the spatial cases, and abstract nominal relations to GEN.
 
 **G-MORPH-003.** The productive nonfinite system contains a small set of semantic nominalizers centered on event/action, participant, and result/place functions, with participial extensions built from this system. A nominalized verb enters ordinary nominal morphology: `ROOT-a-NMLZ-NUMBER-(CASE)`, and may take construction-licensed stacked case like other referential nouns. Event/action nominalizations are normally singular unless construed as countable events. Converbs have the structure `a-grade nonfinite stem + nominalizer + case` and ordinarily take exactly one case; additional case stacking is not productive in the converb construction. Individual nominalizer, participle, and converb exponents remain UNSPECIFIED.
 
@@ -136,14 +147,28 @@ This is morphological notation, not a claim that every slot must be overt or tha
 
 **G-SEM-001.** Positive phase tends toward connecting, building, or advancing; negative phase toward separating, reducing, or reversing. Actual oppositions are conventional to semantic classes and roots. Spatial, contact, relational, and alteration classes are examples, not an exhaustive classification. Neutral phase follows a root-specific baseline rather than universally marking either a state or an activity.
 
-**G-SEM-002.** Case and phase interact by construction. Some cases receive interpretation from phase; others retain their relation. Reference extends across compatible semantic classes. Reference and recipient/beneficiary may overlap, with reference emphasizing an endpoint or anchor and recipient/beneficiary emphasizing gain, loss, or benefit. Negative transfer with a reference participant can identify a source and can imply loss; reference alone does not entail ownership or harm.
+**G-SEM-002.** Phase interpretation is construction- and verb-class-conditioned, but several case domains have productive tendencies:
 
-**G-SEM-003.** Containment and position can express phase-sensitive changes of spatial relation where the whole construction licenses them. A separate movement derivation is not required for a manner verb to express a path. Otherwise spatial case locates the event. Ordinary motion roots favor direction-neutral meanings. Accepted semantic patterns, using English placeholders rather than canonical lexemes, are:
+| Case | Neutral phase | Positive `i-` | Negative `a-` |
+| --- | --- | --- | --- |
+| DAT | neutral involvement/experience | gain, benefit, or orientation toward the affected participant | loss, harm, or orientation away/from the affected participant |
+| LOC | location | toward/arrival at for motion and location predicates | away/departure from for motion and location predicates |
+| INESS | in/interior | into or establishment of interior relation | out of or removal of interior relation |
+| SUPER | on/surface relation | onto or establishment of surface relation | off or removal of surface relation |
+| PERL | route/along | enter or continue along a path with directional motion predicates | leave or reverse from a path with directional motion predicates |
+| INS | means/instrument | acquisition/use or enabling means, by verb class | relinquishing/removal or obstructive means, by verb class |
+| COM | accompaniment | joining or co-participation | separation or withdrawal |
+| ESS | be/as a temporary state or role | become/enter the state or role | cease/leave the state or role |
+
+Outside the favored motion/location classes, LOC and PERL allow root-specific phase interpretations rather than mechanically directional ones. DAT experiencer and other stative predicates may conventionalize phase as affect or intensity, or lexicalize another contrast, rather than directly expressing gain versus loss. PERL and INS are normally distinguished by construction and lexical semantics despite their shared `-m` exponent; conservative PERL `-mi` can overtly preserve the path reading.
+
+**G-SEM-003.** INESS and SUPER can express phase-sensitive changes of topological relation, while LOC and PERL interact compositionally with phase in their favored motion/location constructions. A separate movement derivation is not required for a manner verb to express a path. Ordinary motion roots favor direction-neutral lexical meanings, with direction supplied by the construction. Accepted semantic patterns, using English placeholders rather than canonical lexemes, are:
 
 | Construction | Positive | Negative | Neutral |
 | --- | --- | --- | --- |
-| dance + house-CONTAINMENT | dance into the house | dance out of the house | dance inside the house |
-| position/handle + platform-POSITION | put onto the platform | take off the platform | reposition on the platform |
+| dance + house-INESS | dance into the house | dance out of the house | dance inside the house |
+| position/handle + platform-SUPER | put onto the platform | take off the platform | reposition on the platform |
+| move + road-PERL | enter/continue along the road | leave/reverse from the road | move along the road |
 
 Abstract spatial-case uses develop as conventional extensions, not unrestricted productive metaphor.
 
