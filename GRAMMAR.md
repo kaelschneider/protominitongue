@@ -87,7 +87,7 @@ If the following consonant is resyllabified as the onset of a following vowel-in
 
 ### Nominal morphology
 
-**G-MORPH-001.** Productive nouns share one inflectional architecture: `NOUN-NUMBER-(INNER CASE)-(OUTER CASE)`. Singular number is zero; dual and plural are overt, though their exponents are UNSPECIFIED. The dual is restricted to natural or conventional pairs. Number scopes over the lexical noun before case relations apply. Four productive noun stem classes condition theme realization and limited surface allomorphy within this shared architecture; they are not four separate case paradigms. Case belongs on nouns, not in the verb template.
+**G-MORPH-001.** Productive nouns share one inflectional architecture: `NOUN-(COLL/PCL)-NUMBER-(INNER CASE)-(OUTER CASE)`. COLL/PCL is an optional stem-forming derivation under G-MORPH-014. Singular is zero, dual is `-e`, and plural is `-u`. Number scopes over the lexical or derived nominal stem before case relations apply. Four productive noun stem classes condition theme realization and limited surface allomorphy within this shared architecture; they are not four separate case paradigms. Case belongs on nouns, not in the verb template.
 
 **G-MORPH-002.** The productive case inventory and ordinary nominal exponents are:
 
@@ -123,9 +123,17 @@ Class meanings are prototypes rather than exhaustive ontologies. ANIMATE contain
 
 Old SOCIAL morphology survives as person-sensitive allomorphy in DAT and COM. It is available to humans and to nonhuman referents construed as socially responsive persons, without changing the referent's lexical noun class. Conventionally person-like rivers, herds, ancestral places, and similar referents may favor these forms even when nonperson construal remains possible. The old SOCIAL marker is reconstructed only schematically as classifier-like `*Ci`; its consonant and the exact modern DAT/COM outputs remain UNSPECIFIED.
 
-**G-MORPH-012.** Dual and plural use the same underlying number morphology across noun classes; their exponents remain UNSPECIFIED. Theme + number interaction may produce class-conditioned surface forms through ordinary morphophonology. The restricted natural/conventional-pair dual is more conservative than the plural and may preserve older class-conditioned outputs.
+**G-MORPH-012.** Dual and plural use the same underlying exponents across noun classes: dual `-e`, plural `-u`. Theme + number interactions are derived by ordinary morphophonology; there are no productive class-specific number allomorphs or true number+case portmanteaux. Surface number syncretism produced by regular phonology is tolerated.
+
+The dual marks a coherent licensed pair rather than mere cardinality. For core natural-pair lexemes, singular denotes one member, dual the coherent pair, and plural three or more members or two unmatched members. Conventional functional or cultural pairings can also license dual; a newly established functional pair may be coerced into dual once discourse treats it as a unit, but accidental physical juxtaposition alone does not suffice. When the two members are separately coordinated, each conjunct normally remains singular rather than redundantly taking dual.
+
+The numeral TWO selects dual when the noun is dual-eligible and the two referents form a licensed pair; otherwise it selects plural. Numerals THREE and above select plural. For nouns without dual eligibility, plural therefore includes two or more. Number on collective nouns counts collectives rather than their members. Mass/substance nouns may pluralize with contextual kind, portion, or bounded-instance readings.
 
 **G-MORPH-013.** A newer attributive classifier system may suffix to attributive stative verbs/adjectives when classification is semantically relevant; neutral descriptions may omit it. Its semantic inventory is richer than the four inherited noun classes and cross-cuts them, with centers including SOCIAL/PERSON, MOBILE-LIVING, GROWING, FLUID/LANDSCAPE, WORKED/MATERIAL, BOUNDED, and COLLECTIVE. A classifier can freely signal a contextual construal different from the noun's inherited lexical class without changing that noun's declension. Some classifiers descend from older class material and others are later innovations; their exact exponents and final inventory are UNSPECIFIED.
+
+**G-MORPH-014.** The productive collective/paucal derivation is `-s` and precedes number: `NOUN-COLL/PCL-NUMBER-CASE`. Its semantic center is a bounded coherent subset: with count nouns it forms a small group or paucal set, with mass/substance nouns a bounded quantity, and with collective nouns a subcollective. The derived stem may itself take singular, dual, or plural; dual eligibility is recalculated for the derived collective rather than inherited from the base noun.
+
+COLL/PCL `-s` blocks the conservative class-theme case pockets of G-MORPH-011. Before consonant-only case endings, a derived `-s` stem therefore uses the generalized `-i-` linker regardless of the base noun class, schematically `ROOT-a-s-i-t` and `ROOT-u-s-i-m`. Vowel-bearing case endings attach directly under the ordinary phonology. Consonant-final bases undergo the ordinary boundary-repair system, so schematic `C-s` surfaces as `Cis` where required by phonotactics.
 
 ### Verbal morphology
 
