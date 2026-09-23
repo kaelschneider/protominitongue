@@ -5,10 +5,11 @@ This file records current working state only. Git history is the project-develop
 ## Active questions
 
 - How is phase selected when separation and benefit coexist, as in “I remove a splinter for your benefit”? Participant-oriented, event-oriented, and class-specific analyses were offered; none was selected.
-- Case, number, applicative, auxiliary, and derivational exponents are UNSPECIFIED, as are number categories, root shapes, grade realization, and detailed active–stative class assignments.
-- Phonotactic realization at morpheme boundaries is UNSPECIFIED. In particular, `n + person + consonant-initial root` can violate (C)V(C). No vowel insertion or prefix alternation has been selected.
+- Case, number, applicative, auxiliary, and derivational exponents are UNSPECIFIED. Exact root templates and distributions, the extension of dual beyond natural pairs, and detailed active–stative verb-class assignments remain UNSPECIFIED.
+- Exact phonotactic realization at morpheme boundaries is UNSPECIFIED. The architecture now favors historically motivated assimilation/fusion and sequence-specific vowel-contact outcomes, but the concrete mappings are not selected. In particular, `n + person + consonant-initial root` can violate (C)V(C).
 - Ordering and disambiguation of original patient versus applied object when both have the same person are UNSPECIFIED. Patient-before-applied-object was a testing convention, not a separately accepted rule.
-- Nominalizer, participle, and converb inventories and historical derivations remain to be developed.
+- Nominalizer, participle, and converb inventories and their historical derivations remain to be developed.
+- The ordered Pre-Proto → Proto sound laws remain to be specified. Current canon establishes only the historical architecture: partial simplification of older clusters/hiatus, consonantal assimilation/fusion at morpheme boundaries, mixed sequence-specific vowel-contact outcomes, and substantial sound change across morpheme boundaries.
 
 ## Provisional systems
 
@@ -33,4 +34,4 @@ Use a small coherent lexicon and actual sentences once forms are available. Do n
 | I cut bread with a knife | Means applicative indexes knife; bread remains unmarked; redundant instrument case need not be retained | Same-person noun ordering; forms |
 | I remove a splinter for you | Source and benefit readings need testing against phase and meaningful case retention | Phase scope and licensed retained-case readings |
 
-These are semantic diagnostics, not fully formed regression corpus entries. `LEXICON.tsv` and `EXAMPLES.tsv` remain empty until canonical word forms and valid interlinear examples exist. No historical derivation has been established.
+These are semantic diagnostics, not fully formed regression corpus entries. `LEXICON.tsv` and `EXAMPLES.tsv` remain empty until canonical word forms and valid interlinear examples exist. A Pre-Proto → Proto historical framework is established, but no concrete word-level derivation is yet canonical.
