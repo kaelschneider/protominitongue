@@ -40,11 +40,13 @@ The language has SOV order, active–stative alignment, relational phase prefixe
 
 ## Morphophonology
 
+**G-PHON-003.** Proto-Minitongue has layered morphophonology: the underlying morphological template remains analytically recoverable, while regular phonological processes may fuse or alter adjacent morphemes at their boundaries. Such surface allomorphy does not create new morphological slots. Exact boundary-repair mappings are UNSPECIFIED.
+
 ## Morphology
 
 ### Nominal morphology
 
-**G-MORPH-001.** Noun template: `NOUN-NUMBER-CASE`. Number categories and exponents are UNSPECIFIED. Case belongs on nouns, not in the verb template.
+**G-MORPH-001.** Noun template: `NOUN-NUMBER-CASE`. Number categories are singular, dual, and plural. The dual is used with natural pairs; its extension beyond natural pairs is UNSPECIFIED. Number exponents are UNSPECIFIED. Case belongs on nouns, not in the verb template.
 
 **G-MORPH-002.** Agents and active subjects receive an overt core case; patients and stative subjects are unmarked. Case exponents are UNSPECIFIED. The additional functional inventory is:
 
@@ -69,7 +71,7 @@ The language has SOV order, active–stative alignment, relational phase prefixe
 
 This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. Auxiliary and derivational inventories are UNSPECIFIED.
 
-**G-MORPH-005.** Grades: `a` nonfinite, `u` realis, `i` irrealis, `e` linking. Root shapes and grade realization are UNSPECIFIED.
+**G-MORPH-005.** Grades are suffixal stem formatives attached to the lexical root: `-a` nonfinite, `-u` realis, `-i` irrealis, `-e` linking. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels, with unequal productivity across these types. Exact root templates and distributions remain UNSPECIFIED.
 
 **G-MORPH-006.** Agent/subject suffixes: `-k` first person, `-t` second person, `-p` third person. Ordinary object/patient prefixes consist of `n-` plus `k/t/p` for first/second/third person. With an applicative, the applied object is indexed by `k/t/p` without `n-`. These distinctions do not establish person-number paradigms beyond person.
 
@@ -83,7 +85,7 @@ This is morphological notation, not a claim that every slot must be overt or tha
 
 **G-SYN-001.** Basic constituent order is SOV. Order between the original patient and an applied object is UNSPECIFIED.
 
-**G-SYN-002.** Alignment is active–stative. Verbs have usual marking patterns, with meaningful alternations where control or active involvement permits them. Detailed verb-class assignments and alternation restrictions are UNSPECIFIED.
+**G-SYN-002.** Alignment is active–stative. The system is fluid where differences in control, active involvement, or affectedness motivate an alternation, while some verbs are lexically fixed to one behavior. Detailed verb-class assignments and alternation restrictions are UNSPECIFIED.
 
 **G-SYN-003.** Adjectives are stative verbs.
 
