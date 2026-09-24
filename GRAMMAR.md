@@ -113,7 +113,19 @@ Before consonant-only case endings, /i/ is the generalized default theme-linker,
 
 Limited case stacking is productive but narrower than the general two-slot architecture suggests. GEN may serve as an inner case before LOC, INESS, SUPER, or PERL when an outer spatial relation compositionally scopes over a possessive or referential GEN relation; abstract relational GEN resists such stacking. DAT and ESS do not stack productively. Arbitrary case chains are ungrammatical. There is no productive Reference case: affected or animate endpoint functions fall to DAT, spatial anchors and routes to the spatial cases, and abstract nominal relations to GEN.
 
-**G-MORPH-003.** The productive nonfinite system contains a small set of semantic nominalizers centered on event/action, participant, and result/place functions, with participial extensions built from this system. A nominalized verb enters ordinary nominal morphology: `ROOT-a-NMLZ-NUMBER-(CASE)`, and may take construction-licensed stacked case like other referential nouns. Event/action nominalizations are normally singular unless construed as countable events. Converbs have the structure `a-grade nonfinite stem + nominalizer + case` and ordinarily take exactly one case; additional case stacking is not productive in the converb construction. Individual nominalizer, participle, and converb exponents remain UNSPECIFIED.
+**G-MORPH-003.** The productive nonfinite system is built on the `-a` grade and three semantic nominalizers:
+
+| Function | Exponent | Core interpretation |
+| --- | --- | --- |
+| EVENT/ACTION | `-n` | event, action, process |
+| PARTICIPANT | `-r` | participant in the event; role is construction-dependent |
+| RESULT/PLACE | `-t ~ -m` | `-t` for resulting state/place, `-m` for resulting object/means |
+
+The ordinary nominalized-verb template is `PHASE-(OBJ/PAT)-ROOT-a-(DERIV)-(AUX)-(APPL)-NMLZ-NUMBER-(CASE)`. Nonfinites suppress AGT/SUBJ indexing, tense, and finite aspect. Pre-root person indexing may survive only for a distinct internal patient/object or applied object; when a pre-root `r-` or `s-` valency marker is retained in a nonfinite and its associated participant is the nonfinite subject, the person consonant is suppressed with the other subject indexing. Referential event nominalizations normally express their subject as GEN. Productive nonfinite derivatives use the generalized /i/ linker before consonant-only case suffixes and do not enter an inherited noun class unless lexicalized. Event/action nominalizations are normally singular unless construed as countable events.
+
+Participles are attributive extensions of PARTICIPANT `-r`; they do not have separate active/passive morphology. The relativized participant's role follows the active–stative argument structure of the construction. If the relativized participant is the patient/object, its object indexing is suppressed as the participial gap.
+
+Converbs are EVENT `-n` plus exactly one case and do not productively stack further case. The core constructions are EVENT+ESS for simultaneous/circumstantial “while doing,” EVENT+INS for means/manner “by doing,” and EVENT+DAT for purpose “in order to do.” Converbs are normally controlled by a matrix argument; a different overt subject is permitted in ordinary case. Schematic outputs include `ROOT-a-n-e` EVENT+ESS, `ROOT-a-n-i-m` EVENT+INS, and `ROOT-a-n-i-r` EVENT+DAT.
 
 **G-MORPH-010.** The productive noun stem classes are ANIMATE, GROWING, LAND/WATER, and MADE. Their inherited theme profiles are respectively `-i`, `-a`, `-u`, and `Ø/C`. These themes are stem formatives rather than independent case suffixes. Historical apocope and lexical fusion mean that ABS.SG citation forms do not always display the theme overtly. New and productively formed nouns normally follow the semantic centers of the four classes, while inherited vocabulary may preserve older mismatches. A relic SOCIAL stratum survives in limited morphology but is not a fifth productive noun class.
 
@@ -137,21 +149,34 @@ COLL/PCL `-s` blocks the conservative class-theme case pockets of G-MORPH-011. B
 
 ### Verbal morphology
 
-**G-MORPH-004.** Verb template:
+**G-MORPH-004.** Finite verb template:
 
-`RELATIONAL PHASE-OBJ/PAT-ROOT+GRADE-(DERIV)-(AUX)-APPL-AGT/SUBJ-TENSE-ASPECT`
+`RELATIONAL PHASE-PRE-ROOT PARTICIPANT-ROOT+GRADE-(ITER/INTENS)-(CAUS)-(AUX)-APPL-AGT/SUBJ-TENSE-ASPECT`
 
-This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. DERIV and AUX form a small ordered derivational zone: DERIV precedes AUX, either may be absent, and only semantically and morphologically compatible combinations occur. Their inventories and exponents remain UNSPECIFIED.
+This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. PRE-ROOT PARTICIPANT contains the indexing/valency series of G-MORPH-006. Post-root derivation is deliberately small: productive iterative/intensive morphology precedes CAUS, which precedes AUX. Thus CAUS scopes over a modified iterative/intensive base. Only semantically and morphologically compatible combinations occur. Exact ITER/INTENS, CAUS, and AUX exponents remain UNSPECIFIED.
 
 **G-MORPH-005.** Grades are suffixal stem formatives attached to the lexical root: `-a` nonfinite, `-u` realis, `-i` irrealis, `-e` linking. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels. These are phonological root shapes, not separate conjugation classes: all use the same morphological architecture, and surface differences arise through phonology and morphophonology. Exact lexical distributions remain UNSPECIFIED.
 
-**G-MORPH-006.** Agent/subject suffixes: `-k` first person, `-t` second person, `-p` third person. Ordinary object/patient prefixes consist of `n-` plus `k/t/p` for first/second/third person. With an applicative, the applied object is indexed by `k/t/p` without `n-`. Verbal indexing encodes person only, never number; nominal or pronominal morphology carries number distinctions.
+**G-MORPH-006.** Agent/subject suffixes are `-k` first person, `-t` second person, and `-p` third person. The pre-root participant series combines a relation/valency marker with the same person consonants:
+
+| Series | Form | Function |
+| --- | --- | --- |
+| ordinary PAT/OBJ | `n-k/t/p-` | indexed patient/object |
+| VAL.RED | `r-k/t/p-` | reflexive, middle, or anticausative participant according to verb class |
+| RECIP | `s-k/t/p-` | reciprocal participant |
+| applied object | `k/t/p-` | applied participant selected by an applicative |
+
+In finite `r-` forms, the person consonant indexes the sole/core affected participant; reflexive clauses may therefore index the same person pre-root as patient and post-root as agent. Reciprocal clauses behave analogously for the reciprocal participants. The inherited reciprocal `s-` is synchronically independent of nominal COLL/PCL `-s`. Verbal indexing encodes person only, never number; nominal or pronominal morphology carries number distinctions.
 
 **G-MORPH-007.** Tense suffixes: `-i` nonpast, `-a` past. Aspect suffixes: zero imperfective, `-n` perfective.
 
 **G-MORPH-008.** Relational phase prefixes: `i-` positive, `a-` negative, zero neutral. Their interpretation is governed by G-SEM-001–004.
 
-**G-MORPH-009.** The two applicatives are affected-person (including beneficiaries and relevant gain/loss participants) and means (including instruments). Their exponents are UNSPECIFIED. Exactly one applicative may occur per verb. The applicative occupies APPL; it is not a case marker; any additional non-core participant must remain case-marked or be expressed by another construction.
+**G-MORPH-009.** The two applicatives are affected-person (including beneficiaries and relevant gain/loss participants) and means (including instruments). Their exponents are UNSPECIFIED. Exactly one applicative may occur per verb. The applicative occupies APPL; it is not a case marker; any additional non-core participant must remain case-marked or be expressed by another construction. Because applied-object indexing uses the same pre-root participant position as the `r-` valency-reducing and `s-` reciprocal series, applicatives do not combine with `r-` or `s-` forms.
+
+**G-MORPH-015.** Productive verbal derivation is intentionally compact. A single CAUS derivation increases valency; its exponent is UNSPECIFIED. In a causative of a transitive base, the original patient remains ABS/PAT and the causee is DAT. Iterative/intensive derivation occupies the preceding DERIV position and may combine with finite PERF `-n`, so event-internal iteration/intensity remains distinct from grammatical perfectivity. The exact ITER/INTENS exponent or internal subdivision is UNSPECIFIED.
+
+The pre-root `r-` series is a general valency reducer rather than a literal-reflexive-only marker: verb class and construction determine reflexive, middle, or anticausative interpretation. The `s-` series marks reciprocal valency. When either combines with CAUS, CAUS scopes over the already derived `r-/s-` base: schematically `r-ROOT-CAUS` means “cause [REFL/MID/ANTICAUS ROOT]” and `s-ROOT-CAUS` means “cause [RECIP ROOT].”
 
 ## Syntax
 
