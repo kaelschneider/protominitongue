@@ -131,7 +131,11 @@ Converbs are EVENT `-n` plus exactly one case and do not productively stack furt
 
 Class meanings are prototypes rather than exhaustive ontologies. ANIMATE contains humans and ordinary animals; GROWING centers on living plants and other growing sources; LAND/WATER centers on landscape, waters, and comparable environmental entities; MADE centers on artifacts, worked objects, and related portable products. Productive class shift is available for culturally salient changes of mode of existence, especially GROWING → extracted material → MADE. Derivational morphology may distinguish extraction/material formation from manufacture even when class morphology indicates the resulting category.
 
+Canonical lexical contrasts demonstrate that class follows mode of existence and construal rather than dictionary identity: GROWING `pana` “tree” contrasts with MADE `pan` “wood/timber”; LAND/WATER `kasu` “wild/natural fire” with MADE `kas` “hearth/controlled fire”; and GROWING `tana` “forest vegetation” with LAND/WATER `tanu` “forest tract/woodland territory.” Living body parts are ANIMATE. Detached anatomy may remain ANIMATE, while material worked from body substances such as bone, antler, or hide may shift to MADE.
+
 **G-MORPH-011.** Noun-class effects on case are asymmetrical historical pockets within one case system. GROWING preserves transparent `-a-` most strongly before LOC and PERL/INS, yielding productive schematic `ROOT-at` and `ROOT-am`; LAND/WATER preserves `-u-` strongly in the same domain, yielding `ROOT-ut` and `ROOT-um`. LAND/WATER also preserves older `u ~ Ø` alternation and fossil consonantal material in limited lexical/case pockets whose exact distribution is UNSPECIFIED. MADE normally follows the generalized /i/ pattern but older nouns may preserve direct/fused `-m` in PERL/INS. ANIMATE /i/ is largely obscured by its spread as the default linker, though high-frequency nouns retain a small irregular fusion pocket demonstrating its older class status; exact forms are UNSPECIFIED.
+
+The first canonical lexical residues are `nuru` “river/route,” with ordinary INS `nurum` but conservative route PERL `nurumi`, and MADE `ram` “boat,” whose high-frequency fossil INS is syncretic with ABS as `ram` while conservative PERL is `rammi`. These are lexical survivals, not new productive case allomorphs.
 
 Old SOCIAL morphology survives as person-sensitive allomorphy in DAT and COM. It is available to humans and to nonhuman referents construed as socially responsive persons, without changing the referent's lexical noun class. Conventionally person-like rivers, herds, ancestral places, and similar referents may favor these forms even when nonperson construal remains possible. The old SOCIAL marker is reconstructed only schematically as classifier-like `*Ci`; its consonant and the exact modern DAT/COM outputs remain UNSPECIFIED.
 
@@ -199,7 +203,7 @@ Inalienable possession is head-marked in the slot `NOUN-(COLL/PCL)-NUMBER-POSS-C
 
 **G-SYN-001.** Basic constituent order is SOV. Order between the original patient and an applied object is UNSPECIFIED.
 
-**G-SYN-002.** Alignment is active–stative. The system is fluid where differences in control, active involvement, or affectedness motivate an alternation, while some verbs are lexically fixed to one behavior. The alternation is expressed through argument case and choice of agreement position alone; there is no additional voice or alignment morpheme. Detailed verb-class assignments and alternation restrictions are UNSPECIFIED.
+**G-SYN-002.** Alignment is active–stative. The system is fluid where differences in control, active involvement, or affectedness motivate an alternation, while some verbs are lexically fixed to one behavior. The alternation is expressed through argument case and choice of agreement position alone; there is no additional voice or alignment morpheme. Lexical assignments are recorded in `LEXICON.tsv`. In the canonical bootstrap, MOVE and BREATHE/EMIT are genuinely fluid-S but active-biased; SLEEP and LIVE/GROW are strongly stative-biased and permit agentive-S only under exceptional deliberate-control or deliberate-maintenance coercion; BIG/MUCH, GOOD/FIT, and COLD are fixed stative. KNOW/REMEMBER is stative for possessed knowledge or memory but agentive for deliberate recall or attention. SAY, SEE/WITNESS, EAT, MAKE/SHAPE, CUT/SPLIT, BURN/COOK, JOIN/GATHER, and HANDLE/TRANSFER use ordinary transitive alignment by default. CUT/SPLIT and BURN/COOK productively license `r-` anticausatives; JOIN/GATHER and HANDLE/TRANSFER productively license middle/reflexive `r-` uses; the remaining bootstrap transitives restrict `r-` to lexically or constructionally licensed readings.
 
 **G-SYN-003.** Adjectives are stative verbs.
 
@@ -256,8 +260,13 @@ Abstract spatial-case uses develop as conventional extensions, not unrestricted 
 
 | Code | Name | Notes |
 | --- | --- | --- |
+| N | noun | Includes inherited classed nouns and lexicalized nominal derivatives. |
+| V | verb | Includes eventive and stative verbs; adjectives are stative verbs under G-SYN-003. |
 
 ### Project-specific gloss abbreviations
 
 | Abbreviation | Meaning | Notes |
 | --- | --- | --- |
+| TH | noun-class theme | Used in interlinear segmentation when an inherited class theme is overt. |
+| LNK | generalized linker | The generalized /i/ linker before consonant-only case endings. |
+| VAL.RED | valency reducer | Pre-root `r-` series covering reflexive, middle, or anticausative readings by verb class. |
