@@ -1,1 +1,21 @@
 example_id	judgment	text	ipa	segmentation	gloss	translation	rule_refs	violated_rule_refs	lexeme_refs	notes
+EX-0001	✓	panat	paˈnat	pan-a-t	tree-TH-LOC	at the tree	G-MORPH-010,G-MORPH-011		L-0024	GROWING theme remains before LOC.
+EX-0002	✓	panit	paˈnit	pan-i-t	wood-LNK-LOC	at/on the wood	G-MORPH-002,G-MORPH-010		L-0025	MADE noun takes generalized i-linker before consonant-only LOC.
+EX-0003	✓	kasut	kaˈsut	kas-u-t	wild.fire-TH-LOC	at the wild/natural fire	G-MORPH-010,G-MORPH-011		L-0020	LAND/WATER construal.
+EX-0004	✓	kasit	kaˈsit	kas-i-t	hearth-LNK-LOC	at the hearth/controlled fire	G-MORPH-002,G-MORPH-010		L-0021	MADE construal of the same semantic root.
+EX-0005	✓	tanat	taˈnat	tan-a-t	forest.vegetation-TH-LOC	in/at the living forest vegetation	G-MORPH-010,G-MORPH-011		L-0030	GROWING forest construal.
+EX-0006	✓	tanut	taˈnut	tan-u-t	forest.tract-TH-LOC	in/at the forest tract	G-MORPH-010,G-MORPH-011		L-0031	LAND/WATER forest-land construal.
+EX-0007	✓	nurum	nuˈrum	nur-u-m	river-TH-INS	by means of the river / using the river	G-MORPH-002,G-MORPH-011		L-0027	Ordinary INS contrasts with conservative PERL.
+EX-0008	✓	nurumi	nuˈrumi	nur-u-mi	river-TH-PERL	along/by way of the river	G-MORPH-002,G-MORPH-011		L-0027	Canonical route noun preserving PERL -mi.
+EX-0009	✓	ram	ram	ram	boat.INS	by boat	G-MORPH-011		L-0038	Lexicalized fossil INS is syncretic with ABS.
+EX-0010	✓	rammi	ˈram.mi	ram-mi	boat-PERL	along/by way of boat	G-PHON-005,G-MORPH-002,G-MORPH-011		L-0038	Conservative PERL -mi supplies a following nucleus, permitting gemination.
+EX-0011	✓	pirik	piˈrik	pir-i-k	child-TH-ERG	child (ERG)	G-MORPH-002,G-MORPH-010		L-0018	Citation apocope is blocked when suffixation protects the i-theme.
+EX-0012	✓	tamî	taˈmi	tam-i-i	hand-TH-1.POSS	my hand	G-PHON-008,G-MORPH-016		L-0022	Theme i plus 1POSS i contracts to heavy î.
+EX-0013	✓	murut	muˈrut	mur-u-t	stone-TH-LOC	at the stone	G-MORPH-011		L-0026	Apocopated ABS mur restores protected u-theme before LOC.
+EX-0014	✓	panasit	panaˈsit	pan-a-s-i-t	tree-TH-COLL-LNK-LOC	at a bounded stand/group of trees	G-MORPH-014		L-0024	COLL/PCL blocks the conservative GROWING case pocket and selects generalized i-linker.
+EX-0015	✓	kirje	ˈkir.je	kir-i-e	eye-TH-DU	the pair of eyes	G-PHON-008,G-MORPH-012		L-0023	Natural-pair dual; i+e > je.
+EX-0016	✓	ruki	ˈruki	r-u-k-i	move-REAL-1-NPST	I move / I go deliberately	G-MORPH-005,G-MORPH-006,G-SYN-002		L-0005	Active-biased fluid-S use with post-root agent indexing.
+EX-0017	✓	nikimui	nikiˈmu.i	n-k-m-u-i	PAT-1-sleep-REAL-NPST	I sleep / I am asleep	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-002		L-0003	Inactive-S indexes pre-root; epenthetic i repairs the initial consonant chain.
+EX-0018	✓	sinuki	siˈnuki	sn-u-k-i	remember-REAL-1-NPST	I deliberately recall / bring it to mind	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-002		L-0009	Agentive KNOW/REMEMBER construal denotes deliberate recall/attention.
+EX-0019	✓	pan nipitiruki	pan nipitiˈruki	pan n-p-tr-u-k-i	wood.ABS PAT-3-cut-REAL-1-NPST	I cut the wood	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-001		L-0025,L-0011	Ordinary transitive alignment; protected consonant chains are repaired by i-epenthesis.
+EX-0020	✓	ripitirui	ripitiˈru.i	r-p-tr-u-i	VAL.RED-3-cut-REAL-NPST	it splits / cuts open	G-PHON-010,G-MORPH-006,G-MORPH-015		L-0011	Productive CUT anticausative via the pre-root valency reducer.
