@@ -59,7 +59,7 @@ The locative series was reorganized around an older `*t` relational base plus fo
 
 PERL, INS, and COM descend from an older broad WITH/BY/THROUGH relation organized around `*m`. PERL and INS normally converge as `-m`, COM preserves `-ma`, and conservative PERL `-mi` remains productive with pronouns and a lexical set of canonical route/path nouns. The modern `m(V)` forms are indivisible case endings, but speakers recognize their relationship. Semantic and animacy-based specialization helps maintain the split: inanimate `-m` favors path, means, or functional association, while `-ma` favors companion/co-participant construal.
 
-Ordinary nominal ABS is zero. Pronouns preserve person-specific ABS stem alternations and additional conservative core-case relics from an older pronominal paradigm; their exact forms remain to be reconstructed.
+Ordinary nominal ABS is zero. Independent pronouns preserve an older, partly suppletive layer. Proto-Minitongue 1SG `na` and 2SG `si` are innovative strong stems; 1P inclusive `ma-` continues older comitative material, while 1P exclusive retains `na-`. The 2P and 3P nonsingular forms preserve old pronominal DU `*-i` and PL `*-a`. PERSON 3P `ri` continues an independent SOCIAL pronoun, while THING 3P `a` descends from a distal demonstrative. Core pronominal ERG `-ik`, GEN `-un`, and DAT `-ar` are relic endings of the older pronominal paradigm; ordinary sound change creates the modern syncretisms.
 
 The modern pre-case /i/ linker is historically the ANIMATE class theme generalized beyond its original lexical class. The older noun-class system was semantically motivated and classifier-like, then became stem-integrated and partly opaque. An older SOCIAL class merged productively with MOBILE-LIVING to yield ANIMATE, while residual SOCIAL morphology survived separately in person-sensitive DAT and COM. Its fuller marker is reconstructable only schematically as `*Ci`; the consonant remains UNSPECIFIED.
 
@@ -73,9 +73,21 @@ A bounded GROUP/PORTION formative developed as nominal collective/paucal `-s`. I
 
 A later attributive classifier layer developed partly from inherited class material and partly from newer semantic classifiers. Unlike lexical noun class, it remained sensitive to current construal and could cross-cut inherited declension, allowing, for example, a LAND/WATER noun to take SOCIAL/PERSON classification in ritual discourse without changing its lexical case behavior.
 
+
+### Possessive indexing
+
+Inalienable possessive suffixes 1P `-i`, 2P `-a`, and 3P `-u` continue an ancient possessive-enclitic series independent of both the modern independent pronouns and verbal person consonants. The series grammaticalized after nominal number but before case, yielding the modern order `NOUN-(COLL/PCL)-NUMBER-POSS-CASE`. Its intervention leveled older noun-class case pockets and SOCIAL DAT/COM allomorphy in possessed forms. Alienable GEN possession remained a separate construction. Regular vowel contact and later coda shortening account for the accepted possessive-number syncretisms rather than special possessive allomorphy.
+
+
+### Verbal relational and derivational morphology
+
+Affected-person applicative `-r` and means applicative `-m` descend from the same older relational material that also produced nominal DAT `-r` and INS `-m`; synchronically they are verbal applicatives, not incorporated case suffixes. CAUS `-t` continues an old transitivizing formative. Derivational `-s` and nominal COLL/PCL `-s` descend from a boundedness/grouping source whose verbal development produced bounded repetition/pluractionality with events and increased degree with states.
+
+A small closed set of older auxiliary verbs survives in complex predicates. The lexical verb retains its ordinary `-a/-u/-i` grade, while the following auxiliary bears linking `-e`. The identities and lexical forms of the surviving auxiliaries remain to be reconstructed.
+
 ### Final repair and stress
 
-After assimilation/fusion and resyllabification, remaining illegal structures undergo restricted deletion and then /i/-epenthesis where protected lexical or morphological material would otherwise be lost. Stress is assigned only after these processes.
+After assimilation/fusion and resyllabification, remaining illegal structures undergo restricted deletion and then /i/-epenthesis where protected lexical or morphological material would otherwise be lost. In multi-consonant morphological chains, repair proceeds from the rightmost problematic boundary leftward, inserting /i/ only as far left as necessary. Stress is assigned only after these processes.
 
 The resulting quantity-sensitive stress system selects the rightmost heavy syllable within the final three syllables; if that window contains no heavy syllable, stress is penultimate. All closed syllables are heavy, as are diphthongs and contracted bimoraic monophthongs.
 
