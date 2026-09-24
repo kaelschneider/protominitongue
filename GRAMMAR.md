@@ -81,13 +81,13 @@ The permitted `CjV` onset means glide formation is not blocked merely because a 
 
 If the following consonant is resyllabified as the onset of a following vowel-initial syllable, the heavy nucleus remains open and does not undergo this shortening.
 
-**G-PHON-010.** At consonant boundaries, natural assimilation or fusion applies first, then legal material is resyllabified. If an illegal structure remains, an onset-only /h/ or /j/ may delete when it cannot be legally resyllabified and is not protected lexical material. Root consonants, person markers, and grade vowels are protected from routine deletion. If protected material would otherwise remain phonotactically illegal, epenthetic /i/ repairs the structure.
+**G-PHON-010.** At consonant boundaries, natural assimilation or fusion applies first, then legal material is resyllabified. If an illegal structure remains, an onset-only /h/ or /j/ may delete when it cannot be legally resyllabified and is not protected lexical material. Root consonants, person markers, and grade vowels are protected from routine deletion. If protected material would otherwise remain phonotactically illegal, epenthetic /i/ repairs the structure. In a multi-consonant morphological chain, repair proceeds from the rightmost problematic boundary leftward, inserting /i/ only as far left as necessary; schematic `...t-r-k-i → ...t-ri-ki`.
 
 ## Morphology
 
 ### Nominal morphology
 
-**G-MORPH-001.** Productive nouns share one inflectional architecture: `NOUN-(COLL/PCL)-NUMBER-(INNER CASE)-(OUTER CASE)`. COLL/PCL is an optional stem-forming derivation under G-MORPH-014. Singular is zero, dual is `-e`, and plural is `-u`. Number scopes over the lexical or derived nominal stem before case relations apply. Four productive noun stem classes condition theme realization and limited surface allomorphy within this shared architecture; they are not four separate case paradigms. Case belongs on nouns, not in the verb template.
+**G-MORPH-001.** Productive nouns share one inflectional architecture: `NOUN-(COLL/PCL)-NUMBER-(POSS)-(INNER CASE)-(OUTER CASE)`. COLL/PCL is an optional stem-forming derivation under G-MORPH-014; POSS is the inalienable possessive-index slot of G-MORPH-016. Singular is zero, dual is `-e`, and plural is `-u`. Number scopes over the lexical or derived nominal stem before possessive indexing and case relations apply. Four productive noun stem classes condition theme realization and limited surface allomorphy within this shared architecture; they are not four separate case paradigms. Case belongs on nouns, not in the verb template.
 
 **G-MORPH-002.** The productive case inventory and ordinary nominal exponents are:
 
@@ -105,7 +105,7 @@ If the following consonant is resyllabified as the onset of a following vowel-in
 | COM | `-ma` | Companion or co-participant association |
 | ESS | `-e` | Temporary state, role, life-stage, circumstance, or temporary function/material construal |
 
-Pronouns preserve person-specific ABS stem alternations and several conservative core-case forms; their exact paradigm is UNSPECIFIED. Inalienable possession is productively head-marked by possessor indexing on the possessed noun, with older/high-frequency nouns permitted to preserve irregular indexed stems; the possessive exponents themselves remain UNSPECIFIED.
+Pronouns preserve person-specific ABS stems and conservative core-case relics under G-MORPH-016. Inalienable possession is productively head-marked by possessor indexing on the possessed noun under G-MORPH-016; alienable possession uses GEN.
 
 LOC `-t`, INESS `-ti`, and SUPER `-ta` form a synchronically recognizable `t(V)` family, and PERL/INS `-m`, conservative PERL `-mi`, and COM `-ma` form a recognizable `m(V)` family. Speakers recognize these relationships analogically, but the vowels are not independently productive morphemes. PERL and INS are normally syncretic in `-m`; `-mi` remains productively conservative on pronouns and canonical route/path nouns, whose lexical membership is UNSPECIFIED. With inanimate associates, `-m` favors functional/instrumental association while `-ma` can construe the referent as a companion or co-participant.
 
@@ -151,11 +151,11 @@ COLL/PCL `-s` blocks the conservative class-theme case pockets of G-MORPH-011. B
 
 **G-MORPH-004.** Finite verb template:
 
-`RELATIONAL PHASE-PRE-ROOT PARTICIPANT-ROOT+GRADE-(ITER/INTENS)-(CAUS)-(AUX)-APPL-AGT/SUBJ-TENSE-ASPECT`
+`RELATIONAL PHASE-PRE-ROOT PARTICIPANT-ROOT+GRADE-(ITER/INTENS)-(CAUS)-(AUX+LINKING)-(APPL)-AGT/SUBJ-TENSE-ASPECT`
 
-This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. PRE-ROOT PARTICIPANT contains the indexing/valency series of G-MORPH-006. Post-root derivation is deliberately small: productive iterative/intensive morphology precedes CAUS, which precedes AUX. Thus CAUS scopes over a modified iterative/intensive base. Only semantically and morphologically compatible combinations occur. Exact ITER/INTENS, CAUS, and AUX exponents remain UNSPECIFIED.
+This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. PRE-ROOT PARTICIPANT contains the indexing/valency series of G-MORPH-006. Post-root derivation is deliberately small: iterative/intensive `-s` precedes CAUS `-t`, which precedes a small closed AUX set; an overt AUX bears linking `-e`. The lexical verb retains its ordinary nonfinite/realis/irrealis grade rather than switching to linking grade before an auxiliary. Thus CAUS scopes over a modified iterative/intensive base. Only semantically and morphologically compatible combinations occur. The lexical identities and forms of the auxiliary set remain UNSPECIFIED.
 
-**G-MORPH-005.** Grades are suffixal stem formatives attached to the lexical root: `-a` nonfinite, `-u` realis, `-i` irrealis, `-e` linking. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels. These are phonological root shapes, not separate conjugation classes: all use the same morphological architecture, and surface differences arise through phonology and morphophonology. Exact lexical distributions remain UNSPECIFIED.
+**G-MORPH-005.** Grades are suffixal stem formatives: lexical verbs take `-a` nonfinite, `-u` realis, or `-i` irrealis. Linking `-e` marks an auxiliary stem in a complex predicate, while the lexical verb keeps the grade required by its own finite or nonfinite status. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels. These are phonological root shapes, not separate conjugation classes: all use the same morphological architecture, and surface differences arise through phonology and morphophonology. Exact lexical distributions remain UNSPECIFIED.
 
 **G-MORPH-006.** Agent/subject suffixes are `-k` first person, `-t` second person, and `-p` third person. The pre-root participant series combines a relation/valency marker with the same person consonants:
 
@@ -172,11 +172,28 @@ In finite `r-` forms, the person consonant indexes the sole/core affected partic
 
 **G-MORPH-008.** Relational phase prefixes: `i-` positive, `a-` negative, zero neutral. Their interpretation is governed by G-SEM-001–004.
 
-**G-MORPH-009.** The two applicatives are affected-person (including beneficiaries and relevant gain/loss participants) and means (including instruments). Their exponents are UNSPECIFIED. Exactly one applicative may occur per verb. The applicative occupies APPL; it is not a case marker; any additional non-core participant must remain case-marked or be expressed by another construction. Because applied-object indexing uses the same pre-root participant position as the `r-` valency-reducing and `s-` reciprocal series, applicatives do not combine with `r-` or `s-` forms.
+**G-MORPH-009.** The two applicatives are affected-person `-r` (including beneficiaries and relevant gain/loss participants) and means `-m` (including instruments). They descend from the same older relational material as nominal DAT `-r` and INS `-m`, rather than from productive copying of modern case endings. Exactly one applicative may occur per verb. The applicative occupies APPL; it is not a case marker; any additional non-core participant must remain case-marked or be expressed by another construction. Because applied-object indexing uses the same pre-root participant position as the `r-` valency-reducing and `s-` reciprocal series, applicatives do not combine with `r-` or `s-` forms.
 
-**G-MORPH-015.** Productive verbal derivation is intentionally compact. A single CAUS derivation increases valency; its exponent is UNSPECIFIED. In a causative of a transitive base, the original patient remains ABS/PAT and the causee is DAT. Iterative/intensive derivation occupies the preceding DERIV position and may combine with finite PERF `-n`, so event-internal iteration/intensity remains distinct from grammatical perfectivity. The exact ITER/INTENS exponent or internal subdivision is UNSPECIFIED.
+**G-MORPH-015.** Productive verbal derivation is intentionally compact. CAUS `-t` is the single productive valency-increasing derivation. In a causative of a transitive base, the original patient remains ABS/PAT and the causee is DAT. Iterative/intensive `-s` occupies the preceding DERIV position and is historically cognate with nominal COLL/PCL `-s`: with eventive predicates it favors bounded repetition/pluractionality, with stative predicates increased degree/intensity, and with telic predicates a bounded series where semantically available. It may combine with finite PERF `-n`, so event-internal boundedness/iteration/intensity remains distinct from grammatical perfectivity.
 
-The pre-root `r-` series is a general valency reducer rather than a literal-reflexive-only marker: verb class and construction determine reflexive, middle, or anticausative interpretation. The `s-` series marks reciprocal valency. When either combines with CAUS, CAUS scopes over the already derived `r-/s-` base: schematically `r-ROOT-CAUS` means “cause [REFL/MID/ANTICAUS ROOT]” and `s-ROOT-CAUS` means “cause [RECIP ROOT].”
+The pre-root `r-` series is a general valency reducer rather than a literal-reflexive-only marker: verb class and construction determine reflexive, middle, or anticausative interpretation. The `s-` series marks reciprocal valency and is synchronically distinct from both derivational `-s` and nominal COLL/PCL `-s`. When either pre-root series combines with CAUS, CAUS scopes over the already derived `r-/s-` base: schematically `r-ROOT-CAUS` means “cause [REFL/MID/ANTICAUS ROOT]” and `s-ROOT-CAUS` means “cause [RECIP ROOT].”
+
+
+**G-MORPH-016.** Independent pronouns preserve a conservative person/number subsystem. Strong ABS forms are:
+
+| Person | SG | DU | PL |
+| --- | --- | --- | --- |
+| 1 inclusive | — | `mai` | `mâ` |
+| 1 exclusive | `na` | `nai` | `nâ` |
+| 2 | `si` | `sî` | `sja` |
+| 3 PERSON | `ri` | `rî` | `rja` |
+| 3 THING | `a` | `ai` | `â` |
+
+The 1P inclusive stem descends from older comitative material, while the exclusive series continues the ordinary 1P stem. The 2P and both 3P series preserve old pronominal DU `-i` and PL `-a`; ordinary morphophonology produces the surface forms above. PERSON 3P `ri` is an old SOCIAL pronoun, whereas THING 3P `a` descends from a distal demonstrative. The PERSON/THING contrast is available only in independent reference: verbal indexing and possessive indexing have a single 3P value.
+
+Core pronominal cases preserve relic endings ERG `-ik`, GEN `-un`, and DAT `-ar`; other cases use the productive nominal case system, with conservative PERL `-mi`. Ordinary phonology applies to all combinations and may create syncretism, including 2SG~2PL and 3.PERSON.SG~PL in DAT. Pronouns do not take the separate SOCIAL DAT/COM noun allomorphy of G-MORPH-011.
+
+Inalienable possession is head-marked in the slot `NOUN-(COLL/PCL)-NUMBER-POSS-CASE` by 1P `-i`, 2P `-a`, and 3P `-u`. Possessive indexing marks person only, never possessor number, and the ancient possessive series is historically independent of both modern pronouns and verbal `k/t/p` indexing. Possession is suffixing. POSS blocks inherited noun-class case pockets and SOCIAL DAT/COM allomorphy; subsequent case inflection is uniform. Regular vowel contact and coda shortening may therefore create possessive-number syncretism, including SG~DU with 1POSS and SG~PL with 3POSS before some consonant-only cases. Alienable possession uses a GEN possessor instead. An overt possessor may accompany an indexed inalienable noun; GEN on such a co-occurring possessor is marked/emphatic rather than required.
 
 ## Syntax
 
@@ -227,7 +244,7 @@ Abstract spatial-case uses develop as conventional extensions, not unrestricted 
 
 **G-DISC-001.** Recoverable indexed pronouns may be omitted. Ordinary applied second-person participants such as “you” in “I cook bread for you” need not appear as overt nouns; the verb indexes them. Agent indexing likewise permits recoverable agent omission. Indexing distinguishes persons, not multiple nouns of the same person.
 
-**G-DISC-002.** Third-person reference is construal-sensitive: speakers may refer to the same eligible nonhuman referent in a more person-like or more thing-like way according to the discourse relation being foregrounded. Physical description does not require person-like reference, while reciprocity, intention, obligation, ritual interaction, or ancestry may favor it. The exact pronominal or referential forms realizing this contrast are UNSPECIFIED.
+**G-DISC-002.** Third-person reference is construal-sensitive: speakers may refer to the same eligible nonhuman referent in a more person-like way with independent PERSON forms based on `ri`, or in a more thing-like way with independent THING forms based on `a`, according to the discourse relation being foregrounded. Physical description does not require person-like reference, while reciprocity, intention, obligation, ritual interaction, or ancestry may favor it. Verbal and possessive 3P indexing does not encode this contrast.
 
 ## Orthography
 
