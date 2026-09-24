@@ -50,9 +50,9 @@ Phonology, morphophonology, nominal architecture, case, animacy, noun classes, n
 | --- | --- | --- |
 | Dance into/out of/inside a house | Positive/negative/neutral plus INESS `-ti`; no obligatory movement derivation | Root form |
 | Put onto/take off/reposition on a platform | Positive/negative/neutral plus SUPER `-ta` with a broad handling root | Root form |
-| I cook bread for you | Applied second-person indexing without n; first-person agent suffix; recoverable pronouns omitted | Phase interpretation and applicative exponent |
-| I take bread from you | Negative transfer can index you as applied object; bread remains unmarked | Root and applicative exponent |
-| I cut bread with a knife | Means applicative indexes knife; bread remains unmarked; redundant instrument case need not be retained | Same-person noun ordering; forms |
+| I cook bread for you | Applied second-person indexing without n; affected-person APPL `-r`; first-person agent suffix; recoverable pronouns omitted | Phase interpretation and root form |
+| I take bread from you | Negative transfer can index you as applied object with affected-person APPL `-r`; bread remains unmarked | Root form |
+| I cut bread with a knife | Means APPL `-m` indexes knife; bread remains unmarked; redundant instrument case need not be retained | Same-person noun ordering; root form |
 | I remove a splinter for you | Source and benefit readings need testing against phase and meaningful case retention | Phase scope and licensed retained-case readings |
 
 These are semantic diagnostics, not fully formed regression corpus entries. `LEXICON.tsv` and `EXAMPLES.tsv` remain empty until canonical word forms and valid interlinear examples exist. The Pre-Proto → Proto phonological system now specifies the required relative ordering and concrete outputs needed to derive canonical forms; absolute ordering of noninteracting historical changes is not asserted.
