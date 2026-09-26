@@ -39,7 +39,7 @@ No unresolved structural contradiction is known. Benefit plus separation now fol
 
 ## Regression coverage
 
-The permanent corpus now additionally includes strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, six explicit negative regressions, and an eight-clause connected stress text. No structural contradiction surfaced.
+The permanent corpus now additionally includes strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, seven explicit negative regressions, and an eight-clause connected stress text. No structural contradiction surfaced.
 
 ## Next useful tests
 
