@@ -27,8 +27,7 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 
 - The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
 - Lexeme-specific exceptions to the now-compositional default licensing of voice/applicative combinations will be discovered and recorded as the lexicon expands; the first corpus pass found no blocker among the tested BURN, CUT, MAKE, SAY, MOVE, and SEE constructions.
-- No canonical lexicalized `ROOT-m-s` stem currently exists, so the reverse-order lexical exception stated in G-MORPH-015 remains a lexical coverage gap rather than a tested pattern.
-- The lexically restricted route/path nouns that retain conservative PERL `-mi` beyond canonical `nuru` remain to be delimited; this is lexical membership, not a new case-system question.
+- The lexically listed route/path nouns that retain conservative PERL `-mi` beyond canonical `nuru` and `ram` remain to be expanded as vocabulary grows; the licensing principle is settled, but membership remains lexical.
 
 ## Provisional systems
 
@@ -40,10 +39,10 @@ No unresolved structural contradiction is known. Benefit plus separation now fol
 
 ## Regression coverage
 
-The permanent corpus now includes unseen MID and ANTIP uses, AFFECTED/ORIENTEE/GROUND applicatives, productive `ROOT-s-m`, both reversible AUX scope pairs on non-MOVE predicates, FINISH+NECESSARY, and a connected five-clause text combining a DEP relative, object-topic fronting, converbial continuity, BNI, a finite FACT complement, applied addressee syntax, and explicit third-person reintroduction. No new structural contradiction surfaced.
+The permanent corpus now additionally includes strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, six explicit negative regressions, and an eight-clause connected stress text. No structural contradiction surfaced.
 
 ## Next useful tests
 
-The highest-value next pass is lexical rather than architectural: canonize at least one genuine lexicalized `ROOT-m-s` stem so the reverse-order residue can be regressed against productive `ROOT-s-m`; broaden the verb lexicon into transfer, social exchange, posture, and scalar/change-of-state domains; then test two-applicative stacks, local-person U override, PO/non-PO relatives, and reference ambiguity in another connected text.
+The highest-value next pass is broader lexical coverage rather than architectural repair: expand social-exchange and scalar/change-of-state verbs, discover genuine lexeme-specific voice/applicative blocking, add further conventional route nouns only when lexical evidence motivates `-mi`, and continue connected-text testing with denser same-person reference chains and mixed relative roles.
 
 Permanent regression examples live in `EXAMPLES.tsv`. New connected text should continue to expose missing lexical coverage without creating ad hoc grammar; any genuinely new construction should be marked UNSPECIFIED and designed deliberately.
