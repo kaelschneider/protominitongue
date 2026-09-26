@@ -25,34 +25,25 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 
 ## Active questions
 
-- Remaining noun-class residue questions are the consonant of relic SOCIAL `*Ci`, the resulting person-sensitive DAT/COM allomorphs, additional LAND/WATER consonantal relic cells beyond the canonical bootstrap, additional ANIMATE high-frequency fusion relics, and the exact attributive-classifier exponents/final inventory. The bootstrap apocope set and the `nuru`/`ram` fossils are canonical.
-- How is phase selected when separation and benefit coexist, as in “I remove a splinter for your benefit”? Participant-oriented, event-oriented, and class-specific analyses were offered; none was selected.
-- Affected-person applicative `-r`, means applicative `-m`, CAUS `-t`, and ITER/INTENS `-s` are established. AUX is a small closed set whose members/forms remain UNSPECIFIED; lexical verbs retain `-a/-u/-i` grade and auxiliaries bear linking `-e`. The exact PART reflex in the planned `WHOLE-GEN + PART` construction remains UNSPECIFIED. The 16-verb bootstrap now has canonical active–stative assignments; broader lexical distributions and future verb-class membership remain open as the lexicon expands.
-- `nuru` “river/route” and `ram` “boat” are canonical conservative PERL members; the broader lexical set of route/path nouns preserving `-mi` and any further noun-specific inherited linker vowels remain UNSPECIFIED. The pronominal and possessive paradigms are canonical.
-- Ordering and disambiguation of original patient versus applied object when both have the same person are UNSPECIFIED. Patient-before-applied-object was a testing convention, not a separately accepted rule.
-- Historical derivations of the EVENT/PARTICIPANT/RESULT nominalizers, participial extension, converb case constructions, `r-` valency reducer, and reciprocal `s-` remain to be developed in detail. CAUS `-t`, derivational bounded/pluractional `-s`, applicative `-r/-m`, and possessive indexing now have accepted historical sources at the current level of reconstruction.
+- Remaining noun-class residue questions are the consonant of relic SOCIAL `*Ci`, resulting person-sensitive DAT/COM allomorphs, further LAND/WATER and ANIMATE residue cells, and final attributive-classifier exponents/inventory.
+- REL selection where separation and benefit coexist remains construction-specific; the splinter-removal diagnostic still needs lexical/corpus testing.
+- Core AUX classes are fixed as BEGIN, CONTINUE, FINISH, ABLE, INTEND, NECESSARY, but their lexical forms, full class-order table, and any reversible scope pairs remain UNSPECIFIED.
+- The exact PART reflex in the planned `WHOLE-GEN + PART` construction remains UNSPECIFIED.
+- The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
+- Broader lexical distributions of alignment, voice licensing, applicative compatibility, and lexicalized derivational stacks remain open as the lexicon expands.
 
 ## Provisional systems
 
-- The creator's latest direction is that benefit would most likely use positive `i-`. Its exact scope is not settled. Do not implement retained beneficiary case as a general override making a negative transfer construction benefactive.
-- Negative transfer indexing an affected person has been tested with “I take bread from you” as the default reading. Do not generalize this to all affected-person constructions without testing.
-- Splinter removal was accepted as potentially source- or beneficiary-oriented depending on context. Overt retained case may clarify a relation only where its interpretation is established. Its interaction with the latest positive-phase preference for benefit remains open.
+- Benefit most likely favors INCREASE `i-`, but there is no general benefactive override of DECREASE in events that also encode separation.
+- Negative transfer indexing an affected person is licensed in tested constructions but should not be generalized to every affected-participant event without lexical evidence.
+- Splinter removal may be source- or beneficiary-oriented depending on construal; overt retained case can clarify only independently licensed relations.
 
 ## Known conflicts
 
-The earlier proposed negative-phase benefit reading and the later preference for positive phase for benefit are not yet reconciled for events that combine separation and benefit. The grammar records neither a universal benefactive override nor a universal phase-scope rule.
+No unresolved structural contradiction remains in the verbal architecture. The remaining semantic tension is REL selection when one event simultaneously instantiates separation and benefit; this is intentionally left construction-specific pending corpus/lexical testing.
 
 ## Next useful tests
 
-Phonology, morphophonology, nominal architecture, case, animacy, noun classes, number, nonfinite morphology, the core verbal exponent system, pronouns, inalienable possession, and the first lexical bootstrap are canonical and regression-tested. `LEXICON.tsv` now contains the core bootstrap with lexical alignment assignments, class-shift pairs, moderate historical apocope, and the first residual case forms; `EXAMPLES.tsv` contains permanent regression examples for those interactions. The next decisive morphology work is selection of the AUX inventory/forms, the GEN-based partitive construction, and the remaining SOCIAL DAT/COM residue.
+The layered verbal architecture is canonical and regression-tested: REL, VOICE, U/A agreement, PO/U separation, four grades, pre-grade lexical derivation, INST, three applicatives, productive CAUS, AUX layering, tense/aspect, nominalization/converbs, BNI, relativization, and negation now share one analysis. The next high-value work is lexical rather than architectural: establish AUX lexemes/forms, expand voice/applicative lexical licensing, test BNI and relative constructions in connected text, complete the GEN-based partitive, and resolve remaining SOCIAL DAT/COM residue.
 
-| Diagnostic | Established expectation | Remaining dependency |
-| --- | --- | --- |
-| Dance into/out of/inside a house | Positive/negative/neutral plus INESS `-ti`; no obligatory movement derivation | Root form |
-| Put onto/take off/reposition on a platform | Positive/negative/neutral plus SUPER `-ta` with a broad handling root | Root form |
-| I cook bread for you | Applied second-person indexing without n; affected-person APPL `-r`; first-person agent suffix; recoverable pronouns omitted | Phase interpretation and root form |
-| I take bread from you | Negative transfer can index you as applied object with affected-person APPL `-r`; bread remains unmarked | Root form |
-| I cut bread with a knife | Means APPL `-m` indexes knife; bread remains unmarked; redundant instrument case need not be retained | Same-person noun ordering; root form |
-| I remove a splinter for you | Source and benefit readings need testing against phase and meaningful case retention | Phase scope and licensed retained-case readings |
-
-The table above remains a discovery queue for constructions whose missing noun vocabulary or phase scope is not yet canonical. Permanent lexical and morphophonological regression examples now live in `EXAMPLES.tsv`. The Pre-Proto → Proto phonological system specifies the required relative ordering and concrete outputs needed to derive canonical forms; absolute ordering of noninteracting historical changes is not asserted.
+Permanent regression examples live in `EXAMPLES.tsv`; superseded `r-` VAL.RED anticausative analyses have been replaced by MID `j-` + U. The Pre-Proto → Proto history now records the accepted grammaticalization paths while leaving only genuinely unreconstructed lexical sources/conditioning marked open.
