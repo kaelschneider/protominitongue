@@ -14,7 +14,7 @@ This file is the canonical synchronic specification of Proto-Minitongue. Record 
 
 ## Design brief
 
-The language has SOV order, active–stative alignment, relational phase prefixes, and two applicatives. Case and verbal indexing jointly express participant relations. Semantic classes organize phase contrasts without forming a closed inventory.
+The language has SOV order and lexical-class-constrained active–stative alignment. Its predicate is layered into REL, VOICE, U agreement, lexical stem formation and grade, INST, VAL/APPL, AUX, A agreement, tense, and viewpoint aspect. PO syntax and U agreement are related but explicitly non-identical.
 
 ## Conventions
 
@@ -81,8 +81,7 @@ The permitted `CjV` onset means glide formation is not blocked merely because a 
 
 If the following consonant is resyllabified as the onset of a following vowel-initial syllable, the heavy nucleus remains open and does not undergo this shortening.
 
-**G-PHON-010.** At consonant boundaries, natural assimilation or fusion applies first, then legal material is resyllabified. If an illegal structure remains, an onset-only /h/ or /j/ may delete when it cannot be legally resyllabified and is not protected lexical material. Root consonants, person markers, and grade vowels are protected from routine deletion. If protected material would otherwise remain phonotactically illegal, epenthetic /i/ repairs the structure. In a multi-consonant morphological chain, repair proceeds from the rightmost problematic boundary leftward, inserting /i/ only as far left as necessary; schematic `...t-r-k-i → ...t-ri-ki`.
-
+**G-PHON-010.** At consonant boundaries, natural assimilation or fusion applies first, then legal material is resyllabified. INST `-h` has productive strengthening before ordinary consonants: `hp ht hk hm hn hs hr → pp tt kk mm nn ss rr`. Elsewhere onset-only /h j/ may delete only when unprotected and not legally resyllabifiable. Root consonants, person markers, grade vowels, and productive VOICE/INST/ASPECT exponents are protected. Protected word-final INST `-h` and IPFV `-j` therefore receive epenthetic /i/; protected MID `j-` likewise triggers the minimum /i/-epenthesis needed to preserve MID plus following U morphology. Remaining protected illegal material is repaired by /i/-epenthesis. In multi-consonant chains repair proceeds from the rightmost problematic boundary leftward.
 ## Morphology
 
 ### Nominal morphology
@@ -113,20 +112,17 @@ Before consonant-only case endings, /i/ is the generalized default theme-linker,
 
 Limited case stacking is productive but narrower than the general two-slot architecture suggests. GEN may serve as an inner case before LOC, INESS, SUPER, or PERL when an outer spatial relation compositionally scopes over a possessive or referential GEN relation; abstract relational GEN resists such stacking. DAT and ESS do not stack productively. Arbitrary case chains are ungrammatical. There is no productive Reference case: affected or animate endpoint functions fall to DAT, spatial anchors and routes to the spatial cases, and abstract nominal relations to GEN.
 
-**G-MORPH-003.** The productive nonfinite system is built on the `-a` grade and three semantic nominalizers:
+**G-MORPH-003.** Productive predicate nominalization is built on NONFINITE `-a` and has three independently sourced domains:
 
-| Function | Exponent | Core interpretation |
-| --- | --- | --- |
-| EVENT/ACTION | `-n` | event, action, process |
-| PARTICIPANT | `-r` | participant in the event; role is construction-dependent |
-| RESULT/PLACE | `-t ~ -m` | `-t` for resulting state/place, `-m` for resulting object/means |
+| Domain | Exponent | Core interpretation | Verbal retention |
+| --- | --- | --- | --- |
+| STATE | `-k` | state, result, circumstance | strongly noun-like; agreement/TAM normally suppressed |
+| EVENT | `-n` | event, action, process | intermediate; limited A/U may survive, but finite tense/aspect normally does not |
+| FACT | `-p` | proposition, fact | most clause-like; agreement normally survives, tense usually survives, aspect survives when contrastive or constructionally required |
 
-The ordinary nominalized-verb template is `PHASE-(OBJ/PAT)-ROOT-a-(DERIV)-(AUX+LINKING)-(APPL)-NMLZ-NUMBER-(CASE)`. Nonfinites suppress AGT/SUBJ indexing, tense, and finite aspect. Pre-root person indexing may survive only for a distinct internal patient/object or applied object; when a pre-root `r-` or `s-` valency marker is retained in a nonfinite and its associated participant is the nonfinite subject, the person consonant is suppressed with the other subject indexing. Referential event nominalizations normally express their subject as GEN. Productive nonfinite derivatives use the generalized /i/ linker before consonant-only case suffixes and do not enter an inherited noun class unless lexicalized. Event/action nominalizations are normally singular unless construed as countable events.
+REL remains inside the nominalized predicate. Old PARTICIPANT `-r` and RESULT/PLACE `-t ~ -m` are lexical or fossil morphology, not productive nominalizers.
 
-Participles are attributive extensions of PARTICIPANT `-r`; they do not have separate active/passive morphology. The relativized participant's role follows the active–stative argument structure of the construction. If the relativized participant is the patient/object, its object indexing is suppressed as the participial gap.
-
-Converbs are EVENT `-n` plus exactly one case and do not productively stack further case. The core constructions are EVENT+ESS for simultaneous/circumstantial “while doing,” EVENT+INS for means/manner “by doing,” and EVENT+DAT for purpose “in order to do.” Converbs are normally controlled by a matrix argument; a different overt subject is permitted in ordinary case. Schematic outputs include `ROOT-a-n-e` EVENT+ESS, `ROOT-a-n-i-m` EVENT+INS, and `ROOT-a-n-i-r` EVENT+DAT.
-
+Productive converbs are conventional EVENT+CASE constructions: EVENT+ESS is simultaneous/circumstantial, EVENT+INS means/manner, and EVENT+DAT purpose. Converbs take one outer case. There is no productive ABL case; source/separation meanings use REL plus existing case, another relational construction, or lexicalized/fused morphology. Attributive and relative predicates use DEP under G-SYN-006.
 **G-MORPH-010.** The productive noun stem classes are ANIMATE, GROWING, LAND/WATER, and MADE. Their inherited theme profiles are respectively `-i`, `-a`, `-u`, and `Ø/C`. These themes are stem formatives rather than independent case suffixes. Historical apocope and lexical fusion mean that ABS.SG citation forms do not always display the theme overtly. New and productively formed nouns normally follow the semantic centers of the four classes, while inherited vocabulary may preserve older mismatches. A relic SOCIAL stratum survives in limited morphology but is not a fifth productive noun class.
 
 Class meanings are prototypes rather than exhaustive ontologies. ANIMATE contains humans and ordinary animals; GROWING centers on living plants and other growing sources; LAND/WATER centers on landscape, waters, and comparable environmental entities; MADE centers on artifacts, worked objects, and related portable products. Productive class shift is available for culturally salient changes of mode of existence, especially GROWING → extracted material → MADE. Derivational morphology may distinguish extraction/material formation from manufacture even when class morphology indicates the resulting category.
@@ -153,35 +149,37 @@ COLL/PCL `-s` blocks the conservative class-theme case pockets of G-MORPH-011. B
 
 ### Verbal morphology
 
-**G-MORPH-004.** Finite verb template:
+**G-MORPH-004.** Abstract predicate template:
 
-`RELATIONAL PHASE-PRE-ROOT PARTICIPANT-ROOT+GRADE-(ITER/INTENS)-(CAUS)-(AUX+LINKING)-(APPL)-AGT/SUBJ-TENSE-ASPECT`
+`NEG | REL–VOICE–U–[ROOT–LEX.DERIV¹⁻²]⟨GRADE⟩–INST–VAL/APPL¹⁻²–AUX¹⁻²–A–TENSE–ASPECT`
 
-This is morphological notation, not a claim that every slot must be overt or that concatenated representations already satisfy phonotactics. PRE-ROOT PARTICIPANT contains the indexing/valency series of G-MORPH-006. Post-root derivation is deliberately small: iterative/intensive `-s` precedes CAUS `-t`, which precedes a small closed AUX set; an overt AUX bears linking `-e`. The lexical verb retains its ordinary nonfinite/realis/irrealis grade rather than switching to linking grade before an auxiliary. Thus CAUS scopes over a modified iterative/intensive base. Only semantically and morphologically compatible combinations occur. The lexical identities and forms of the auxiliary set remain UNSPECIFIED.
+Morphological position, morphosyntactic selection, and semantic scope are distinct. Maximal forms are licensed only when every combination is lexically and semantically compatible. One layer is ordinary in each recursive domain; at most two LEX.DERIV, VAL/APPL, or AUX operators are productive. VOICE is normally singular. Denser apparent stacks favor lexicalization or restructuring.
 
-**G-MORPH-005.** Grades are suffixal stem formatives: lexical verbs take `-a` nonfinite, `-u` realis, or `-i` irrealis. Linking `-e` marks an auxiliary stem in a complex predicate, while the lexical verb keeps the grade required by its own finite or nonfinite status. The inherited root inventory includes monoconsonantal roots, biconsonantal roots, and roots containing lexical vowels. These are phonological root shapes, not separate conjugation classes: all use the same morphological architecture, and surface differences arise through phonology and morphophonology. Exact lexical distributions remain UNSPECIFIED.
+**G-MORPH-005.** Grades are NONFINITE `-a`, REAL/INDEPENDENT `-u`, IRREALIS `-i`, and DEPENDENT `-e`. REAL marks ordinary independent assertion; IRREALIS marks projected/nonactual status; DEP serves attributive, relative, adverbial, secondary-predicate, and young complex-predicate constructions; NF supplies nominalization and converb bases. Young AUX take DEP `-e`; older bound AUX lose independent grading.
 
-**G-MORPH-006.** Agent/subject suffixes are `-k` first person, `-t` second person, and `-p` third person. The pre-root participant series combines a relation/valency marker with the same person consonants:
+**G-MORPH-006.** Agreement has two person-only series. A-series is post-AUX: 1 `-k`, 2 `-t`, 3 `-p`. U-series is pre-root: 1 `n-k-`, 2 `n-t-`, 3 `n-p-`. A indexes Actor/event-source; U indexes Undergoer/event-locus or another selected U-controller. Only one U marker surfaces. PO and U-controller are distinct: argument structure and valency first establish PO eligibility, then local person can override U control without changing PO. First/second persons outrank third person for U control; when 1 and 2 compete, PO breaks the tie.
 
-| Series | Form | Function |
+**G-MORPH-007.** Tense remains NONPAST `-i` and PAST `-a`. Independent finite predicates obligatorily contrast them; DEP normally lacks tense except in licensed finite-dependent constructions. Outer aspect is `Ø` neutral, PFV `-n`, IPFV `-j`, HAB `-r`. HAB normally contrasts with rather than stacks with PFV/IPFV. IPFV descends from CONTINUE; protected final `-j` surfaces with epenthetic /i/. HAB descends from LIVE/STAY; a fuller semi-productive LIVE/STAY customary/durative construction survives outside the core AUX inventory.
+
+**G-MORPH-008.** REL is INCREASE `i-`, MAINTAIN `Ø`, DECREASE `a-`. INCREASE marks convergence, entry, strengthening, or increasing relation; DECREASE marks divergence, exit, weakening, or decreasing relation; zero marks maintenance or lexical baseline. REL modifies the resulting voiced predicate and is construction- and lexical-class-conditioned.
+
+**G-MORPH-009.** Three productive applicatives occupy VAL/APPL:
+
+| Applicative | Exponent | Semantic center |
 | --- | --- | --- |
-| ordinary PAT/OBJ | `n-k/t/p-` | indexed patient/object |
-| VAL.RED | `r-k/t/p-` | reflexive, middle, or anticausative participant according to verb class |
-| RECIP | `s-k/t/p-` | reciprocal participant |
-| applied object | `k/t/p-` | applied participant selected by an applicative |
+| AFFECTED | `-r` | beneficiary/maleficiary, affected possessor/container/surface, affected participant |
+| ORIENTEE | `-p` | addressee, recipient, perceptual target, social counterpart, comparison standard |
+| GROUND | `-m` | location, path, medium, instrument |
 
-In finite `r-` forms, the person consonant indexes the sole/core affected participant; reflexive clauses may therefore index the same person pre-root as patient and post-root as agent. Reciprocal clauses behave analogously for the reciprocal participants. The inherited reciprocal `s-` is synchronically independent of nominal COLL/PCL `-s`. Verbal indexing encodes person only, never number; nominal or pronominal morphology carries number distinctions.
+AFF and GRD continue relational material also reflected in nominal DAT `-r` and INS/PERL `-m`; ORI `-p` grammaticalized from a TURN/FACE counterpart construction. CASE expresses participant relation; APPL integrates a participant into core event structure, so meaningful case may remain visible. An applied argument normally outranks an unapplied theme for PO. With two applicatives the outer applicative normally supplies PO; construction-specific exceptions remain possible. Applicative order may express scope.
 
-**G-MORPH-007.** Tense suffixes: `-i` nonpast, `-a` past. Aspect suffixes: zero imperfective, `-n` perfective.
+**G-MORPH-015.** Lexical derivation precedes grade. PLACT/INT `-s` gives event-internal plurality/distribution with events and intensive lexical predicates with appropriate statives. LEX.CAUS `-m` descends from MAKE/SHAPE. Derived stems receive their own alignment properties; LEX.CAUS has only a default transitive bias. Productive syntactic CAUS is post-grade `-t`: the causer controls A by default, the highest remaining non-A is default PO, and the causee is DAT unless separately promoted. Thus pre-grade LEX.CAUS `-m` and post-grade VAL.CAUS `-t` remain distinct.
 
-**G-MORPH-008.** Relational phase prefixes: `i-` positive, `a-` negative, zero neutral. Their interpretation is governed by G-SEM-001–004.
+**G-MORPH-017.** VOICE is REFL `r-`, MID `j-`, RECP `s-`, ANTIP `ma-`. REFL identifies Actor and Undergoer and yields one S, which takes one agreement series by ordinary alignment. MID suppresses external-Actor construal or presents internal arising; CUT/SPLIT and BURN/COOK anticausatives use MID plus U. RECP distributes reciprocal relations across a plural/set participant. ANTIP demotes the current PO; COM `-ma` is the default demotion case, and PO is recomputed from remaining eligible arguments.
 
-**G-MORPH-009.** The two applicatives are affected-person `-r` (including beneficiaries and relevant gain/loss participants) and means `-m` (including instruments). They descend from the same older relational material as nominal DAT `-r` and INS `-m`, rather than from productive copying of modern case endings. Exactly one applicative may occur per verb. The applicative occupies APPL; it is not a case marker; any additional non-core participant must remain case-marked or be expressed by another construction. Because applied-object indexing uses the same pre-root participant position as the `r-` valency-reducing and `s-` reciprocal series, applicatives do not combine with `r-` or `s-` forms.
+**G-MORPH-018.** INST `-h` follows grade and marks a salient particular manifestation/token of a property or event. It is not perfective, punctual, telic, completive, realis, past, nominalization, or an alignment selector. Before ordinary consonants it fuses by strengthening under G-PHON-010; otherwise protected `-h` survives through ordinary epenthesis. FACT normally restricts INST.
 
-**G-MORPH-015.** Productive verbal derivation is intentionally compact. CAUS `-t` is the single productive valency-increasing derivation. In a causative of a transitive base, the original patient remains ABS/PAT and the causee is DAT. Iterative/intensive `-s` occupies the preceding DERIV position and is historically cognate with nominal COLL/PCL `-s`: with eventive predicates it favors bounded repetition/pluractionality, with stative predicates increased degree/intensity, and with telic predicates a bounded series where semantically available. It may combine with finite PERF `-n`, so event-internal boundedness/iteration/intensity remains distinct from grammatical perfectivity.
-
-The pre-root `r-` series is a general valency reducer rather than a literal-reflexive-only marker: verb class and construction determine reflexive, middle, or anticausative interpretation. The `s-` series marks reciprocal valency and is synchronically distinct from both derivational `-s` and nominal COLL/PCL `-s`. When either pre-root series combines with CAUS, CAUS scopes over the already derived `r-/s-` base: schematically `r-ROOT-CAUS` means “cause [REFL/MID/ANTICAUS ROOT]” and `s-ROOT-CAUS` means “cause [RECIP ROOT].”
-
+**G-MORPH-019.** Core AUX are BEGIN, CONTINUE, FINISH, ABLE, INTEND, NECESSARY. Zero or one AUX is ordinary; two may combine in class-based default order, with selected reversible pairs for true scope contrasts. Exact lexical forms remain UNSPECIFIED. Young AUX retain DEP `-e`; older bound AUX lose grade. CONTINUE is also the source of IPFV `-j`. LIVE/STAY is semi-productive outside the core AUX inventory beside descendant HAB `-r`. Narrow AUX negation uses a less-bound construction such as `ABLE [NEG V]`; propositional NEG precedes the whole finite predicate.
 
 **G-MORPH-016.** Independent pronouns preserve a conservative person/number subsystem. Strong ABS forms are:
 
@@ -201,44 +199,28 @@ Inalienable possession is head-marked in the slot `NOUN-(COLL/PCL)-NUMBER-POSS-C
 
 ## Syntax
 
-**G-SYN-001.** Basic constituent order is SOV. Order between the original patient and an applied object is UNSPECIFIED.
+**G-SYN-001.** Basic constituent order is SOV. PO tends toward the immediately preverbal object position, but information structure may override this tendency.
 
-**G-SYN-002.** Alignment is active–stative. The system is fluid where differences in control, active involvement, or affectedness motivate an alternation, while some verbs are lexically fixed to one behavior. The alternation is expressed through argument case and choice of agreement position alone; there is no additional voice or alignment morpheme. Lexical assignments are recorded in `LEXICON.tsv`. In the canonical bootstrap, MOVE and BREATHE/EMIT are genuinely fluid-S but active-biased; SLEEP and LIVE/GROW are strongly stative-biased and permit agentive-S only under exceptional deliberate-control or deliberate-maintenance coercion; BIG/MUCH, GOOD/FIT, and COLD are fixed stative. KNOW/REMEMBER is stative for possessed knowledge or memory but agentive for deliberate recall or attention. SAY, SEE/WITNESS, EAT, MAKE/SHAPE, CUT/SPLIT, BURN/COOK, JOIN/GATHER, and HANDLE/TRANSFER use ordinary transitive alignment by default. CUT/SPLIT and BURN/COOK productively license `r-` anticausatives; JOIN/GATHER and HANDLE/TRANSFER productively license middle/reflexive `r-` uses; the remaining bootstrap transitives restrict `r-` to lexically or constructionally licensed readings.
+**G-SYN-002.** Alignment is active–stative/semantic alignment constrained by lexical class. Active S and transitive A normally control A; inactive/stative S and selected non-A arguments normally control U. MOVE and BREATHE/EMIT are fluid-S but active-biased; SLEEP and LIVE/GROW are strongly U/stative-biased; BIG/MUCH, GOOD/FIT, and COLD are fixed U/stative. KNOW/REMEMBER is U/stative for possessed knowledge/memory but A-aligned for deliberate recall/attention. The bootstrap transitives remain transitive by default. CUT/SPLIT and BURN/COOK productively license MID anticausatives; JOIN/GATHER and HANDLE/TRANSFER license MID and/or REFL readings according to lexical semantics.
 
-**G-SYN-003.** Adjectives are stative verbs.
+**G-SYN-003.** Adjectival meanings are stative verbs.
 
-**G-SYN-004.** An applicative selects its applied participant for object indexing. The original patient remains unmarked and is not indexed in that slot. An overt applied noun is unmarked when its case would add nothing; it may retain case when case contributes a meaningful distinction. Individual retained-case interpretations must be licensed by the construction, not invented from the intended translation.
+**G-SYN-004.** PO is the syntactically privileged non-A argument; U-controller is the participant realized by U agreement. Determine them in this order: establish core arguments; select constructional PO; apply valency/applicative changes; apply local-person U override; realize one U marker. Applicativization makes its participant PO-eligible. ANTIP demotes current PO and recomputes PO. A local non-PO may therefore control U without becoming PO.
 
+**G-SYN-005.** Productive BNI is syntactic/pseudo-incorporation: the noun remains phonologically separate, is typically low-referential, theme-like, non-PO, immediately preverbal, and semantically integrated. Bare noun alone does not diagnose BNI. Genuine BNI cannot control U; indexing requires de-incorporation or promotion. ANTIP strongly favors later BNI of its demoted theme but neither requires the other. A recurrent pathway is `P-COM ANTIP-V → P ANTIP-V → [P V] → lexical complex predicate`.
+
+**G-SYN-006.** Attributive/relative predicates use DEP `-e`. Accessibility is A/S → PO → non-PO core O → oblique. A/S and PO are freely relativizable; PO relatives may retain U indexing of the head. Non-PO core objects may relativize directly with a gap but normally leave no U trace. Obliques normally require APPL or another relational strategy. Genuine BNI resists direct relativization and normally de-incorporates/reanalyzes first.
+
+**G-SYN-007.** Productive NEG is preverbal with default propositional scope. Narrow/focused negation uses a less-bound construction, especially with AUX: `ABLE [NEG V]` contrasts with `NEG [V-ABLE]`. Any old clause-final negator is restricted/archaic/lexicalized rather than a duplicate productive negator.
 ## Semantics and pragmatics
 
-**G-SEM-001.** Positive phase tends toward connecting, building, or advancing; negative phase toward separating, reducing, or reversing. Actual oppositions are conventional to semantic classes and roots. Spatial, contact, relational, and alteration classes are examples, not an exhaustive classification. Neutral phase follows a root-specific baseline rather than universally marking either a state or an activity.
+**G-SEM-001.** REL describes change or maintenance of relation, not participant role. INCREASE tends toward convergence, connection, entry, strengthening, or scalar increase; DECREASE toward divergence, separation, exit, weakening, or scalar decrease; MAINTAIN follows a stable relation or root-specific baseline. Extensions are conventional to semantic classes and roots.
 
-**G-SEM-002.** Phase interpretation is construction- and verb-class-conditioned, but several case domains have productive tendencies:
+**G-SEM-002.** Case domains have constructional REL tendencies rather than automatic meanings. INESS supports in/into/out-of contrasts; SUPER on/onto/off; COM accompaniment/joining/separation; ESS state/entry/exit; LOC and PERL interact productively with favored motion predicates; DAT and INS allow lexically licensed gain/loss, benefit/harm, enabling/removal interpretations. The unresolved competition between separation and benefit remains construction-specific rather than a universal REL override.
 
-| Case | Neutral phase | Positive `i-` | Negative `a-` |
-| --- | --- | --- | --- |
-| DAT | neutral involvement/experience | gain, benefit, or orientation toward the affected participant | loss, harm, or orientation away/from the affected participant |
-| LOC | location | toward/arrival at for motion and location predicates | away/departure from for motion and location predicates |
-| INESS | in/interior | into or establishment of interior relation | out of or removal of interior relation |
-| SUPER | on/surface relation | onto or establishment of surface relation | off or removal of surface relation |
-| PERL | route/along | enter or continue along a path with directional motion predicates | leave or reverse from a path with directional motion predicates |
-| INS | means/instrument | acquisition/use or enabling means, by verb class | relinquishing/removal or obstructive means, by verb class |
-| COM | accompaniment | joining or co-participation | separation or withdrawal |
-| ESS | be/as a temporary state or role | become/enter the state or role | cease/leave the state or role |
+**G-SEM-003.** Spatial and gradable predicates are especially productive with REL. `house-INESS INCREASE-go`, `house-INESS go`, and `house-INESS DECREASE-go` yield go into, move/remain within, and go out of the house. With gradable states INCREASE can yield become more X and DECREASE become less X. Abstract extensions require conventionalization.
 
-Outside the favored motion/location classes, LOC and PERL allow root-specific phase interpretations rather than mechanically directional ones. DAT experiencer and other stative predicates may conventionalize phase as affect or intensity, or lexicalize another contrast, rather than directly expressing gain versus loss. PERL and INS are normally distinguished by construction and lexical semantics despite their shared `-m` exponent; conservative PERL `-mi` can overtly preserve the path reading.
-
-**G-SEM-003.** INESS and SUPER can express phase-sensitive changes of topological relation, while LOC and PERL interact compositionally with phase in their favored motion/location constructions. A separate movement derivation is not required for a manner verb to express a path. Ordinary motion roots favor direction-neutral lexical meanings, with direction supplied by the construction. Accepted semantic patterns, using English placeholders rather than canonical lexemes, are:
-
-| Construction | Positive | Negative | Neutral |
-| --- | --- | --- | --- |
-| dance + house-INESS | dance into the house | dance out of the house | dance inside the house |
-| position/handle + platform-SUPER | put onto the platform | take off the platform | reposition on the platform |
-| move + road-PERL | enter/continue along the road | leave/reverse from the road | move along the road |
-
-Abstract spatial-case uses develop as conventional extensions, not unrestricted productive metaphor.
-
-**G-SEM-004.** Contact verbs have an engage/withdraw tendency with root-specific contrasts. Alteration supports distinct class patterns of degree increase/decrease, establishing/undoing, and applying/removing. These patterns do not by themselves establish roots or assign their alignment.
+**G-SEM-004.** LEX.DERIV, INST, VAL/APPL, AUX, and outer ASPECT remain distinct. PLACT changes event type while HAB marks customary recurrence of whole events; INST selects a manifestation without supplying perfectivity/telicity; lexical CAUS creates a new predicate while productive CAUS builds argument structure; AUX phase/modality operators remain distinct from outer viewpoint aspect.
 
 **G-PRAG-001.** Social personhood is a graded, relational construal rather than a categorical human/nonhuman feature. Humans are ordinarily treated as persons by default. Nonhuman beings may receive stronger person construal through established reciprocity and/or communal ritual recognition. Such beings can be categorized simultaneously by domain (for example animal, water, storm, or place), by relational status (for example familiar, dangerous, obligated, or ancestral), and, where culturally licensed, as a collective person such as a herd, river, or forest. Personhood is distinct from both lexical noun class and grammatical animacy.
 
@@ -267,6 +249,13 @@ Abstract spatial-case uses develop as conventional extensions, not unrestricted 
 
 | Abbreviation | Meaning | Notes |
 | --- | --- | --- |
-| TH | noun-class theme | Used in interlinear segmentation when an inherited class theme is overt. |
-| LNK | generalized linker | The generalized /i/ linker before consonant-only case endings. |
-| VAL.RED | valency reducer | Pre-root `r-` series covering reflexive, middle, or anticausative readings by verb class. |
+| TH | noun-class theme | Overt inherited class theme. |
+| LNK | generalized linker | Generalized /i/ before consonant-only case endings. |
+| A | Actor agreement | Post-AUX 1/2/3 agreement series. |
+| U | Undergoer agreement | Pre-root `n-k/t/p-`; controller need not be PO. |
+| REL | relational phase | INCREASE `i-`, MAINTAIN `Ø`, DECREASE `a-`. |
+| INST | instantiative | Salient manifestation/token `-h`. |
+| AFF | affected applicative | `-r`. |
+| ORI | orientee applicative | `-p`. |
+| GRD | ground applicative | `-m`. |
+| PLACT | pluractional lexical derivation | Pre-grade lexical `-s`. |
