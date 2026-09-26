@@ -105,9 +105,13 @@ The core AUX inventory grammaticalized in two strata. Older phase predicates red
 
 Predicate nominalization likewise combines independent strata. EVENT `-n` is inherited. STATE `-k` grammaticalized from a BE/STATE nominal source. FACT `-p` developed through demonstrative > complementizer > fact nominalizer, explaining its greater clause-likeness. Older PARTICIPANT `-r` and RESULT/PLACE `-t ~ -m` survive only lexically or fossilized. Productive converbs conventionalized from EVENT+ESS, EVENT+INS, and EVENT+DAT; no productive ABL was added.
 
-### Final repair and stress
+### High-vowel syncope, final repair, and stress
 
-After assimilation/fusion and resyllabification, remaining illegal structures undergo restricted deletion and then /i/-epenthesis where protected lexical or morphological material would otherwise be lost. In multi-consonant morphological chains, repair proceeds from the rightmost problematic boundary leftward, inserting /i/ only as far left as necessary. Stress is assigned only after these processes.
+A later rhythmic reduction favored heavier CVC and VCCV-like sequences without expanding the inherited onset inventory. Unstressed medial high vowels weakened, with epenthetic /i/ reducing most readily; /a e/ reductions remained older lexicalized residues. The change was constrained by the inherited `(C)(j)V(C)` syllable template, so deletion survived only where the whole output could be resyllabified with legal codas and onsets. This produced forms such as `nipitiruki → niptiruki` and `nipisjupi → nipsjupi`, while potential `*niptruki`, `*pant`, `*panast`, and `*nipknui` were blocked. The pattern remained productive in transparent morphology, while old lexical reductions became stored stems. Root vowels and inherited noun-class themes resisted the productive rule more strongly than repair vowels and generalized linking material.
+
+The historical reduction was conditioned by the pre-reduction prosodic pattern, then stress was recalculated after reduction. Where several high vowels were eligible, reduction proceeded from right to left, with resyllabification after each successful deletion. Newly created closed syllables could therefore affect the final stress without retroactively protecting their vowel during the same reduction cycle.
+
+After assimilation/fusion, resyllabification, and productive syncope, remaining illegal structures undergo restricted deletion and then /i/-epenthesis where protected lexical or morphological material would otherwise be lost. In multi-consonant morphological chains, repair proceeds from the rightmost problematic boundary leftward, inserting /i/ only as far left as necessary. Final stress is assigned only after these processes.
 
 The resulting quantity-sensitive stress system selects the rightmost heavy syllable within the final three syllables; if that window contains no heavy syllable, stress is penultimate. All closed syllables are heavy, as are diphthongs and contracted bimoraic monophthongs.
 
