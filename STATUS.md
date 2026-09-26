@@ -26,7 +26,8 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 ## Active questions
 
 - The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
-- Lexeme-specific exceptions to the now-compositional default licensing of voice/applicative combinations will be discovered and recorded as the lexicon expands; this is lexical coverage, not an architectural gap.
+- Lexeme-specific exceptions to the now-compositional default licensing of voice/applicative combinations will be discovered and recorded as the lexicon expands; the first corpus pass found no blocker among the tested BURN, CUT, MAKE, SAY, MOVE, and SEE constructions.
+- No canonical lexicalized `ROOT-m-s` stem currently exists, so the reverse-order lexical exception stated in G-MORPH-015 remains a lexical coverage gap rather than a tested pattern.
 
 ## Provisional systems
 
@@ -36,8 +37,12 @@ No unresolved provisional subsystem remains from AUX lexicalization, residual no
 
 No unresolved structural contradiction is known. Benefit plus separation now follows event trajectory for REL (separation remains DECREASE) while beneficiary status is encoded independently by DAT/AFFECTED.
 
+## Regression coverage
+
+The permanent corpus now includes unseen MID and ANTIP uses, AFFECTED/ORIENTEE/GROUND applicatives, productive `ROOT-s-m`, both reversible AUX scope pairs on non-MOVE predicates, FINISH+NECESSARY, and a connected five-clause text combining a DEP relative, object-topic fronting, converbial continuity, BNI, a finite FACT complement, applied addressee syntax, and explicit third-person reintroduction. No new structural contradiction surfaced.
+
 ## Next useful tests
 
-Modules 9–11 are structurally resolved. The next high-value pass is corpus-style lexical and connected-text regression: expand voice/applicative licensing across unseen verbs, exercise the productive `ROOT-s-m` stack and lexicalized reverse-order exceptions, test both reversible AUX scope pairs, and run BNI, relatives, reference tracking, information structure, converbs, FACT complements, and multi-clause discourse together.
+The highest-value next pass is lexical rather than architectural: canonize at least one genuine lexicalized `ROOT-m-s` stem so the reverse-order residue can be regressed against productive `ROOT-s-m`; broaden the verb lexicon into transfer, social exchange, posture, and scalar/change-of-state domains; then test two-applicative stacks, local-person U override, PO/non-PO relatives, and reference ambiguity in another connected text.
 
-Permanent regression examples live in `EXAMPLES.tsv`. New connected text should expose missing lexical coverage without creating ad hoc grammar; any genuinely new construction should be marked UNSPECIFIED and designed deliberately.
+Permanent regression examples live in `EXAMPLES.tsv`. New connected text should continue to expose missing lexical coverage without creating ad hoc grammar; any genuinely new construction should be marked UNSPECIFIED and designed deliberately.
