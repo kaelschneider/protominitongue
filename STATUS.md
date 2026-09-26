@@ -25,25 +25,19 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 
 ## Active questions
 
-- Remaining noun-class residue questions are the consonant of relic SOCIAL `*Ci`, resulting person-sensitive DAT/COM allomorphs, further LAND/WATER and ANIMATE residue cells, and final attributive-classifier exponents/inventory.
-- REL selection where separation and benefit coexist remains construction-specific; the splinter-removal diagnostic still needs lexical/corpus testing.
-- Core AUX classes are fixed as BEGIN, CONTINUE, FINISH, ABLE, INTEND, NECESSARY, but their lexical forms, full class-order table, and any reversible scope pairs remain UNSPECIFIED.
-- The exact PART reflex in the planned `WHOLE-GEN + PART` construction remains UNSPECIFIED.
 - The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
-- Broader lexical distributions of alignment, voice licensing, applicative compatibility, and lexicalized derivational stacks remain open as the lexicon expands.
+- Lexeme-specific exceptions to the now-compositional default licensing of voice/applicative combinations will be discovered and recorded as the lexicon expands; this is lexical coverage, not an architectural gap.
 
 ## Provisional systems
 
-- Benefit most likely favors INCREASE `i-`, but there is no general benefactive override of DECREASE in events that also encode separation.
-- Negative transfer indexing an affected person is licensed in tested constructions but should not be generalized to every affected-participant event without lexical evidence.
-- Splinter removal may be source- or beneficiary-oriented depending on construal; overt retained case can clarify only independently licensed relations.
+No unresolved provisional subsystem remains from AUX lexicalization, residual nominal/discourse morphology, or connected syntax. New lexical exceptions found by regression testing should remain provisional until independently supported.
 
 ## Known conflicts
 
-No unresolved structural contradiction remains in the verbal architecture. The remaining semantic tension is REL selection when one event simultaneously instantiates separation and benefit; this is intentionally left construction-specific pending corpus/lexical testing.
+No unresolved structural contradiction is known. Benefit plus separation now follows event trajectory for REL (separation remains DECREASE) while beneficiary status is encoded independently by DAT/AFFECTED.
 
 ## Next useful tests
 
-The layered verbal architecture is canonical and regression-tested: REL, VOICE, U/A agreement, PO/U separation, four grades, pre-grade lexical derivation, INST, three applicatives, productive CAUS, AUX layering, tense/aspect, nominalization/converbs, BNI, relativization, and negation now share one analysis. The next high-value work is lexical rather than architectural: establish AUX lexemes/forms, expand voice/applicative lexical licensing, test BNI and relative constructions in connected text, complete the GEN-based partitive, and resolve remaining SOCIAL DAT/COM residue.
+Modules 9–11 are structurally resolved. The next high-value pass is corpus-style lexical and connected-text regression: expand voice/applicative licensing across unseen verbs, exercise the productive `ROOT-s-m` stack and lexicalized reverse-order exceptions, test both reversible AUX scope pairs, and run BNI, relatives, reference tracking, information structure, converbs, FACT complements, and multi-clause discourse together.
 
-Permanent regression examples live in `EXAMPLES.tsv`; superseded generic `r-` valency-reducer anticausative analyses have been replaced by MID `j-` + U. The Pre-Proto → Proto history now records the accepted grammaticalization paths while leaving only genuinely unreconstructed lexical sources/conditioning marked open.
+Permanent regression examples live in `EXAMPLES.tsv`. New connected text should expose missing lexical coverage without creating ad hoc grammar; any genuinely new construction should be marked UNSPECIFIED and designed deliberately.

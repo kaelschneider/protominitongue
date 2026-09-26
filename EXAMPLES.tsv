@@ -24,3 +24,16 @@ EX-0022	✓	rukiji	ruˈki.ji	r-u-k-i-j	move-REAL-A.1-NPST-IPFV	I am moving	G-PHO
 EX-0023	✓	rukir	ruˈkir	r-u-k-i-r	move-REAL-A.1-NPST-HAB	I habitually move / go	G-MORPH-007		L-0005	HAB is outer viewpoint aspect and remains distinct from lexical PLACT.
 EX-0024	✓	sê nar	se nar	se-e nar	see-DEP person.ABS	a person who sees / witnesses	G-PHON-008,G-MORPH-005,G-SYN-006		L-0008,L-0017	DEP e forms the attributive/relative predicate; se+e contracts to heavy ê.
 EX-0025	✓	tirane	tiˈra.ne	tr-a-n-e	cut-NF-EVENT-ESS	while cutting	G-PHON-010,G-MORPH-003		L-0011	Canonical circumstantial converb is EVENT+ESS; no ABL is required.
+EX-0026	✓	panin sa	paˈnin sa	pan-i-n sa	wood-LNK-GEN PART	some / a portion of the wood	G-MORPH-002,G-MORPH-020		L-0025,L-0040	The whole is GEN; sa is the partitive head.
+EX-0027	✓	narrir	narˈrir	nar-rir	person-SOC.DAT	to/for the person (social construal)	G-PHON-005,G-MORPH-011		L-0017	SOCIAL DAT suppresses ordinary theme/linker; stem-final r plus suffix-initial r forms a geminate.
+EX-0028	✓	narrima	ˈnar.rima	nar-rima	person-SOC.COM	with the person (social construal)	G-PHON-005,G-MORPH-011		L-0017	SOCIAL COM is the fossil -rima case allomorph.
+EX-0029	✓	tanun	taˈnun	tan-u-n	forest.tract-TH-GEN	of the forest tract	G-MORPH-011		L-0031	Lexical LAND/WATER residue preserves u before GEN.
+EX-0030	✓	narje	ˈnar.je	nar-i-e	person-TH-ESS	as a person / in the role of a person	G-PHON-008,G-MORPH-011		L-0017	Conservative ANIMATE ESS preserves i; i+e > je.
+EX-0031	✓	seneri nar	seˈneri nar	sen-e-ri nar	good-DEP-PERSON.CLF person.ABS	a good/suitable person	G-MORPH-013,G-SYN-003		L-0015,L-0017	PERSON classifier follows the DEP stative predicate.
+EX-0032	✓	rusineki	rusiˈneki	r-u-sine-k-i	move-REAL-ABLE-A.1-NPST	I can go	G-MORPH-019		L-0005,L-0009	Young ABLE AUX is KNOW/REMEMBER DEP sine.
+EX-0033	✓	rukesineki	rukesiˈneki	r-u-ke-sine-k-i	move-REAL-BEGIN-ABLE-A.1-NPST	I can begin to go	G-MORPH-019		L-0005,L-0009	Default BEGIN→ABLE order gives ABLE(BEGIN(V)).
+EX-0034	✓	rusinekeki	rusineˈkeki	r-u-sine-ke-k-i	move-REAL-ABLE-BEGIN-A.1-NPST	I begin to be able to go	G-MORPH-019		L-0005,L-0009	Reversible BEGIN↔ABLE order gives BEGIN(ABLE(V)).
+EX-0035	✓	rujereki	rujeˈreki	r-u-je-re-k-i	move-REAL-CONTINUE-INTEND-A.1-NPST	I intend to continue going	G-MORPH-019		L-0005	Default CONTINUE→INTEND order gives INTEND(CONTINUE(V)).
+EX-0036	✓	rurejeki	rureˈjeki	r-u-re-je-k-i	move-REAL-INTEND-CONTINUE-A.1-NPST	I continue intending to go	G-MORPH-019		L-0005	Reversible CONTINUE↔INTEND order gives CONTINUE(INTEND(V)).
+EX-0037	✓	pan tiruki	pan tiˈruki	pan tr-u-k-i	wood.BNI cut-REAL-A.1-NPST	I cut wood / I am wood-cutting	G-PHON-010,G-SYN-005		L-0025,L-0011	BNI theme is immediately preverbal, non-PO, and does not control U.
+EX-0038	✓	pan tiruki. tirane ta mituki.	pan tiˈruki tiˈra.ne ta miˈtuki	pan tr-u-k-i tr-a-n-e ta mt-u-k-i	wood.BNI cut-REAL-A.1-NPST cut-NF-EVENT-ESS tool.ABS make-REAL-A.1-NPST	I cut wood. While cutting, I make a tool.	G-MORPH-003,G-SYN-005,G-SYN-008,G-DISC-003		L-0025,L-0011,L-0039,L-0010	Connected regression: BNI remains backgrounded; the converb precedes the matrix clause and the recoverable same actor is omitted.
