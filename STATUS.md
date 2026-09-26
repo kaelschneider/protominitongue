@@ -28,6 +28,7 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 - The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
 - Lexeme-specific exceptions to the now-compositional default licensing of voice/applicative combinations will be discovered and recorded as the lexicon expands; the first corpus pass found no blocker among the tested BURN, CUT, MAKE, SAY, MOVE, and SEE constructions.
 - No canonical lexicalized `ROOT-m-s` stem currently exists, so the reverse-order lexical exception stated in G-MORPH-015 remains a lexical coverage gap rather than a tested pattern.
+- The lexically restricted route/path nouns that retain conservative PERL `-mi` beyond canonical `nuru` remain to be delimited; this is lexical membership, not a new case-system question.
 
 ## Provisional systems
 
