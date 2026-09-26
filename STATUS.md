@@ -31,7 +31,7 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 
 ## Provisional systems
 
-No unresolved provisional subsystem remains from AUX lexicalization, residual nominal/discourse morphology, or connected syntax. New lexical exceptions found by regression testing should remain provisional until independently supported.
+No unresolved provisional subsystem remains from AUX lexicalization, residual nominal/discourse morphology, connected syntax, or high-vowel syncope. The syncope system is canonical: medial unstressed /i u/ reduction is constrained by morphological protection and exhaustive syllabifiability under `(C)(j)V(C)`; epenthetic /i/ is most reducible, candidates are tested right-to-left, and stress is recalculated after reduction. New lexical exceptions found by regression testing should remain provisional until independently supported.
 
 ## Known conflicts
 
@@ -39,7 +39,7 @@ No unresolved structural contradiction is known. Benefit plus separation now fol
 
 ## Regression coverage
 
-The permanent corpus now additionally includes strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, seven explicit negative regressions, PERSON/THING pronoun disambiguation, and an eight-clause connected stress text. No structural contradiction surfaced.
+The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, seven explicit negative regressions, PERSON/THING pronoun disambiguation, and an eight-clause connected stress text. No structural contradiction surfaced.
 
 ## Next useful tests
 
