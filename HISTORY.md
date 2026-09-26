@@ -87,11 +87,23 @@ Inalienable possessive suffixes 1P `-i`, 2P `-a`, and 3P `-u` continue an ancien
 
 ### Verbal relational and derivational morphology
 
-Affected-person applicative `-r` and means applicative `-m` descend from the same older relational material that also produced nominal DAT `-r` and INS `-m`; synchronically they are verbal applicatives, not incorporated case suffixes. CAUS `-t` continues an old transitivizing formative. Derivational `-s` and nominal COLL/PCL `-s` descend from a boundedness/grouping source whose verbal development produced bounded repetition/pluractionality with events and increased degree with states.
+The verbal system accumulated in layers rather than from one paradigm. REL `i-/Ø/a-` originated as weak relational preverbs and was generalized as INCREASE/MAINTAIN/DECREASE while remaining sensitive to lexical predicate classes and nominal case relations.
 
-The lexical-vocalic root *`se` “SEE/WITNESS” provides a canonical demonstration that opaque-looking stem alternation need not be suppletive: *`se-a` > `sja`, *`se-u` > `sju`, and *`se-i` > heavy `së` follow the ordinary vowel-contact rules.
+Pre-root participant indexing was reorganized as a uniform U series `n-k/t/p-`; the same person consonants survive post-root as A `-k/-t/-p`. Syntactic PO and U control consequently separated: applicative and voice constructions could alter PO while person-sensitive agreement continued to select a different U-controller.
 
-A small closed set of older auxiliary verbs survives in complex predicates. The lexical verb retains its ordinary `-a/-u/-i` grade, while the following auxiliary bears linking `-e`. The identities and lexical forms of the surviving auxiliaries remain to be reconstructed.
+VOICE represents several historical strata. REFL `r-` continues older reflexive material. MID `j-` is a weakened, synchronically distinct descendant of related reflexive material; the exact conditioning of the historical weakening remains to be reconstructed. RECP `s-` is inherited reciprocal morphology and is unrelated synchronically to post-root lexical `-s`. ANTIP `ma-` arose from frequent COM-marked object-demotion constructions: `P-COM ANTIP-V` favored case loss, pseudo-incorporation, and later lexical complex predicates.
+
+AFF `-r` and GRD `-m` continue relational material also reflected in nominal DAT `-r` and INS/PERL `-m`. ORI `-p` grammaticalized separately from a TURN/FACE counterpart construction. This independent origin explains why the three applicatives form a semantic system without a single uniform historical source.
+
+Lexical derivation precedes grade historically as well as synchronically. PLACT/INT `-s` descends from the boundedness/grouping source also reflected in nominal COLL/PCL `-s`. LEX.CAUS `-m` grammaticalized from MAKE/SHAPE and became stem-forming before grade; productive VAL.CAUS `-t` continues an older transitivizer outside grade. Repeated derivation/valency combinations commonly lexicalize and can later accept renewed productive morphology.
+
+The inherited grade vowels were reanalyzed as a four-way predicate-status system: NF `-a`, REAL `-u`, IRREALIS `-i`, DEP `-e`. The old linking use of `-e` with auxiliaries is now understood as a dependent-grade construction. The lexical-vocalic root *`se` SEE/WITNESS still demonstrates regular grade alternation: *`se-a` > `sja`, *`se-u` > `sju`, *`se-i` > `së`, and *`se-e` > `sê`.
+
+INST `-h` is synchronically productive after grade. Its deeper lexical source is not yet reconstructed. Its phonological erosion is already advanced: before ordinary consonants it survives as strengthening (`hp/ht/hk/hm/hn/hs/hr > pp/tt/kk/mm/nn/ss/rr`), while protected `h` elsewhere triggers epenthetic /i/.
+
+The core AUX inventory grammaticalized from lexical predicates BEGIN, CONTINUE, FINISH, ABLE, INTEND, and NECESSARY. Young AUX retained DEP `-e`; older bound members lost independent grade. CONTINUE further eroded to IPFV `-j`. LIVE/STAY followed a separate path: a fuller semi-productive customary/durative construction survives beside fully grammaticalized HAB `-r`. PFV `-n` is older and independent.
+
+Predicate nominalization likewise combines independent strata. EVENT `-n` is inherited. STATE `-k` grammaticalized from a BE/STATE nominal source. FACT `-p` developed through demonstrative > complementizer > fact nominalizer, explaining its greater clause-likeness. Older PARTICIPANT `-r` and RESULT/PLACE `-t ~ -m` survive only lexically or fossilized. Productive converbs conventionalized from EVENT+ESS, EVENT+INS, and EVENT+DAT; no productive ABL was added.
 
 ### Final repair and stress
 
