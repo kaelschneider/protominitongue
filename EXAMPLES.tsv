@@ -14,8 +14,13 @@ EX-0012	✓	tamî	taˈmi	tam-i-i	hand-TH-1.POSS	my hand	G-PHON-008,G-MORPH-016		
 EX-0013	✓	murut	muˈrut	mur-u-t	stone-TH-LOC	at the stone	G-MORPH-011		L-0026	Apocopated ABS mur restores protected u-theme before LOC.
 EX-0014	✓	panasit	panaˈsit	pan-a-s-i-t	tree-TH-COLL-LNK-LOC	at a bounded stand/group of trees	G-MORPH-014		L-0024	COLL/PCL blocks the conservative GROWING case pocket and selects generalized i-linker.
 EX-0015	✓	kirje	ˈkir.je	kir-i-e	eye-TH-DU	the pair of eyes	G-PHON-008,G-MORPH-012		L-0023	Natural-pair dual; i+e > je.
-EX-0016	✓	ruki	ˈruki	r-u-k-i	move-REAL-1-NPST	I move / I go deliberately	G-MORPH-005,G-MORPH-006,G-SYN-002		L-0005	Active-biased fluid-S use with post-root agent indexing.
-EX-0017	✓	nikimui	nikiˈmu.i	n-k-m-u-i	PAT-1-sleep-REAL-NPST	I sleep / I am asleep	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-002		L-0003	Inactive-S indexes pre-root; epenthetic i repairs the initial consonant chain.
+EX-0016	✓	ruki	ˈruki	r-u-k-i	move-REAL-A.1-NPST	I move / I go deliberately	G-MORPH-005,G-MORPH-006,G-SYN-002		Active-biased fluid-S use with A agreement.	Active-biased fluid-S use with post-root agent indexing.
+EX-0017	✓	nikimui	nikiˈmu.i	n-k-m-u-i	U-1-sleep-REAL-NPST	I sleep / I am asleep	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-002		Inactive-S controls U; epenthetic i repairs the initial consonant chain.	Inactive-S indexes pre-root; epenthetic i repairs the initial consonant chain.
 EX-0018	✓	sinuki	siˈnuki	sn-u-k-i	remember-REAL-1-NPST	I deliberately recall / bring it to mind	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-002		L-0009	Agentive KNOW/REMEMBER construal denotes deliberate recall/attention.
-EX-0019	✓	pan nipitiruki	pan nipitiˈruki	pan n-p-tr-u-k-i	wood.ABS PAT-3-cut-REAL-1-NPST	I cut the wood	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-001		L-0025,L-0011	Ordinary transitive alignment; protected consonant chains are repaired by i-epenthesis.
-EX-0020	✓	ripitirui	ripitiˈru.i	r-p-tr-u-i	VAL.RED-3-cut-REAL-NPST	it splits / cuts open	G-PHON-010,G-MORPH-006,G-MORPH-015		L-0011	Productive CUT anticausative via the pre-root valency reducer.
+EX-0019	✓	pan nipitiruki	pan nipitiˈruki	pan n-p-tr-u-k-i	wood.ABS U-3-cut-REAL-A.1-NPST	I cut the wood	G-PHON-010,G-MORPH-005,G-MORPH-006,G-SYN-001		Ordinary transitive alignment with U on the patient and A on the actor.	Ordinary transitive alignment; protected consonant chains are repaired by i-epenthesis.
+EX-0020	✓	jinipitirui	jinipitiˈru.i	j-n-p-tr-u-i	MID-U-3-cut-REAL-NPST	it splits / cuts open	G-PHON-010,G-MORPH-006,G-MORPH-017,G-SYN-002		L-0011	Productive CUT anticausative uses MID plus U agreement; protected MID triggers regular epenthetic repair.
+EX-0021	✓	rukki	ˈruk.ki	r-u-h-k-i	move-REAL-INST-A.1-NPST	I make a salient move / move on this occasion	G-PHON-010,G-MORPH-006,G-MORPH-018		L-0005	INST h strengthens following A.1 k to kk.
+EX-0022	✓	rukiji	ruˈki.ji	r-u-k-i-j	move-REAL-A.1-NPST-IPFV	I am moving	G-PHON-010,G-MORPH-007		L-0005	Word-final protected IPFV j receives epenthetic i.
+EX-0023	✓	rukir	ruˈkir	r-u-k-i-r	move-REAL-A.1-NPST-HAB	I habitually move / go	G-MORPH-007		L-0005	HAB is outer viewpoint aspect and remains distinct from lexical PLACT.
+EX-0024	✓	sê nar	se nar	se-e nar	see-DEP person.ABS	a person who sees / witnesses	G-PHON-008,G-MORPH-005,G-SYN-006		L-0008,L-0017	DEP e forms the attributive/relative predicate; se+e contracts to heavy ê.
+EX-0025	✓	tirane	tiˈra.ne	tr-a-n-e	cut-NF-EVENT-ESS	while cutting	G-PHON-010,G-MORPH-003		L-0011	Canonical circumstantial converb is EVENT+ESS; no ABL is required.
