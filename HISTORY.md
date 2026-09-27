@@ -111,6 +111,8 @@ A later rhythmic reduction favored heavier CVC and VCCV-like sequences without e
 
 The historical reduction was conditioned by the pre-reduction prosodic pattern, then stress was recalculated after reduction. Where several high vowels were eligible, reduction proceeded from right to left, with resyllabification after each successful deletion. Newly created closed syllables could therefore affect the final stress without retroactively protecting their vowel during the same reduction cycle.
 
+A very small ritual residue escaped later leveling in memorized sacred formulas. Individual recitation forms may preserve a pre-syncope repair vowel, such as ritual `nipitiripi` beside ordinary `niptiripi` “will cut it.” These are lexicalized/formulaic archaisms transmitted with the sacred text, not evidence that speakers can freely suspend productive syncope.
+
 After assimilation/fusion, resyllabification, and productive syncope, remaining illegal structures undergo restricted deletion and then /i/-epenthesis where protected lexical or morphological material would otherwise be lost. In multi-consonant morphological chains, repair proceeds from the rightmost problematic boundary leftward, inserting /i/ only as far left as necessary. Final stress is assigned only after these processes.
 
 The resulting quantity-sensitive stress system selects the rightmost heavy syllable within the final three syllables; if that window contains no heavy syllable, stress is penultimate. All closed syllables are heavy, as are diphthongs and contracted bimoraic monophthongs.
