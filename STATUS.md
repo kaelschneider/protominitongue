@@ -359,8 +359,8 @@ The ten norms are:
    If seed is taken, seed is planted; people do not take all living yield.
 
 4. **Using / Sustaining — herd and country**  
-   `Samik matun ratumi rupi. Nurrir narik niphimuppi. Tanrir narik niphimuppi.`  
-   Herds use their seasonal paths; people stand in reciprocal obligation to River and Forest.
+   `Samik matun ratumi rupi. Nurrir ja Tanrir narik niphimuppi.`  
+   Herds use their seasonal paths; people stand in reciprocal obligation to River and Forest. The joined wording uses ordinary same-role NP coordination with repeated SOCIAL DAT; paired repetition remains available as the older formal variant.
 
 5. **Receiving / Guarding — roof**  
    `Ratumi re nar temti nipikinui. Mak ratumi re narrir anpikuppir.`  
@@ -391,7 +391,7 @@ General escalation remains outside the individual norms:
 `Kat an nipinirupi. Kat an sikupi. Ratu arupi.`  
 When return is persistently withheld, reciprocal exchange ceases and the path recedes.
 
-Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, and the two fixed legal pre-syncope forms.
+Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, the two fixed legal pre-syncope forms, and same-role NP coordination with repeated case and plural discourse reference.
 
 ## Active questions
 
