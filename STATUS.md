@@ -36,148 +36,223 @@ Recurring metaphors from the cycle are culturally productive but are not grammat
 
 ### Canonical recitation
 
-Formal recitation uses the true names **Kimi** “Flesh-Giver,” **Nemi** “Hair-Giver; Name-Keeper,” and **Tasi** “Blood-Giver; Path-Walker.” Ordinary retellings may replace the names with titles or SIBLING. The orthographic text below is canonical; narrative PAST alternates with mythic-present refrains, and the prophecy moves from IRREALIS toward REAL as restoration becomes present.
+Formal recitation uses true names, fixed epithets, and a small ceremonial fossil layer. The Proto-Minitongue ritual titles are **Nata** “The First Seed” (cultural uniqueness supplies “first”), **Tam Tinak** “Hands Are Crossings,” and **Munu Irupi** “The Mist Returns/Approaches.” Narrative events are primarily PAST; creation transformations and inherited teachings may pivot into mythic REAL.NONPAST. The prophecy is IRREALIS until the child finds the seed; FIND itself is the first REAL clause.
 
-#### I. The First Seed
+#### I. Nata — The First Seed
 
-`Munum ratumi Kimik rupa. Nemik rupa. Tasik rupa.`  
-Through the mist, Kimi, Nemi, and Tasi walked the path.
+`Kimi Kumakar. Nemi Hatkar. Tasi Raturar.`  
+Kimi is Flesh-Giver; Nemi is Name-Keeper; Tasi is Path-Walker.
 
-`Kumi Kimik anpikupa. Niri Nemik anpikupa. Sani Tasik anpikupa.`  
-Kimi gave flesh; Nemi gave hair; Tasi gave blood.
+`Kimi, kumi akar. Nemi, hat kar. Tasi, ratu rar.`  
+Ceremonial invocation: Kimi, Flesh Giver; Nemi, Name Keeper; Tasi, Path Walker.
 
-`Kumi karui irupa. Niri tanai inpinua. Sani nurui irupa.`  
-Flesh became upland; hair became living forest; blood became river.
+`Munum uru namik ratumi rupa. Mau namik hat niphupa.`  
+Through the mist all three siblings walked the path. No sibling had yet spoken a name.
 
-`Nata Nemik inpisirupa. Hat Nemik niphupa.`  
-Nemi found the seed and spoke its name.
+`Kumi Kimik anpikupa. Niri Nemik anpikupa. Patu Nemik anpikupa. Sani Tasik anpikupa.`  
+Kimi gave flesh. Nemi gave hair and breath. Tasi gave blood.
+
+`Kumi hanui irupi. Niri tanai inpinui. Patu suhui irupi. Sani nurui irupi.`  
+Flesh becomes earth; hair becomes living forest; breath becomes sky-air; blood becomes river.
+
+`Nata mau namik nipmitupa. Nata Nemik inpisirupa. Hat Nemik niphupa.`  
+No sibling had made the Seed. Nemi found it and spoke its name.
 
 `Nata Nemir Kimik anpikuppa. Hat Tasir Nemik anpikuppa.`  
-Kimi gave the seed to Nemi; Nemi gave the name to Tasi.
+Kimi gave the Seed to Nemi. Nemi gave its name to Tasi.
 
-`Nata Tasik niptirupa.`  
-Tasi divided the seed.
+`Min nata? Min hat?`  
+Whose Seed? Whose name?
 
-`Natan sa rume inpinua. Natan sa pamje inpinua. Natan sa timje inpinua. Natan sa narje inpinua.`  
-A part of the seed became fish; a part became bird; a part became a crawling animal; a part became a person.
+`Nata Tasik niptirupa. Uru natan sa nata.`  
+Tasi divided the Seed. Every portion of the Seed was itself seed.
 
-`Nata Tasik anpisemupa. Panat nipinitupa. Nurut nipinitupa.`  
-Tasi hid the seed and planted it by tree and river.
+`Kimir Tasik niphimuppa. Nemir Tasik niphimuppa.`  
+Tasi pledged to Kimi and Nemi.
 
-`Tasi nurui irupa. Tasi tanai inpinua.`  
-Tasi became river and living forest.
+`Nirap Kimi nipsinua. Rap Tasi nipsinua.`  
+Kimi understood the pledge as a return; Tasi understood it as onward going.
+
+`Kimi nipimua. Nemi nipimua. Ja Tasi arupa.`  
+Kimi slept. Nemi slept. Then Tasi departed.
+
+`Nata Tasi anpisemupa. Natan sa murut nipinitupa. Natan sa nurut nipinitupa. Natan sa tanat nipinitupa. Natan sa hanut nipinitupa.`  
+Tasi hid the Seed and planted its portions at stone, river, forest, and open earth.
+
+`Ratumi Tasi rupa. Tasi nurui irupi. Tasi tanai inpinui.`  
+Tasi travelled the path; Tasi becomes river and grows into living forest.
 
 `Tasin ratumi Kimik rupa. Nemik rupa.`  
-Kimi and Nemi followed Tasi's trail.
+Kimi and Nemi followed Tasi’s trail.
 
-`Kimik rum nipsjupa. Nemik pami nipsjupa. Kimik timi nipsjupa. Nemik nar nipsjupa.`  
-Kimi saw fish; Nemi saw bird; Kimi saw the crawler; Nemi saw the person.
+`Murut natan sa timje inpinui. Nurut natan sa rumje inpinui. Tanat natan sa pamje inpinui. Hanut natan sa narje inpinui.`  
+At stone a portion becomes a crawler; at river a fish; at forest a bird; on earth a person.
 
-`Kimi inpisinua. Nemi inpisinua. Kat sikupa.`  
-Kimi understood; Nemi understood; gifts passed reciprocally.
+`Kimik timi nipsjupa. Nemik rum nipsjupa. Kimik pami nipsjupa. Nemik nar nipsjupa.`  
+Kimi saw the crawler and bird; Nemi saw the fish and person.
+
+`Kimi inpisinua. Nemi inpisinua.`  
+Kimi understood. Nemi understood.
+
+`Kat sikupa. Hat ratur anpikuppa.`  
+Gifts began to pass reciprocally, and names were given along the paths.
+
+`Narik kat nipkupi. Ratu arupi.`  
+When a person keeps the gift at themselves, the path recedes.
 
 `Anpike kat risake nipinirupi.`  
 What is given returns changed.
 
 `Ratuk re nar nipsinupi.`  
-A path remembers the one who travels.
+A path remembers the one who travels it.
 
 `Hat anpikupi. Nar nipsinui.`  
-A name is given away; the giver still knows.
+A name is given away; the giver still knows it.
 
-#### II. The Hands Between
+#### II. Tam Tinak — The Hands Between
 
-`Rumik nurumi rupa. Pamik tanum rupa. Samik ratumi rupa.`  
-Fish followed river; birds moved through forest; herd animals followed their path.
+`Rumik suruti irupa. Pamik suhut rupa. Timik hanut rupa. Samik matun ratumi rupa.`  
+Fish entered water; birds moved in the sky; crawlers moved upon the earth; herd animals followed the path of the season.
 
-`Tamin ratu narik nipsirupa.`  
-Humans searched for the path of the hand: their purpose.
+`Nar an nipsinua.`  
+People did not yet understand their own purpose.
 
-`Nurut narik irupa. Tanut irupa. Samir irupa. Hanir irupa.`  
-They went to River, Forest, Herd, and the ancestors.
+`Tam mir nipsenui? Han mir nipsenui? Sinak mir nipsenui?`  
+What are hands for? What is speech for? What is memory for?
 
-`Narrir nuruk niphuppa. Narrir tanuk niphuppa. Narrir samik niphuppa. Narrir hanik niphuppa.`  
-River spoke to the person; Forest spoke; Herd spoke; the ancestor spoke.
+`Nuruk suru kane saruti irupi. Kas kane karuti an rusinepi.`  
+River carries water toward the sea, but cannot carry hearth-fire into the uplands.
 
-`Suru sarur nuruk anpikuppi. Maka narrir tanuk anpikuppi. Ratumi samik rupi. Hat pirir hanik anpikuppi.`  
-River gives water to sea. Forest gives fruit to people. Herd travels its path. Ancestor gives a name to a child.
+`Tanuk maka narrir anpikuppi. Uru ratumi an rusinepi.`  
+Forest gives fruit to people, but cannot travel every path.
+
+`Samik matun ratumi rupi. Sami uru ratu an nipsinui.`  
+Herd travels the path of its season, but does not remember every path.
+
+`Hanik hite hat pirir anpikuppi.`  
+An ancestor gives an old name to a child.
+
+`Mau narik uru kat kane uru ratumi rusinepi.`  
+No person can carry every gift along every path.
+
+`Hanu narin he? Hanu narik an nipkupi.`  
+Is the world the possession of people? People do not hold the world under their control.
 
 `Nar inpisinua.`  
-The human understood.
+The human came to understand.
 
-`Pan narik niptirupi. Tem nipmitupi. Nata nurut nipinitupi. Mak narrir anpikuppi.`  
-A person cuts wood, makes shelter, plants seed by the river, and gives prepared food to another.
+`Tam tinak. Nar tinake pinupi.`  
+Hands are crossings. A person stands as a crossing.
 
-`Nurrir narik niphimuppi. Tanrir narik niphimuppi. Kat sikupi.`  
-A person pledges to River and Forest as social persons; gifts pass reciprocally.
-
-`Tam ratui irupi. Hat narik nipkupi.`  
-A hand becomes a path. A person carries a name onward.
-
-`Nar kat nipkupi. Nar kat anpikupi. Ratu inpinui.`  
-A person carries a gift, gives it onward, and the path grows.
+`Narik kat kane rupi.`  
+A person carries a gift onward.
 
 `Risake kat nipinirupi. Ratu inpinui.`  
-A gift returns in changed state; the path grows.
+A gift returns changed; the path lengthens.
 
-`Nar hanje irupi. Hat pirir hanik anpikuppi. Hani tanui irupi.`  
-A person becomes an ancestor; the ancestor gives a name to a child; the ancestor enters the landscape.
+`Nata nurut narik nipinitupi. Pan narik niptirupi. Tem nipmitupi. Mak narrir anpikuppi.`  
+People plant seed by the river, cut wood, make shelter, and give prepared food to others.
 
-`Nar ratui rupi.`  
-The human moves as a path between domains.
+`Hat inpikupi ja sapa anpikupi.`  
+A name is received, and a story is given onward.
 
-#### III. When the Mist Returns
+`Nurrir narik niphimuppi. Tanrir narik niphimuppi. Kat sikupi.`  
+People pledge to River and Forest as social persons; gifts pass reciprocally.
 
-`Ratu narik nipitiripi.`  
-People will cut the path.
+`Nar anpinui. Hani hanui irupi.`  
+A person dies; the ancestor enters the living landscape.
 
-`Nata narik inpikipi. Nata anpisemipi. Hat inpikipi. Hat anpisemipi.`  
-They will take seed and hide it; they will take names and hide them.
+`Hite hat pirir hanik anpikuppi. Mire sapa pirik niphupi.`  
+The ancestor gives an old name to a child; the child tells a new story.
 
-`Pan inpikipi. Samis niprimisipi.`  
-They will take timber and drive herds without the remembered route.
+`Tam tinak.`  
+Hands are crossings.
 
-`Nar anpisinui. Munu iripi.`  
-People forget. The mist will come.
+`Narik kat kane rupi.`  
+Humans carry onward.
 
-`Kat nipkipi. Ratu arupi.`  
-The gift will be kept; the path recedes.
+`Risake kat nipinirupi. Ratu inpinui.`  
+Humans return what they receive changed, and thereby lengthen the path.
+
+#### III. Munu Irupi — When the Mist Returns
+
+`Mire tari iripi.`  
+A new age will come.
+
+`Uru kat narik inpikipi. Mau narik kat nipiniripi.`  
+People will take every gift toward themselves, and no person will return a gift.
+
+`Nata inpikipi. Nata anpisemipi. Hat inpikipi. Sapa an niphipi.`  
+They will take Seed and hide it. They will take names and no stories will be spoken.
+
+`Pan inpikipi. Samik matun ratumi an niprimpi.`  
+They will take timber; herds will no longer travel the paths of their seasons.
+
+`Nuru a. Tanu a.`  
+River will be treated as a thing. Forest will be treated as a thing.
+
+`Mau narik ratumi ripi. Munu iripi.`  
+No person will travel the path. The mist will return.
+
+`Narik kat nipkipi. Ratu aripi.`  
+People will keep gifts; the path will recede.
+
+The old teachings are then spoken backward:
+
+`Kat an nipirisui. Kat narik anpisirupi.`  
+The gift remains unchanged; the person loses it.
 
 `Ratu anpisinui.`  
 The path forgets.
 
-`Hat anpisemupi. Nar anpisinui.`  
-The name is hidden; the person forgets.
+`Hat anpisemupi. Sapa an niphupi. Nar anpisinui.`  
+The name is hidden; the story is not spoken; the person forgets.
 
-`Ratumi pirik niprimpi. Nata pirik inpisiripi.`  
-A child will travel the unused path and find the seed.
+`Mau narik ratumi ripi. Ja pirik ratumi ripi.`  
+No one will use the path; then a child will walk it.
 
-`Hat pirir nuruk niphippi. Nurrir pirik niphimippi.`  
-River will give the child the old name; the child will pledge to River.
+**Restoration hinge:**
 
-`Nata narrir pirik anpikippi. Nata nurut narik nipinitipi.`  
-The child will give the seed away; its receiver will plant it beside the river.
+`Nata pirik inpisirupi.`  
+The child finds the Seed. From this clause onward the prophecy is REAL.
 
-`Maka nipinui.`  
-Fruit grows. Here the prophecy turns from projected restoration to present reality.
+`Hite sapa pirik nipsinui. Nuru a. Nurrir pirik niphimuppi. Ri nipsinui.`  
+The child remembers an old story. River is first apprehended as a thing; the child pledges to River as a person, and it is now referred to as PERSON.
 
-`Mak narik nipmitupi. Mak pirir anpikuppi. Kat nipinirupi.`  
-A person makes food; gives food to a child; a gift is returned.
+`Hite hat pirir nuruk anpikuppi. Pir inpisinui.`  
+River gives the child the old name. The child understands.
+
+`Nata pirik an nipkupi. Ja nata narrir pirik anpikuppi.`  
+The child does not keep the Seed, but gives it away.
+
+`Nata nurut narik nipinitupi. Maka nipinui.`  
+Its receiver plants it beside the river. Fruit grows.
+
+`Mak narik nipmitupi. Mak pirir anpikuppi.`  
+A person makes food from it and gives the food onward.
+
+`Hite hat pirik nipsinui. Mire sapa pirik niphupi.`  
+A child knows the old name and speaks a new story.
 
 `Risake kat nipinirupi. Ratu inpinui.`  
-A gift returns changed; the path grows.
+A gift returns changed. The path grows.
+
+`Nuru ri. Tanu ri.`  
+River is again addressed as PERSON. Forest is again addressed as PERSON.
 
 `Kat sikupi. Ratumi niprumpi. Munu arupi.`  
 Gifts pass reciprocally; people travel the path; the mist withdraws.
+
+The old refrain returns unchanged:
 
 `Anpike kat risake nipinirupi.`  
 What is given returns changed.
 
 `Ratuk re nar nipsinupi.`  
-A path remembers the one who travels.
+A path remembers the one who travels it.
 
 `Hat anpikupi. Nar nipsinui.`  
-A name is given away; the giver still knows.
+A name given away does not leave its giver.
 
 ## Active questions
 
@@ -198,9 +273,9 @@ The permanent corpus now additionally tests constrained high-vowel syncope again
 
 ## Next useful tests
 
-The sacred-cycle lexical bottleneck list is closed: sibling/kin, mist, blood/hair/flesh, search/find, immediate control versus alienable possession, promise/obligation, plant/sow, return/repay, fruit/food, bird/ground-crawler, and understand/realize now have canonical strategies and regression coverage. No new grammatical subsystem was needed.
+The sacred-cycle lexical and register bottleneck list is closed. In addition to the earlier lexical fields, the language now has canonical NEG `an`, content interrogative `mi`, polar `he`, optional linker `ja`, explicit ALL/NONE `uru/mau`, zero-copular gnomic identity, ESS+STAND role predication, a full LIVE/GROW life-cycle profile, conventional HANDLE-converb+MOVE CARRY, lexical STORY `sapa`, earth/sky/air vocabulary, cyclical season versus genealogical era, OLD/NEW statives, and the three-layer sacred title system. No new alignment, case, switch-reference, copular, or poetic-only syntax was required.
 
-Full sacred-text translation and the first ritual-register/metaphor regression are complete. The next maturity tests should move away from authored sacred material: elicit spontaneous ordinary narratives that reuse the metaphors, translate unrelated practical discourse, and test whether speakers can interpret PATH/NAME/MIST expressions both literally and conventionally without ritual context. This will show whether the language is productive beyond the corpus that motivated the vocabulary.
+Full sacred-text translation and ritual-register/metaphor regression are complete under the refined register. The next maturity tests should move away from authored sacred material: elicit spontaneous ordinary narratives that reuse the metaphors, translate unrelated practical discourse, and test whether speakers can interpret PATH/NAME/MIST expressions both literally and conventionally without ritual context. This will show whether the language is productive beyond the corpus that motivated the vocabulary.
 
 New lexical exceptions should be retained only after they recur outside a single poetic line. Additional conservative `-mi` route nouns remain lexical and require independently conventional route senses.
 
