@@ -33,6 +33,152 @@ The canonical sacred cycle is **The Returning Path**, a three-part narrative cor
 
 Recurring metaphors from the cycle are culturally productive but are not grammaticalized: **lengthen/open a path** means strengthen or restore a reciprocal relation; **cut/close a path** means sever one; **carry a name** means preserve and transmit trustworthy memory; **return changed** means reciprocate appropriately rather than repay mechanically; **the mist returning** means relations have become opaque, isolated, or ecologically disordered; **stand between** describes the human mediating role without implying superiority over nonhuman beings.
 
+
+### Canonical recitation
+
+Formal recitation uses the true names **Kimi** “Flesh-Giver,” **Nemi** “Hair-Giver; Name-Keeper,” and **Tasi** “Blood-Giver; Path-Walker.” Ordinary retellings may replace the names with titles or SIBLING. The orthographic text below is canonical; narrative PAST alternates with mythic-present refrains, and the prophecy moves from IRREALIS toward REAL as restoration becomes present.
+
+#### I. The First Seed
+
+`Munum ratumi Kimik rupa. Nemik rupa. Tasik rupa.`  
+Through the mist, Kimi, Nemi, and Tasi walked the path.
+
+`Kumi Kimik anpikupa. Niri Nemik anpikupa. Sani Tasik anpikupa.`  
+Kimi gave flesh; Nemi gave hair; Tasi gave blood.
+
+`Kumi karui irupa. Niri tanai inpinua. Sani nurui irupa.`  
+Flesh became upland; hair became living forest; blood became river.
+
+`Nata Nemik inpisirupa. Hat Nemik niphupa.`  
+Nemi found the seed and spoke its name.
+
+`Nata Nemir Kimik anpikuppa. Hat Tasir Nemik anpikuppa.`  
+Kimi gave the seed to Nemi; Nemi gave the name to Tasi.
+
+`Nata Tasik niptirupa.`  
+Tasi divided the seed.
+
+`Natan sa rume inpinua. Natan sa pamje inpinua. Natan sa timje inpinua. Natan sa narje inpinua.`  
+A part of the seed became fish; a part became bird; a part became a crawling animal; a part became a person.
+
+`Nata Tasik anpisemupa. Panat nipinitupa. Nurut nipinitupa.`  
+Tasi hid the seed and planted it by tree and river.
+
+`Tasi nurui irupa. Tasi tanai inpinua.`  
+Tasi became river and living forest.
+
+`Tasin ratumi Kimik rupa. Nemik rupa.`  
+Kimi and Nemi followed Tasi's trail.
+
+`Kimik rum nipsjupa. Nemik pami nipsjupa. Kimik timi nipsjupa. Nemik nar nipsjupa.`  
+Kimi saw fish; Nemi saw bird; Kimi saw the crawler; Nemi saw the person.
+
+`Kimi inpisinua. Nemi inpisinua. Kat sikupa.`  
+Kimi understood; Nemi understood; gifts passed reciprocally.
+
+`Anpike kat risake nipnirupi.`  
+What is given returns changed.
+
+`Ratuk re nar nipsinupi.`  
+A path remembers the one who travels.
+
+`Hat anpikupi. Nar nipsinui.`  
+A name is given away; the giver still knows.
+
+#### II. The Hands Between
+
+`Rumik nurumi rupa. Pamik tanum rupa. Samik ratumi rupa.`  
+Fish followed river; birds moved through forest; herd animals followed their path.
+
+`Tamin ratu narik nipsirupa.`  
+Humans searched for the path of the hand: their purpose.
+
+`Nurut narik irupa. Tanut irupa. Samir irupa. Hanir irupa.`  
+They went to River, Forest, Herd, and the ancestors.
+
+`Narrir nuruk niphuppa. Narrir tanuk niphuppa. Narrir samik niphuppa. Narrir hanik niphuppa.`  
+River spoke to the person; Forest spoke; Herd spoke; the ancestor spoke.
+
+`Suru sarur nuruk anpikuppi. Maka narrir tanuk anpikuppi. Ratumi samik rupi. Hat pirir hanik anpikuppi.`  
+River gives water to sea. Forest gives fruit to people. Herd travels its path. Ancestor gives a name to a child.
+
+`Nar inpisinua.`  
+The human understood.
+
+`Pan narik niptirupi. Tem nipmitupi. Nata nurut nipinitupi. Mak narrir anpikuppi.`  
+A person cuts wood, makes shelter, plants seed by the river, and gives prepared food to another.
+
+`Nurrir narik niphimuppi. Tanrir narik niphimuppi. Kat sikupi.`  
+A person pledges to River and Forest as social persons; gifts pass reciprocally.
+
+`Tam ratui irupi. Hat narik nipkupi.`  
+A hand becomes a path. A person carries a name onward.
+
+`Nar kat nipkupi. Nar kat anpikupi. Ratu inpinui.`  
+A person carries a gift, gives it onward, and the path grows.
+
+`Risake kat nipnirupi. Ratu inpinui.`  
+A gift returns in changed state; the path grows.
+
+`Nar hanje irupi. Hat pirir hanik anpikuppi. Hani tanui irupi.`  
+A person becomes an ancestor; the ancestor gives a name to a child; the ancestor enters the landscape.
+
+`Nar ratui rupi.`  
+The human moves as a path between domains.
+
+#### III. When the Mist Returns
+
+`Ratu narik niptiripi.`  
+People will cut the path.
+
+`Nata narik inpikipi. Nata anpisemipi. Hat inpikipi. Hat anpisemipi.`  
+They will take seed and hide it; they will take names and hide them.
+
+`Pan inpikipi. Samis niprimisipi.`  
+They will take timber and drive herds without the remembered route.
+
+`Nar anpisinui. Munu iripi.`  
+People forget. The mist will come.
+
+`Kat nipkipi. Ratu arupi.`  
+The gift will be kept; the path recedes.
+
+`Ratu anpisinui.`  
+The path forgets.
+
+`Hat anpisemupi. Nar anpisinui.`  
+The name is hidden; the person forgets.
+
+`Ratumi pirik niprimpi. Nata pirik inpisiripi.`  
+A child will travel the unused path and find the seed.
+
+`Hat pirir nuruk niphippi. Nurrir pirik niphimippi.`  
+River will give the child the old name; the child will pledge to River.
+
+`Nata narrir pirik anpikippi. Nata nurut narik nipinitipi.`  
+The child will give the seed away; its receiver will plant it beside the river.
+
+`Maka nipinui.`  
+Fruit grows. Here the prophecy turns from projected restoration to present reality.
+
+`Mak narik nipmitupi. Mak pirir anpikuppi. Kat nipnirupi.`  
+A person makes food; gives food to a child; a gift is returned.
+
+`Risake kat nipnirupi. Ratu inpinui.`  
+A gift returns changed; the path grows.
+
+`Kat sikupi. Ratumi niprumpi. Munu arupi.`  
+Gifts pass reciprocally; people travel the path; the mist withdraws.
+
+`Anpike kat risake nipnirupi.`  
+What is given returns changed.
+
+`Ratuk re nar nipsinupi.`  
+A path remembers the one who travels.
+
+`Hat anpikupi. Nar nipsinui.`  
+A name is given away; the giver still knows.
+
 ## Active questions
 
 - Lexeme-specific restrictions remain a lexical-growth priority. Two blockers are now canonical: HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN, and RETURN/RESTORE lexically encodes reversal so ordinary INCREASE/DECREASE forms are blocked. Further exceptions should continue to emerge from connected text rather than being invented abstractly.
