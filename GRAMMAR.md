@@ -231,7 +231,7 @@ Inalienable possession is head-marked in the slot `NOUN-(COLL/PCL)-NUMBER-POSS-C
 
 **G-SYN-010.** Generic and gnomic nominal classification permits zero copula: `tam tinak` “hands are crossings/junctions.” Temporally bounded, embodied, or assumed roles instead use ESS with an independently appropriate posture/state predicate, especially STAND `pn`: `nar tinake pinui` “a person stands/serves as a crossing.” Zero copula does not replace ordinary verbal predication.
 
-**G-SYN-011.** Explicit contrastive quantification uses pre-nominal `uru` ALL and `mau` NONE. The quantified noun bears any required case; the quantifiers themselves do not inflect. Generic singular/plural reference remains available without them, so `uru/mau` are favored when exhaustive contrast matters, especially in ritual parallelism. `mau` supplies negative quantification and does not require an additional `an` unless the predicate itself is independently negated.
+**G-SYN-011.** Explicit contrastive quantification uses pre-nominal `uru` ALL and `mau` NONE. The quantified noun bears any required case; the quantifiers themselves do not inflect. A generic morphologically singular noun may denote the quantified set (`uru nar` “all people”, `mau nar` “no person/people”), while ordinary number remains available when independently relevant. Generic singular/plural reference also remains available without a quantifier, so `uru/mau` are favored when exhaustive contrast matters, especially in ritual parallelism. `mau` supplies negative quantification and does not require an additional `an` unless the predicate itself is independently negated.
 
 ## Semantics and pragmatics
 
