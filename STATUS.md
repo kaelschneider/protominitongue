@@ -36,7 +36,7 @@ Recurring metaphors from the cycle are culturally productive but are not grammat
 
 ### Canonical recitation
 
-Formal recitation uses true names, fixed epithets, and a small ceremonial fossil layer. The Proto-Minitongue ritual titles are **Nata** “The First Seed” (cultural uniqueness supplies “first”), **Tam Tinak** “Hands Are Crossings,” and **Munu Irupi** “The Mist Returns/Approaches.” Narrative events are primarily PAST; creation transformations and inherited teachings may pivot into mythic REAL.NONPAST. The prophecy is IRREALIS until the child finds the seed; FIND itself is the first REAL clause.
+Formal recitation uses true names, fixed epithets, and a small ceremonial fossil layer. The Proto-Minitongue ritual titles are **Nata** “The First Seed” (cultural uniqueness supplies “first”), **Tam Tinak** “Hands Are Crossings,” and **Munu Inpirui** “The Mist Returns/Approaches.” Narrative events are primarily PAST; creation transformations and inherited teachings may pivot into mythic REAL.NONPAST. The prophecy is IRREALIS until the child finds the seed; FIND itself is the first REAL clause.
 
 #### I. Nata — The First Seed
 
@@ -52,7 +52,7 @@ Through the mist all three siblings walked the path. No sibling had yet spoken a
 `Kumi Kimik anpikupa. Niri Nemik anpikupa. Patu Nemik anpikupa. Sani Tasik anpikupa.`  
 Kimi gave flesh. Nemi gave hair and breath. Tasi gave blood.
 
-`Kumi hanui irupi. Niri tanai inpinui. Patu suhui irupi. Sani nurui irupi.`  
+`Kumi hanui inpirui. Niri tanai inpinui. Patu suhui inpirui. Sani nurui inpirui.`  
 Flesh becomes earth; hair becomes living forest; breath becomes sky-air; blood becomes river.
 
 `Nata mau namik nipmitupa. Nata Nemik inpisirupa. Hat Nemik niphupa.`  
@@ -73,13 +73,13 @@ Tasi pledged to Kimi and Nemi.
 `Nirap Kimi nipsinua. Rap Tasi nipsinua.`  
 Kimi understood the pledge as a return; Tasi understood it as onward going.
 
-`Kimi nipimua. Nemi nipimua. Ja Tasi arupa.`  
+`Kimi nipimua. Nemi nipimua. Ja Tasik arupa.`  
 Kimi slept. Nemi slept. Then Tasi departed.
 
 `Nata Tasi anpisemupa. Natan sa murut nipinitupa. Natan sa nurut nipinitupa. Natan sa tanat nipinitupa. Natan sa hanut nipinitupa.`  
 Tasi hid the Seed and planted its portions at stone, river, forest, and open earth.
 
-`Ratumi Tasi rupa. Tasi nurui irupi. Tasi tanai inpinui.`  
+`Ratumi Tasik rupa. Tasi nurui inpirui. Tasi tanai inpinui.`  
 Tasi travelled the path; Tasi becomes river and grows into living forest.
 
 `Tasin ratumi Kimik rupa. Nemik rupa.`  
@@ -94,10 +94,10 @@ Kimi saw the crawler and bird; Nemi saw the fish and person.
 `Kimi inpisinua. Nemi inpisinua.`  
 Kimi understood. Nemi understood.
 
-`Kat sikupa. Hat ratur anpikuppa.`  
-Gifts began to pass reciprocally, and names were given along the paths.
+`Kat sikupa. Hat ratumi narik anpikupa.`  
+Gifts began to pass reciprocally, and people gave names onward while travelling along the paths.
 
-`Narik kat nipkupi. Ratu arupi.`  
+`Narik kat nipkupi. Ratu anpirui.`  
 When a person keeps the gift at themselves, the path recedes.
 
 `Anpike kat risake nipinirupi.`  
@@ -141,7 +141,7 @@ Is the world the possession of people? People do not hold the world under their 
 `Nar inpisinua.`  
 The human came to understand.
 
-`Tam tinak. Nar tinake pinupi.`  
+`Tam tinak. Narik tinake pinupi.`  
 Hands are crossings. A person stands as a crossing.
 
 `Narik kat kane rupi.`  
@@ -159,7 +159,7 @@ A name is received, and a story is given onward.
 `Nurrir narik niphimuppi. Tanrir narik niphimuppi. Kat sikupi.`  
 People pledge to River and Forest as social persons; gifts pass reciprocally.
 
-`Nar anpinui. Hani hanui irupi.`  
+`Nar anpinui. Hani hanui inpirui.`  
 A person dies; the ancestor enters the living landscape.
 
 `Hite hat pirir hanik anpikuppi. Mire sapa pirik niphupi.`  
@@ -174,9 +174,9 @@ Humans carry onward.
 `Risake kat nipinirupi. Ratu inpinui.`  
 Humans return what they receive changed, and thereby lengthen the path.
 
-#### III. Munu Irupi — When the Mist Returns
+#### III. Munu Inpirui — When the Mist Returns
 
-`Mire tari iripi.`  
+`Mire tari inpirî.`  
 A new age will come.
 
 `Uru kat narik inpikipi. Mau narik kat nipiniripi.`  
@@ -188,13 +188,13 @@ They will take Seed and hide it. They will take names and no stories will be spo
 `Pan inpikipi. Samik matun ratumi an niprimpi.`  
 They will take timber; herds will no longer travel the paths of their seasons.
 
-`Nuru a. Tanu a.`  
-River will be treated as a thing. Forest will be treated as a thing.
+`Nuru a narik nipsëpi. Tanu a narik nipsëpi.`  
+As for River and Forest, people will see each with THING reference.
 
-`Mau narik ratumi ripi. Munu iripi.`  
+`Mau narik ratumi ripi. Munu inpirî.`  
 No person will travel the path. The mist will return.
 
-`Narik kat nipkipi. Ratu aripi.`  
+`Narik kat nipkipi. Ratu anpirî.`  
 People will keep gifts; the path will recede.
 
 The old teachings are then spoken backward:
@@ -216,8 +216,8 @@ No one will use the path; then a child will walk it.
 `Nata pirik inpisirupi.`  
 The child finds the Seed. From this clause onward the prophecy is REAL.
 
-`Hite sapa pir nipsinui. Nuru a. Nurrir pirik niphimuppi. Ri nipsinui.`  
-The child remembers an old story. River is first apprehended as a thing; the child pledges to River as a person, and it is now referred to as PERSON.
+`Hite sapa pir nipsinui. Nuru a pirik nipsjupi. Nurrir pirik niphimuppi. Nuru nipsinui.`  
+The child remembers an old story. The child first sees River with THING reference, then pledges to River as a social person; River is lexically repeated when it remembers because child and River are both discourse-prominent PERSON referents.
 
 `Hite hat pirir nuruk anpikuppi. Pir inpisinui.`  
 River gives the child the old name. The child understands.
@@ -237,10 +237,10 @@ A child knows the old name and speaks a new story.
 `Risake kat nipinirupi. Ratu inpinui.`  
 A gift returns changed. The path grows.
 
-`Nuru ri. Tanu ri.`  
-River is again addressed as PERSON. Forest is again addressed as PERSON.
+`Nuru ri narik nipsjupi. Tanu ri narik nipsjupi.`  
+People again construe River and Forest with PERSON reference.
 
-`Kat sikupi. Ratumi niprumpi. Munu arupi.`  
+`Kat sikupi. Ratumi niprumpi. Munu anpirui.`  
 Gifts pass reciprocally; people travel the path; the mist withdraws.
 
 The old refrain returns unchanged:
@@ -303,11 +303,11 @@ Discovery text:
 `Hanu nar an nipsinua. Ratu nar an nipsinua. Maka nar an nipsinua. Suma nar an nipsinua.`  
 The people did not know the country, its paths, its edible growth, or its fungi.
 
-`Ratu narik anpisirupa. Mau mak. Nar ratumi re narik inpisirupa. Mak narrir ratumi re narik anpikuppa.`  
-A person lost the path and had no food. A traveler found the lost person and gave food.
+`Ratu narik anpisirupa. Mau mak nipikinua. Nar ratumi re narik inpisirupa. Mak narrir ratumi re narik anpikuppa.`  
+A person lost the path and no prepared food was present. A traveler found the lost person and gave food.
 
-`Ratu narrir ratumi re narik nipsemuppa. Maka narrir ratumi re narik nipsemuppa. Suma narrir ratumi re narik nipsemuppa.`  
-The traveler showed the people the paths, edible growth, and fungi; this is the conventional practical-teaching/GUIDE construction.
+`Ratu narrir ratumi re narik nipsemuppa. Maka narrir ratumi re narik nipsemuppa. Sene suma narrir ratumi re narik nipsemuppa.`  
+The traveler showed the people the paths, edible plant yield, and edible/safe fungi; neutral `suma` receives the food-domain GOOD/FIT modifier `sene`.
 
 `Ratumi re narin ratumi narik rupa. Hanu nar inpisinua.`  
 The people followed the traveler's route and came to understand the country.
@@ -318,22 +318,22 @@ They made shelters, took all the edible yield and timber, burned forest growth, 
 `Uru maka ratumi re narik an inpikupa. Uru pan ratumi re narik an inpikupa.`  
 The traveler did not take all the food or all the timber.
 
-`Hure matu. Mau maka. Mau suma. Maka ratumi re narik inpisirupa. Suma ratumi re narik inpisirupa.`  
-In the cold season there was no edible growth and no fungus; nevertheless the traveler found both.
+`Hure matut mau maka nipinua. Mau suma nipinua. Maka ratumi re narik inpisirupa. Sene suma ratumi re narik inpisirupa.`  
+In the cold season no edible plant yield and no fungi were available; nevertheless the traveler found edible yield and edible/safe fungi.
 
-`Tanrir ratumi re narik niphuppa. Tanu ri. Ri pirik nipsjupa.`  
-The traveler spoke to Forest as a social person. Forest is PERSON; a child witnessed it.
+`Tanrir ratumi re narik niphuppa. Tanu pirik nipsjupa.`  
+The traveler spoke to Forest as a social person; a child saw Forest during the encounter.
 
 `Maka nar nipsinua. Suma nar nipsinua. Ratu nar nipsinua. Matu nar nipsinua.`  
 The people learned the edible growth, fungi, paths, and seasons.
 
-`Mau nar nipsine ratumi ratumi re nar arupa. Mau narik ratumi re nar nipsjupa.`  
+`Mau nar nipsine ratumi ratumi re narik arupa. Mau narik ratumi re nar nipsjupa.`  
 The traveler departed along a path no one knew; afterward no one saw her.
 
 `Hite sapa pirik niphupi. Ratu inpinui.`  
 The child tells the old story; the path grows.
 
-The saga remains independent of the later assembly code. Its function in the corpus is chronological and stylistic: mythic personhood is still directly encounterable once, while the later folktales retain only ambiguous household and landscape traces.
+The saga remains independent of the later assembly code. Its function in the corpus is chronological and stylistic: mythic personhood is still directly encounterable once, while the later folktales retain only ambiguous household and landscape traces. Its repaired discovery text now uses explicit existential predicates, strict active–stative covariance, and `sene` EDIBLE modification rather than relying on English-like fragments.
 
 ### Phase 3 — early assembly code — completed
 
@@ -388,16 +388,16 @@ The ten norms are:
 
 General escalation remains outside the individual norms:
 
-`Kat an nipinirupi. Kat an sikupi. Ratu arupi.`  
+`Kat an nipinirupi. Kat an sikupi. Ratu anpirui.`  
 When return is persistently withheld, reciprocal exchange ceases and the path recedes.
 
-Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, the two fixed legal pre-syncope forms, and same-role NP coordination with repeated case and plural discourse reference.
+Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, the two fixed legal pre-syncope forms, same-role NP coordination, strict inactive MOVE, case-marked temporal/existential framing, impersonal naming, food-domain EDIBLE, elliptical GEN predication, and NOT-ALL quantifier scope.
 
 ## Active questions
 
 - Lexeme-specific restrictions remain a lexical-growth priority. Two blockers are now canonical: HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN, and RETURN/RESTORE lexically encodes reversal so ordinary INCREASE/DECREASE forms are blocked. Further exceptions should continue to emerge from connected text rather than being invented abstractly.
 - Conservative route PERL `-mi` is now lexically listed on `nuru` RIVER/river-route, `ram` BOAT, and `ratu` PATH/TRAIL. The licensing principle is settled; further members require independently conventional route senses rather than contextual coercion.
-- The productive act of assigning or bestowing a new name remains UNSPECIFIED. Established-name identification is settled as zero-copular `X-GEN hat NAME`; a later naming-act test should evaluate the independently motivated HANDLE/TRANSFER + NAME pathway without presupposing that it grammaticalizes.
+- Productive naming is now settled as the restricted impersonal SAY+ORIENTEE construction of G-SYN-015: generic A is suppressed, the named participant controls U as the implicit ORIENTEE, and the designation remains non-PO content. Established-name identification remains zero-copular `X-GEN hat NAME`.
 
 ## Provisional systems
 
@@ -405,20 +405,20 @@ No unresolved provisional subsystem remains from AUX lexicalization, residual no
 
 ## Known conflicts
 
-No unresolved structural contradiction is known. Benefit plus separation now follows event trajectory for REL (separation remains DECREASE) while beneficiary status is encoded independently by DAT/AFFECTED.
+No unresolved structural contradiction is known after the corpus-wide constructional regression. Strict active–stative covariance now governs S case plus A/U control; stale ABS+A transformation/weather forms have been repaired. Benefit plus separation continues to follow event trajectory for REL (separation remains DECREASE) while beneficiary status is encoded independently by DAT/AFFECTED.
 
 ## Regression coverage
 
-The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, lexical derivational residue, transfer/posture/knowledge/search REL profiles, information-structure/BNI interaction, PERSON/THING pronoun disambiguation, and connected stress texts. The sacred-cycle suite now includes the complete canonical orthographic recitation of all three narratives, neutral-only reciprocal TRANSFER, inherent-return REL blocking, SHOW/REVEAL/HIDE, transformation with MOVE versus LIVE/GROW, lexical route `ratu`, compositional FOLLOW, cultivation, promise to a nonhuman SOCIAL person, GROWING→MADE fruit/food construal, body-substance transformations, animal subclasses, deliberate THING→PERSON landscape shifts, a fixed pre-syncope ritual archaism, conventional metaphor regressions for PATH/NAME/MIST/RETURN, and a prophecy whose restoration hinge shifts from IRREALIS to REAL. The first folktale phase now additionally tests ordinary herding, path splitting, OLD/NEW route contrast, loss/recovery of a trail, transparent sleep circumstantials beside lexical `man` DREAM and `sjan` VISION, parallel animal/place SOCIAL personhood, household transmission, and specific zero-copular name identification. No structural contradiction surfaced.
+The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, strict active–stative S case/agreement covariance, lexical derivational residue, transfer/posture/knowledge/search REL profiles, information-structure/BNI interaction, PERSON/THING reference under topic competition, and connected stress texts. The sacred-cycle suite now includes the complete canonical orthographic recitation of all three narratives, neutral-only reciprocal TRANSFER, inherent-return REL blocking, SHOW/REVEAL/HIDE, transformation with MOVE versus LIVE/GROW, lexical route `ratu`, compositional FOLLOW, cultivation, promise to a nonhuman SOCIAL person, GROWING→MADE fruit/food construal, body-substance transformations, animal subclasses, deliberate THING→PERSON landscape shifts, a fixed pre-syncope ritual archaism, conventional metaphor regressions for PATH/NAME/MIST/RETURN, and a prophecy whose restoration hinge shifts from IRREALIS to REAL. The first folktale phase now additionally tests ordinary herding, path splitting, OLD/NEW route contrast, loss/recovery of a trail, transparent sleep circumstantials beside lexical `man` DREAM and `sjan` VISION, parallel animal/place SOCIAL personhood, household transmission, and specific zero-copular name identification. No structural contradiction surfaced.
 
 
 Phase 2 is now complete. The place-personhood regression adds bounded salvage, repair versus relational restoration, child-led PERSON reference, continued reciprocal resource use, and settlement/architecture vocabulary. The guest-storyteller regression adds received-testimony versus direct-witness contrast, nested direct speech without a quotative, exactly three hearth question-turns, promise conflict, hospitality expressed through house-stay and food transfer, ambiguous custody of a carried object, contextual `hap` message-content, and contamination/taboo versus place-personhood ambiguity. No structural contradiction surfaced.
 
 ## Next useful tests
 
-The sacred-cycle lexical and register bottleneck list is closed. In addition to the earlier lexical fields, the language now has canonical NEG `an`, content interrogative `mi`, polar `he`, optional linker `ja`, explicit ALL/NONE `uru/mau`, zero-copular gnomic identity, ESS+STAND role predication, a full LIVE/GROW life-cycle profile, conventional HANDLE-converb+MOVE CARRY, lexical STORY `sapa`, earth/sky/air vocabulary, cyclical season versus genealogical era, OLD/NEW statives, and the three-layer sacred title system. No new alignment, case, switch-reference, copular, or poetic-only syntax was required.
+The sacred-cycle lexical and register bottleneck list is closed. In addition to the earlier lexical fields, the language now has canonical NEG `an`, content interrogative `mi`, polar `he`, linker/coordinator `ja`, explicit ALL/NONE `uru/mau`, zero-copular nominal identity, ESS+STAND role predication, LIVE/SIT existential strategies, a full LIVE/GROW life-cycle profile, conventional HANDLE-converb+MOVE CARRY, impersonal SAY+ORIENTEE naming, lexical STORY `sapa`, food-domain EDIBLE `sena`, earth/sky/air vocabulary, cyclical season versus genealogical era, OLD/NEW statives, and the three-layer sacred title system.
 
-Full sacred-text translation and ritual-register/metaphor regression are complete. The heroic bridge saga discovery pass and all three planned maturity-test phases have now passed. The assembly code confirms that hospitality, spoken obligation, witness-source distinctions, accepted custody, ecological reciprocity, and relational compensation can be expressed without a separate legal grammar. The next useful work is consolidation: test the spreading bare-DEP conditional in additional ordinary discourse, keep neutral custody distinct from culpability in further uses of `pur`, and resolve the productive act of bestowing a new name when a future text actually requires it. The heroine's personal name and any explicit descendant-of-creator formulation remain intentionally unset because neither was required by this grammatical pass.
+Full sacred-text translation and ritual-register/metaphor regression are complete, and the corpus-wide constructional regression has synchronized the sacred cycle, folktales, heroic bridge saga, and assembly code with current grammar. The assembly code confirms that hospitality, spoken obligation, witness-source distinctions, accepted custody, ecological reciprocity, and relational compensation can be expressed without a separate legal grammar. The next useful work is consolidation: test the spreading bare-DEP conditional in additional ordinary discourse, extend the new LIVE/SIT existential contrast beyond the saga, test impersonal naming outside a single regression, and keep neutral custody distinct from culpability in further uses of `pur`. The heroine's personal name and any explicit descendant-of-creator formulation remain intentionally unset.
 
 New lexical exceptions should be retained only after they recur outside a single poetic line. Additional conservative `-mi` route nouns remain lexical and require independently conventional route senses.
 
