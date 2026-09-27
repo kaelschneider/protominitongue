@@ -254,6 +254,56 @@ A path remembers the one who travels it.
 `Hat anpikupi. Nar nipsinui.`  
 A name given away does not leave its giver.
 
+
+## Provisional lexical-growth policy
+
+The next lexical-development pass will test the following accepted proposals in connected text before promoting them to canonical grammar or lexicon entries.
+
+- **PLACT/INT lexicalization:** productive `-s` remains event-internal plurality/distribution or intensity. A derived form becomes a distinct lexical activity only when repetition/distribution changes the event type, such as repeated cutting developing a CHOP/HACK activity; ordinary repeated events do not automatically create lexemes.
+- **LEX.CAUS specialization:** pre-grade `-m` remains semantically reconstructible as causation, but frequent culturally recurrent derivatives may conventionalize narrower meanings. Specialization should remain recoverable from “cause/make X,” rather than becoming arbitrary. `ROOT-s-m` may likewise lexicalize recurrent activities while retaining a transparent historical source; reverse `ROOT-m-s` remains nonproductive apart from individually stored residues.
+- **Lexical-entry threshold:** a compositional derivative does not receive a separate lexeme merely because it is possible or frequent. Separate entries are reserved for semantic specialization, unpredictable form, lexical blocking/licensing, or other behavior that must be stored.
+- **Fossil derivation:** old PARTICIPANT and RESULT/PLACE formations remain individually lexicalized relics. Further fossil verb-derived nouns may be discovered in texts, but they do not restore a productive derivational rule.
+- **Noun-class lexical chains:** mode-of-existence shifts can create source → material contrasts and, where independently conventionalized, longer source → material → worked-object histories. Root continuity is expected most strongly across the first shift; later artifacts normally develop independent lexical stems unless usage independently preserves the old root.
+- **Zero conversion:** there is no productive noun↔verb zero derivation. Apparent zero-derived pairs may survive as rare historical lexicalizations discovered during text work.
+- **Social kin vocabulary:** basic kin terms may broaden to foster, co-residential, or cohort relationships, while recurrent GEN/COM or comparable relational phrases may become conventional social labels and only later fuse lexically. No large new kin paradigm is assumed in advance.
+- **Lexical expansion strategy:** develop daily material life, ecology/mobility, and social life together in small interacting sets. New text-motivated vocabulary should recur or prove independently useful before becoming canon.
+- **Historical texture:** prefer a layered lexicon: inherited basic vocabulary, transparent younger derivatives, and a smaller high-frequency layer of eroded, semantically shifted, or fossilized forms.
+
+## Planned maturity-test corpus
+
+The next three testing phases move beyond the sacred cycle. The outlines below are provisional elicitation targets, not canonical texts; their purpose is to force ordinary vocabulary and constructions into connected discourse.
+
+### Phase 1 — folktale: the remembered herd-path
+
+A child herder pursues a straying young herd animal while an unfamiliar animal appears to recognize the child. Mist obscures the seasonal route. The path has genuine agency and can alter itself for recognized travelers, but that agency operates through inherited trail marks, maintained crossings, and ancestral signs rather than as an unrelated magical mechanism. A dream supplies part of an old personal name; landscape signs supply the rest. The tale never finally resolves whether the complete name belongs to the strange animal, the path, an ancestor, or to their relationship.
+
+When the child reconstructs and speaks the name, the animal deliberately leads the child and stray home while the path itself becomes traversable. The household thereafter maintains the crossing on each seasonal passage and transmits the name accurately without claiming to own it. Two associated folk sayings are provisionally targeted: **“A path knows the feet that mend it”** and **“The one who calls you home may not be kin.”** The story should allude indirectly to forgotten names and returning mist without quoting sacred formulas.
+
+### Phase 2 — two contrasting folktales
+
+**Place-personhood tale.** A woodworker takes living timber from a grove beside a river pool where travelers hear their names echoed; an abandoned settlement there has become socially legible as a collective landscape-person. The tale assumes that places may possess agency before humans recognize it, while repeated reciprocal relations make that personhood socially intelligible. The breach combines treating living source as mere material, answering returned names carelessly, and stripping an abandoned place as though lack of a living claimant meant ownerlessness. Timber returns downstream in altered forms, paths bend travelers back toward the settlement, and echoed names become unreliable. Repair requires returning useful worked objects, renewing visits and public naming, and thereafter continuing resource use only within an acknowledged reciprocal relation. Allusions to Tasi’s transformation, transmitted names, and changed return remain faint rather than explicit.
+
+**Guest-storyteller tale.** An ambiguous clever traveler prolongs guest protection through unfinished stories nested inside promises of future reciprocal gifts. A child notices that events the guest claims to have witnessed change between tellings. The figure is not given a single stable moral valuation across tellings: cleverness may be admired even as manipulation is condemned. The guest ultimately becomes a wandering cautionary storyteller who repeatedly tells the story against themself. The associated principles are provisionally **“One mouth can make two debts”** and **“Hospitality makes a path, not a house.”**
+
+### Phase 3 — early assembly code
+
+Create an early customary moral/legal document in which older sayings are formally recited and fixed at a seasonal assembly. It should balance exchange, social relations, and ecological obligations as manifestations of one reciprocal order. Fundamental norms may use memorable prohibitions, while disputes and remedies use conditional formulations.
+
+The provisional ten-rule semantic core is:
+
+1. Do not take what you will not return changed; taking creates an obligation, though appropriate return need not be identical replacement.
+2. Do not close a path without opening another; whoever disrupts access, migration, or relationship must provide a workable restoration.
+3. Do not take seed without planting; present use must preserve future renewal.
+4. Do not take from River, Forest, herd, or person as though lack of individual ownership made them ownerless things; established relationships condition legitimate taking.
+5. Protect the guest while the guest walks your path; hospitality is binding but temporary, and the protected guest may not convert it into permanent claim.
+6. A spoken promise makes a debt; compatible promises should be fulfilled, while incompatible ones require repair or compensation.
+7. Let a story name its witness; distinguish direct witnessing, received testimony, and later retelling.
+8. Do not make another household carry your wrongdoing; concealment that transfers responsibility creates an additional obligation.
+9. Compensation must reopen a workable relation rather than merely equal the material loss.
+10. Carry names accurately, but do not possess them; names, histories, routes, and entrusted knowledge may be transmitted without becoming alienable property.
+
+Each phase should first expose lexical or grammatical blockers, then generate Proto-Minitongue connected text, run morphophonological/argument-structure/reference regressions, and promote only independently supported results.
+
 ## Active questions
 
 - Lexeme-specific restrictions remain a lexical-growth priority. Two blockers are now canonical: HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN, and RETURN/RESTORE lexically encodes reversal so ordinary INCREASE/DECREASE forms are blocked. Further exceptions should continue to emerge from connected text rather than being invented abstractly.
@@ -275,7 +325,7 @@ The permanent corpus now additionally tests constrained high-vowel syncope again
 
 The sacred-cycle lexical and register bottleneck list is closed. In addition to the earlier lexical fields, the language now has canonical NEG `an`, content interrogative `mi`, polar `he`, optional linker `ja`, explicit ALL/NONE `uru/mau`, zero-copular gnomic identity, ESS+STAND role predication, a full LIVE/GROW life-cycle profile, conventional HANDLE-converb+MOVE CARRY, lexical STORY `sapa`, earth/sky/air vocabulary, cyclical season versus genealogical era, OLD/NEW statives, and the three-layer sacred title system. No new alignment, case, switch-reference, copular, or poetic-only syntax was required.
 
-Full sacred-text translation and ritual-register/metaphor regression are complete under the refined register. The next maturity tests should move away from authored sacred material: elicit spontaneous ordinary narratives that reuse the metaphors, translate unrelated practical discourse, and test whether speakers can interpret PATH/NAME/MIST expressions both literally and conventionally without ritual context. This will show whether the language is productive beyond the corpus that motivated the vocabulary.
+Full sacred-text translation and ritual-register/metaphor regression are complete under the refined register. The next maturity tests are now concretized as the three-phase folktale and early-assembly-code corpus above. These texts should reuse sacred metaphors indirectly while forcing ordinary material, ecological, social, evidential, hospitality, obligation, compensation, and resource-use vocabulary. They are discovery texts first; only successful recurrent constructions and lexemes should enter the permanent regression corpus.
 
 New lexical exceptions should be retained only after they recur outside a single poetic line. Additional conservative `-mi` route nouns remain lexical and require independently conventional route senses.
 
