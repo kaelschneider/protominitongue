@@ -134,3 +134,14 @@ After assimilation/fusion, resyllabification, and productive syncope, remaining 
 The resulting quantity-sensitive stress system selects the rightmost heavy syllable within the final three syllables; if that window contains no heavy syllable, stress is penultimate. All closed syllables are heavy, as are diphthongs and contracted bimoraic monophthongs.
 
 The absolute chronology of changes that do not interact is not independently asserted; the relative ordering above is sufficient to derive the canonical Proto-Minitongue outputs.
+
+
+### Hero-cycle lexical and spatial developments
+
+The child-hero discovery cycle adds a small inherited-looking sensory layer rather than a new grammatical subsystem. Biconsonantal `hisa` HEAR/LISTEN is fluid: uncontrolled perception favors inactive alignment, while deliberate attention favors active alignment; repeated deliberate-listening use conventionalized HEED without creating a separate OBEY root. `mura` SMELL and `taka` TOUCH/FEEL retain the same broad perception-versus-deliberate-attention opposition where context supports it.
+
+HEART `kuru` is a fossil deverbal noun historically related to `kura` BEAT/PULSE. Its old ANIMATE formation left a restricted `kurui > kuri` residue in inherited inflectional material; this is lexical history, not a renewed productive deverbal nominalizer. The later heroine-to-forest tradition strengthened HEART as an image of interior/center: her heartbeat is located beneath the central spring of the forest that her body becomes. This cultural association supports, but does not by itself require, the younger relational HEART > INSIDE/CENTER development.
+
+Two common motion/subsistence verbs preserve opaque lexicalized complexes. `kera` CARRY continues Pre-Proto HANDLE `*ka` + MOVE `*ra`, but is synchronically indivisible and supplies no productive V+V compounding rule. `naka` DRINK likewise reflects an old HANDLE+WATER expression remodeled into an inherited-looking biconsonantal stem; synchronically it is an independent basic verb parallel to EAT.
+
+The heroic cycle also establishes a traditional true-name history. The unnamed traveler of the bridge saga withholds her true personal name through most of her life. In the transformation tale she gives it privately to the grown witness; after she becomes a particular forest, the witness transmits that name as the forest's name. Later explanations variously connect the earlier withholding to ordinary name restraint, suspected descent from Tasi, and the reciprocal obligations created by true-name exchange. The oldest tradition does not choose among these explanations.
