@@ -292,24 +292,106 @@ The corrected message says that no one can travel the old path, a traveler remai
 
 The tale closes the testimony/nested-speech gap with G-DISC-005: Proto-Minitongue has no grammatical evidential or quotative series; source is expressed through SEE/WITNESS, SAY+ORIENTEE, FACT, and STORY, and direct speech uses independent finite clauses with editorial quotation. No dedicated GUEST, HOST, MESSAGE, DEBT, DANGER, TABOO, HEAR, WORD, or FOOT lexeme is promoted from one text: PATH-traveler relatives, HOUSE stay, FOOD transfer, promise/RETURN, `hap` message-content, NOT-FIT water, and the existing PATH metaphor suffice. Whether hearth questioning becomes formal customary procedure is left for Phase 3 rather than canonized from folktale practice.
 
-### Phase 3 — early assembly code
+### Heroic bridge saga — discovery pass completed
 
-Create an early customary moral/legal document in which older sayings are formally recited and fixed at a seasonal assembly. It should balance exchange, social relations, and ecological obligations as manifestations of one reciprocal order. Fundamental norms may use memorable prohibitions, while disputes and remedies use conditional formulations.
+A heroic bridge tradition now sits between the sacred mythic cycle and the later folktale corpus. The remembered figure is a woman outsider who saves a lost, hungry scouting party when the newcomers first enter an unfamiliar territory, then teaches them routes, seasonal reading, edible growth, and fungi. She repeatedly opposes exhaustive taking and destructive settlement practice, remains socially central without being fully assimilated, and eventually leaves along a route the people do not know once her teaching has succeeded. Later traditions disagree over whether she was ever truly kin and suggest—without stating as fact—that she may descend from the creator figures.
 
-The provisional ten-rule semantic core is:
+Her supernatural ambiguity remains deliberately narrow. Most extraordinary knowledge is compatible with exceptional observation and long familiarity with the land. One cold-season episode crosses that line: she finds food where none should be available, speaks to Forest as a person, and a child witnesses the encounter. The child becomes a later transmitter of the practical lore. The heroine's personal name remains deliberately unset; the Proto-Minitongue discovery text uses the ordinary traveler/person construction rather than canonizing an unchosen proper name.
 
-1. Do not take what you will not return changed; taking creates an obligation, though appropriate return need not be identical replacement.
-2. Do not close a path without opening another; whoever disrupts access, migration, or relationship must provide a workable restoration.
-3. Do not take seed without planting; present use must preserve future renewal.
-4. Do not take from River, Forest, herd, or person as though lack of individual ownership made them ownerless things; established relationships condition legitimate taking.
-5. Protect the guest while the guest walks your path; hospitality is binding but temporary, and the protected guest may not convert it into permanent claim.
-6. A spoken promise makes a debt; compatible promises should be fulfilled, while incompatible ones require repair or compensation.
-7. Let a story name its witness; distinguish direct witnessing, received testimony, and later retelling.
-8. Do not make another household carry your wrongdoing; concealment that transfers responsibility creates an additional obligation.
-9. Compensation must reopen a workable relation rather than merely equal the material loss.
-10. Carry names accurately, but do not possess them; names, histories, routes, and entrusted knowledge may be transmitted without becoming alienable property.
+Discovery text:
 
-Each phase should first expose lexical or grammatical blockers, then generate Proto-Minitongue connected text, run morphophonological/argument-structure/reference regressions, and promote only independently supported results.
+`Hanu nar an nipsinua. Ratu nar an nipsinua. Maka nar an nipsinua. Suma nar an nipsinua.`  
+The people did not know the country, its paths, its edible growth, or its fungi.
+
+`Ratu narik anpisirupa. Mau mak. Nar ratumi re narik inpisirupa. Mak narrir ratumi re narik anpikuppa.`  
+A person lost the path and had no food. A traveler found the lost person and gave food.
+
+`Ratu narrir ratumi re narik nipsemuppa. Maka narrir ratumi re narik nipsemuppa. Suma narrir ratumi re narik nipsemuppa.`  
+The traveler showed the people the paths, edible growth, and fungi; this is the conventional practical-teaching/GUIDE construction.
+
+`Ratumi re narin ratumi narik rupa. Hanu nar inpisinua.`  
+The people followed the traveler's route and came to understand the country.
+
+`Tem narik nipmitupa. Uru maka narik inpikupa. Uru pan narik inpikupa. Tana narik nipsikupa. Samik matun ratumi an rupa.`  
+They made shelters, took all the edible yield and timber, burned forest growth, and the herd stopped using its seasonal path.
+
+`Uru maka ratumi re narik an inpikupa. Uru pan ratumi re narik an inpikupa.`  
+The traveler did not take all the food or all the timber.
+
+`Hure matu. Mau maka. Mau suma. Maka ratumi re narik inpisirupa. Suma ratumi re narik inpisirupa.`  
+In the cold season there was no edible growth and no fungus; nevertheless the traveler found both.
+
+`Tanrir ratumi re narik niphuppa. Tanu ri. Ri pirik nipsjupa.`  
+The traveler spoke to Forest as a social person. Forest is PERSON; a child witnessed it.
+
+`Maka nar nipsinua. Suma nar nipsinua. Ratu nar nipsinua. Matu nar nipsinua.`  
+The people learned the edible growth, fungi, paths, and seasons.
+
+`Mau nar nipsine ratumi ratumi re nar arupa. Mau narik ratumi re nar nipsjupa.`  
+The traveler departed along a path no one knew; afterward no one saw her.
+
+`Hite sapa pirik niphupi. Ratu inpinui.`  
+The child tells the old story; the path grows.
+
+The saga remains independent of the later assembly code. Its function in the corpus is chronological and stylistic: mythic personhood is still directly encounterable once, while the later folktales retain only ambiguous household and landscape traces.
+
+### Phase 3 — early assembly code — completed
+
+The ten reciprocal norms have passed discovery testing without a new legal-only case, imperative, evidential, or debt morphology. The code uses ordinary grammar with compact parallelism, an older bare-DEP conditional protasis, and a tiny fixed pre-syncope residue. Reciprocity is the broad frame; restoration and custody supply more specific obligations. Literal LOAD `pur` has independently supported the extension to accepted responsibility/liability.
+
+The opening frame is:
+
+`Tinanit narik niphupi. Kat sikupi.`  
+At the assembly people speak; gifts/obligations pass reciprocally.
+
+The ten norms are:
+
+1. **Taking / Returning — hand**  
+   `Kat inpike, risake kat nipinirupi.`  
+   If something is received/taken, an appropriate changed return is made.
+
+2. **Passing / Keeping Open — path**  
+   `Ratu nipitire, mire ratu narik nipmitupi.`  
+   If a path is cut, a new path is made. The fixed legal protasis preserves pre-syncope `nipitire` beside ordinary `niptire`.
+
+3. **Taking / Renewing — seed**  
+   `Nata inpike, nata narik nipinitupi. Uru maka narik an inpikupi.`  
+   If seed is taken, seed is planted; people do not take all living yield.
+
+4. **Using / Sustaining — herd and country**  
+   `Samik matun ratumi rupi. Nurrir narik niphimuppi. Tanrir narik niphimuppi.`  
+   Herds use their seasonal paths; people stand in reciprocal obligation to River and Forest.
+
+5. **Receiving / Guarding — roof**  
+   `Ratumi re nar temti nipikinui. Mak ratumi re narrir anpikuppir.`  
+   A traveler remains under the roof; food is customarily given to the traveler.
+
+6. **Promising / Answering — word**  
+   `Himak jinipitire, risake kat nipinirupi.`  
+   If a pledge breaks, a fitting changed return is made. Fixed legal `jinipitire` preserves the second listed pre-syncope form.
+
+7. **Seeing / Speaking — eye**  
+   `Sapa narik niphupi. Mik nipsjupi? Mik niphupi?`  
+   When an account is told, ask who witnessed it and who reported it.
+
+8. **Taking Charge / Answering — burden**  
+   `Pur inpike, pur nipkupi. Pur an inpike, pur an anpikupi.`  
+   If responsibility is accepted, it is borne; if it is not accepted, it is not transferred away.
+
+9. **Harming / Restoring — wound**  
+   `Kat jiniptire, kat narik nipmisupi. Risake kat nipinirupi. Ratu inpinui.`  
+   If something entrusted is damaged, it is repaired; an appropriate changed return follows, and the relation/path grows again.
+
+10. **Hearing / Keeping — name**  
+    `Hat inpike, nar nipsinui. Hat anpikupi. Nar nipsinui. Sapa an niphupi. Nar nipsinui.`  
+    A received name is known; giving it onward does not erase the giver's knowledge, and entrusted knowledge may remain unspoken while still being kept.
+
+General escalation remains outside the individual norms:
+
+`Kat an nipinirupi. Kat an sikupi. Ratu arupi.`  
+When return is persistently withheld, reciprocal exchange ceases and the path recedes.
+
+Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, and the two fixed legal pre-syncope forms.
 
 ## Active questions
 
@@ -336,7 +418,7 @@ Phase 2 is now complete. The place-personhood regression adds bounded salvage, r
 
 The sacred-cycle lexical and register bottleneck list is closed. In addition to the earlier lexical fields, the language now has canonical NEG `an`, content interrogative `mi`, polar `he`, optional linker `ja`, explicit ALL/NONE `uru/mau`, zero-copular gnomic identity, ESS+STAND role predication, a full LIVE/GROW life-cycle profile, conventional HANDLE-converb+MOVE CARRY, lexical STORY `sapa`, earth/sky/air vocabulary, cyclical season versus genealogical era, OLD/NEW statives, and the three-layer sacred title system. No new alignment, case, switch-reference, copular, or poetic-only syntax was required.
 
-Full sacred-text translation and ritual-register/metaphor regression are complete, and Phases 1 and 2 of the maturity-test corpus have now passed. The next discovery target is Phase 3, the early assembly code. It should test whether the folktales' recurrent practices—especially hospitality, spoken obligation, witness-source distinctions, transferred responsibility, ecological reciprocity, and hearth questioning—support concise customary rules without adding unsupported legal-only morphology. Only recurrent constructions and independently useful lexemes should enter the permanent regression corpus.
+Full sacred-text translation and ritual-register/metaphor regression are complete. The heroic bridge saga discovery pass and all three planned maturity-test phases have now passed. The assembly code confirms that hospitality, spoken obligation, witness-source distinctions, accepted custody, ecological reciprocity, and relational compensation can be expressed without a separate legal grammar. The next useful work is consolidation: test the spreading bare-DEP conditional in additional ordinary discourse, keep neutral custody distinct from culpability in further uses of `pur`, and resolve the productive act of bestowing a new name when a future text actually requires it. The heroine's personal name and any explicit descendant-of-creator formulation remain intentionally unset because neither was required by this grammatical pass.
 
 New lexical exceptions should be retained only after they recur outside a single poetic line. Additional conservative `-mi` route nouns remain lexical and require independently conventional route senses.
 
