@@ -423,3 +423,28 @@ Full sacred-text translation and ritual-register/metaphor regression are complet
 New lexical exceptions should be retained only after they recur outside a single poetic line. Additional conservative `-mi` route nouns remain lexical and require independently conventional route senses.
 
 Permanent regression examples live in `EXAMPLES.tsv`; canonical sacred orthography and translations live above in this file.
+
+
+## Hero-cycle continuation — child discovery and forest transformation
+
+### Child-hero discovery — tested
+
+A childhood tradition now precedes the heroic bridge saga. During a cold-season excursion the future heroine hears something adults have ignored and deliberately follows it beyond the warned route. The sound remains unresolved among water beneath stone, wind moving through vegetation, and something voice-like. A woman-like ancestral figure appears in vision and resembles the creator tradition closely enough to invite later identification, but the oldest story does not establish who she is.
+
+The child does not accept the vision as sufficient evidence. Vision, herd-animal behavior, smell, touch, plant/fungus distribution, stone, wind, and hidden water converge. This connected-text test canonizes `hisa` HEAR/LISTEN/HEED, `mura` SMELL, `taka` TOUCH/FEEL, `kura` BEAT with fossil HEART `kuru`, and `naka` DRINK. It also supports `kera` CARRY as an opaque lexicalized HANDLE+MOVE complex. No productive V+V compounding follows from either lexical history.
+
+She initially withholds the spring because premature exhaustive use could damage it and because knowledge is to be transferred when it becomes needed. A dry period then threatens both people and herd animals. When continued secrecy becomes more harmful than sharing, she leads the people to the water but teaches the converging signs rather than merely revealing a location. The episode establishes the adult heroine's characteristic sequence: **notice → understand relations → judge when to teach**. Later traditions separately emphasize hidden water, edible plants/fungi, or attention to landscape; the oldest form leaves the lesson distributed across all three.
+
+### Forest-transformation tradition — tested
+
+In old age, after the community can continue without depending on her, the heroine leaves along the unknown path already remembered by the bridge saga. The grown witness of her earlier supernatural encounter follows her and becomes the central figure of later stories. Her motives remain deliberately multiple: completed teaching, refusal to become an authority obeyed in place of learned judgment, and a call from the landscape can all be inferred.
+
+Her transformation is literal within the oldest story: her body gradually corresponds to landscape and vegetation and becomes one particular forest. The pattern strongly parallels Tasi's river/forest transformation without proving that the heroine descends from, repeats, or is identical with a creator figure. At the future center she lies down; her heartbeat continues beneath the ground and water rises there. The grown witness hears the heartbeat once. Later tradition interprets her physical heart as the central spring and disagrees over whether the heartbeat can ever be heard again.
+
+Immediately before the transformation she gives her true personal name only to the witness. Earlier concealment admits three compatible later explanations—ordinary personal-name restraint, concealment of possible creator descent, and refusal to establish the reciprocal relation carried by a true-name exchange. After the transformation the witness gives the name onward as the name of the forest. The actual proper-name form remains deliberately unset pending a dedicated naming choice; existing saga texts therefore remain valid in using the traveler/person construction.
+
+The reciprocal ending is cyclic rather than sacrificial in isolation: the heroine gives herself to the landscape; people return seed and transmitted knowledge; the forest later gives food, routes, water, and shelter. The oldest closing image is the witness hearing the heartbeat at the central spring. As in the heroine's childhood discovery, several signs may converge, but no isolated sign functions as compulsory proof.
+
+### Resulting discovery targets
+
+The hero-cycle pass does not require a new grammatical subsystem. Productive spatial postpositions remain a lexical-development target rather than being silently completed here. HEART > INSIDE/CENTER now has unusually strong historical-cultural motivation, but the exact reduced postposition inventory and forms still require independent connected-text testing. The heroine's true personal name likewise remains intentionally unset even though the tradition now establishes that such a name existed and became the forest's name.
