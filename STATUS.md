@@ -128,7 +128,7 @@ The human moves as a path between domains.
 
 #### III. When the Mist Returns
 
-`Ratu narik niptiripi.`  
+`Ratu narik nipitiripi.`  
 People will cut the path.
 
 `Nata narik inpikipi. Nata anpisemipi. Hat inpikipi. Hat anpisemipi.`  
