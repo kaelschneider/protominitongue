@@ -26,8 +26,8 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 ## Active questions
 
 - The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
-- Lexeme-specific exceptions to the now-compositional default licensing of voice/applicative combinations will be discovered and recorded as the lexicon expands; the first corpus pass found no blocker among the tested BURN, CUT, MAKE, SAY, MOVE, and SEE constructions.
-- The lexically listed route/path nouns that retain conservative PERL `-mi` beyond canonical `nuru` and `ram` remain to be expanded as vocabulary grows; the licensing principle is settled, but membership remains lexical.
+- Lexeme-specific exceptions to otherwise compositional voice/applicative licensing remain a lexical-growth priority. The first genuine blocker is now canonical: HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN; directional INCREASE RECEIVE and DECREASE GIVE are blocked under RECP. Further exceptions should be discovered from text rather than invented abstractly.
+- Conservative route PERL `-mi` is now lexically listed on `nuru` RIVER/river-route, `ram` BOAT, and `ratu` PATH/TRAIL. The licensing principle is settled; further members require independently conventional route senses rather than contextual coercion.
 
 ## Provisional systems
 
@@ -39,10 +39,12 @@ No unresolved structural contradiction is known. Benefit plus separation now fol
 
 ## Regression coverage
 
-The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, seven explicit negative regressions, PERSON/THING pronoun disambiguation, and an eight-clause connected stress text. No structural contradiction surfaced.
+The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, the lexicalized `r-m-s` reverse-order residue contrasted with an illicit productive `ROOT-m-s`, transfer and posture REL triplets, information-structure/BNI interaction, PERSON/THING pronoun disambiguation, and connected stress texts. The creation-myth pass adds neutral-only reciprocal TRANSFER, the causativized SEE visibility triplet SHOW/REVEAL/HIDE, ESS+INCREASE transformation with MOVE versus LIVE/GROW, a third conservative route noun `ratu`, compositional FOLLOW as `X-GEN PATH-PERL MOVE`, an applied route relative, and a six-clause three-referent discourse regression. No structural contradiction surfaced.
 
 ## Next useful tests
 
-The highest-value next pass is broader lexical coverage rather than architectural repair: expand social-exchange and scalar/change-of-state verbs, discover genuine lexeme-specific voice/applicative blocking, add further conventional route nouns only when lexical evidence motivates `-mi`, and continue connected-text testing with denser same-person reference chains and mixed relative roles.
+The highest-value next pass remains lexical rather than architectural. The creation myth can now express its transfer, visibility, transformation, route-following, and core reference-tracking spine, but a full translation would still require ad hoc vocabulary for several recurrent concepts: sibling/kin, mist, body substances, find/search, possession/control, promise/obligation, sow/plant, return/repay, fruit/food, several animal subclasses, and understand/realize. These should be bootstrapped as lexical fields and immediately retested in the myth.
+
+The next dense text should extend the current six-clause myth regression to repeated social exchange and mixed PO/non-PO relatives over the same three PERSON referents, while checking whether PROMISE/RETURN-type predicates introduce further voice/applicative restrictions. Additional conservative `-mi` route nouns should be admitted only if the new lexicon develops independently conventional route senses.
 
 Permanent regression examples live in `EXAMPLES.tsv`. New connected text should continue to expose missing lexical coverage without creating ad hoc grammar; any genuinely new construction should be marked UNSPECIFIED and designed deliberately.
