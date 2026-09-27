@@ -126,8 +126,8 @@ River carries water toward the sea, but cannot carry hearth-fire into the upland
 `Tanuk maka narrir anpikuppi. Uru ratumi an rusinepi.`  
 Forest gives fruit to people, but cannot travel every path.
 
-`Samik matun ratumi rupi. Sami uru ratu an nipsinui.`  
-Herd travels the path of its season, but does not remember every path.
+`Samik matun ratumi rupi.`  
+Herd travels the path of its season.
 
 `Hanik hite hat pirir anpikuppi.`  
 An ancestor gives an old name to a child.
@@ -216,7 +216,7 @@ No one will use the path; then a child will walk it.
 `Nata pirik inpisirupi.`  
 The child finds the Seed. From this clause onward the prophecy is REAL.
 
-`Hite sapa pirik nipsinui. Nuru a. Nurrir pirik niphimuppi. Ri nipsinui.`  
+`Hite sapa pir nipsinui. Nuru a. Nurrir pirik niphimuppi. Ri nipsinui.`  
 The child remembers an old story. River is first apprehended as a thing; the child pledges to River as a person, and it is now referred to as PERSON.
 
 `Hite hat pirir nuruk anpikuppi. Pir inpisinui.`  
@@ -231,7 +231,7 @@ Its receiver plants it beside the river. Fruit grows.
 `Mak narik nipmitupi. Mak pirir anpikuppi.`  
 A person makes food from it and gives the food onward.
 
-`Hite hat pirik nipsinui. Mire sapa pirik niphupi.`  
+`Hite hat pir nipsinui. Mire sapa pirik niphupi.`  
 A child knows the old name and speaks a new story.
 
 `Risake kat nipinirupi. Ratu inpinui.`  
