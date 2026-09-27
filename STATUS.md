@@ -25,13 +25,12 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 
 ## Active questions
 
-- The historical conditioning of REFL-related `r- > j-` in MID, the deeper source of INST `-h`, and exact lexical sources for STATE/FACT grammaticalization remain to be reconstructed in HISTORY.md without changing their canonical synchronic functions.
 - Lexeme-specific exceptions to otherwise compositional voice/applicative licensing remain a lexical-growth priority. The first genuine blocker is now canonical: HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN; directional INCREASE RECEIVE and DECREASE GIVE are blocked under RECP. Further exceptions should be discovered from text rather than invented abstractly.
 - Conservative route PERL `-mi` is now lexically listed on `nuru` RIVER/river-route, `ram` BOAT, and `ratu` PATH/TRAIL. The licensing principle is settled; further members require independently conventional route senses rather than contextual coercion.
 
 ## Provisional systems
 
-No unresolved provisional subsystem remains from AUX lexicalization, residual nominal/discourse morphology, connected syntax, or high-vowel syncope. The syncope system is canonical: medial unstressed /i u/ reduction is constrained by morphological protection and exhaustive syllabifiability under `(C)(j)V(C)`; epenthetic /i/ is most reducible, candidates are tested right-to-left, and stress is recalculated after reduction. New lexical exceptions found by regression testing should remain provisional until independently supported.
+No unresolved provisional subsystem remains from AUX lexicalization, residual nominal/discourse morphology, connected syntax, high-vowel syncope, or the targeted residual diachrony. REFL/MID now derives from older *`ri-` through lexically initiated *`ri- > ji- > j-` reduction plus analogical spread; INST `-h` derives from proximal/presentative *`hi`; STATE `-k` derives from HANDLE/HOLD/KEEP *`ka`; FACT `-p` derives from anaphoric demonstrative *`pa`. These histories do not alter the established synchronic functions. New lexical exceptions found by regression testing should remain provisional until independently supported.
 
 ## Known conflicts
 
@@ -43,7 +42,7 @@ The permanent corpus now additionally tests constrained high-vowel syncope again
 
 ## Next useful tests
 
-The highest-value next pass remains lexical rather than architectural. The creation myth can now express its transfer, visibility, transformation, route-following, and core reference-tracking spine, but a full translation would still require ad hoc vocabulary for several recurrent concepts: sibling/kin, mist, body substances, find/search, possession/control, promise/obligation, sow/plant, return/repay, fruit/food, several animal subclasses, and understand/realize. These should be bootstrapped as lexical fields and immediately retested in the myth.
+The language is now in the maturity phase: no large structural or targeted residual-diachrony module is open. The highest-value next pass is lexical expansion under connected-text pressure. The creation myth can already express its transfer, visibility, transformation, route-following, and core reference-tracking spine, but a full translation would still require ad hoc vocabulary for several recurrent concepts: sibling/kin, mist, body substances, find/search, possession/control, promise/obligation, sow/plant, return/repay, fruit/food, several animal subclasses, and understand/realize. These should be bootstrapped as lexical fields and immediately retested in the myth.
 
 The next dense text should extend the current six-clause myth regression to repeated social exchange and mixed PO/non-PO relatives over the same three PERSON referents, while checking whether PROMISE/RETURN-type predicates introduce further voice/applicative restrictions. Additional conservative `-mi` route nouns should be admitted only if the new lexicon develops independently conventional route senses.
 
