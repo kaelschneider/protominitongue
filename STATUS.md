@@ -46,7 +46,7 @@ Kimi is Flesh-Giver; Nemi is Name-Keeper; Tasi is Path-Walker.
 `Kimi, kumi akar. Nemi, hat kar. Tasi, ratu rar.`  
 Ceremonial invocation: Kimi, Flesh Giver; Nemi, Name Keeper; Tasi, Path Walker.
 
-`Munum uru namik ratumi rupa. Mau namik hat niphupa.`  
+`Munumi uru namik ratumi rupa. Mau namik hat niphupa.`  
 Through the mist all three siblings walked the path. No sibling had yet spoken a name.
 
 `Kumi Kimik anpikupa. Niri Nemik anpikupa. Patu Nemik anpikupa. Sani Tasik anpikupa.`  
@@ -156,8 +156,8 @@ People plant seed by the river, cut wood, make shelter, and give prepared food t
 `Hat inpikupi ja sapa anpikupi.`  
 A name is received, and a story is given onward.
 
-`Nurrir narik niphimuppi. Tanrir narik niphimuppi. Kat sikupi.`  
-People pledge to River and Forest as social persons; gifts pass reciprocally.
+`Nuru narik nipsjupi. Ri nipsinui. Tanu narik nipsjupi. Ri nipsinui. Nurrir narik niphimuppi. Tanrir narik niphimuppi. Kat sikupi.`  
+People overtly establish River and Forest with PERSON reference, then pledge to them as social persons; gifts pass reciprocally.
 
 `Nar anpinui. Hani hanui inpirui.`  
 A person dies; the ancestor enters the living landscape.
@@ -216,8 +216,8 @@ No one will use the path; then a child will walk it.
 `Nata pirik inpisirupi.`  
 The child finds the Seed. From this clause onward the prophecy is REAL.
 
-`Hite sapa pir nipsinui. Nuru a pirik nipsjupi. Nurrir pirik niphimuppi. Nuru nipsinui.`  
-The child remembers an old story. The child first sees River with THING reference, then pledges to River as a social person; River is lexically repeated when it remembers because child and River are both discourse-prominent PERSON referents.
+`Hite sapa pir nipsinui. Nuru a pirik nipsjupi. Ri pirik nipsjupi. Nurrir pirik niphimuppi. Nuru nipsinui.`  
+The child remembers an old story. THING reference first resets River; overt PERSON `ri` then re-establishes personhood before the child pledges to River, and River is lexically repeated when it remembers because child and River are both discourse-prominent PERSON referents.
 
 `Hite hat pirir nuruk anpikuppi. Pir inpisinui.`  
 River gives the child the old name. The child understands.
@@ -237,8 +237,8 @@ A child knows the old name and speaks a new story.
 `Risake kat nipinirupi. Ratu inpinui.`  
 A gift returns changed. The path grows.
 
-`Nuru ri narik nipsjupi. Tanu ri narik nipsjupi.`  
-People again construe River and Forest with PERSON reference.
+`Nuru narik nipsjupi. Ri nipsinui. Tanu narik nipsjupi. Ri nipsinui.`  
+People again see River and Forest and overtly resume each with PERSON reference.
 
 `Kat sikupi. Ratumi niprumpi. Munu anpirui.`  
 Gifts pass reciprocally; people travel the path; the mist withdraws.
@@ -268,6 +268,7 @@ The next lexical-development pass will test the following accepted proposals in 
 - **Social kin vocabulary:** basic kin terms may broaden to foster, co-residential, or cohort relationships, while recurrent GEN/COM or comparable relational phrases may become conventional social labels and only later fuse lexically. No large new kin paradigm is assumed in advance.
 - **Lexical expansion strategy:** develop daily material life, ecology/mobility, and social life together in small interacting sets. New text-motivated vocabulary should recur or prove independently useful before becoming canon.
 - **Historical texture:** prefer a layered lexicon: inherited basic vocabulary, transparent younger derivatives, and a smaller high-frequency layer of eroded, semantically shifted, or fossilized forms.
+- **Learnability default:** new vocabulary should preferentially use transparent productive derivation. Opaque inherited words remain canonical, but new opaque lexicalization requires recurrent use or independently motivated semantic specialization.
 
 ## Planned maturity-test corpus
 
@@ -321,8 +322,8 @@ The traveler did not take all the food or all the timber.
 `Hure matut mau maka nipinua. Mau suma nipinua. Maka ratumi re narik inpisirupa. Sene suma ratumi re narik inpisirupa.`  
 In the cold season no edible plant yield and no fungi were available; nevertheless the traveler found edible yield and edible/safe fungi.
 
-`Tanrir ratumi re narik niphuppa. Tanu pirik nipsjupa.`  
-The traveler spoke to Forest as a social person; a child saw Forest during the encounter.
+`Tanu ratumi re narik nipsjupa. Ri nipsinua. Tanrir ratumi re narik niphuppa. Tanu pirik nipsjupa.`  
+The traveler saw Forest and overtly resumed it with PERSON reference before speaking to Forest socially; a child saw Forest during the encounter.
 
 `Maka nar nipsinua. Suma nar nipsinua. Ratu nar nipsinua. Matu nar nipsinua.`  
 The people learned the edible growth, fungi, paths, and seasons.
@@ -359,7 +360,7 @@ The ten norms are:
    If seed is taken, seed is planted; people do not take all living yield.
 
 4. **Using / Sustaining — herd and country**  
-   `Samik matun ratumi rupi. Nurrir ja Tanrir narik niphimuppi.`  
+   `Samik matun ratumi rupi. Nuru narik nipsjupi. Ri nipsinui. Tanu narik nipsjupi. Ri nipsinui. Nurrir ja Tanrir narik niphimuppi.`  
    Herds use their seasonal paths; people stand in reciprocal obligation to River and Forest. The joined wording uses ordinary same-role NP coordination with repeated SOCIAL DAT; paired repetition remains available as the older formal variant.
 
 5. **Receiving / Guarding — roof**  
@@ -393,10 +394,16 @@ When return is persistently withheld, reciprocal exchange ceases and the path re
 
 Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, the two fixed legal pre-syncope forms, same-role NP coordination, strict inactive MOVE, case-marked temporal/existential framing, impersonal naming, food-domain EDIBLE, elliptical GEN predication, and NOT-ALL quantifier scope.
 
+## Learnability consolidation — completed
+
+The two-pass learnability regression is canonical. Productive PERL is now `-mi` versus INS `-m`; noun-class vowels are stored stem themes rather than case-selected alternants; productive syncope is restricted to repair/linker /i/; only MOVE and BREATHE/EMIT remain genuinely fluid-S; other alignment contrasts are listed by lexical sense. Nonhuman PERSON status now requires overt establishment by PERSON reference or classifier before SOCIAL case and persists only through a coherent topic chain. Third-person switches require an overt pronoun or lexical NP. Two-AUX words are reserved mainly for discourse-relevant scope contrasts. Ordinary prose now has overt `matut` IF/WHEN and `hapim` BECAUSE beside older compact strategies. New lexical growth preferentially uses transparent productive derivation.
+
+Regression updates repair former `-m` PERL examples, establish nonhuman PERSON reference before SOCIAL morphology, retain marked two-AUX scope examples, and add direct tests for `matut`, `hapim`, and stem-theme versus linker behavior. No new structural contradiction surfaced.
+
 ## Active questions
 
 - Lexeme-specific restrictions remain a lexical-growth priority. Two blockers are now canonical: HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN, and RETURN/RESTORE lexically encodes reversal so ordinary INCREASE/DECREASE forms are blocked. Further exceptions should continue to emerge from connected text rather than being invented abstractly.
-- Conservative route PERL `-mi` is now lexically listed on `nuru` RIVER/river-route, `ram` BOAT, and `ratu` PATH/TRAIL. The licensing principle is settled; further members require independently conventional route senses rather than contextual coercion.
+- PERL `-mi` is now the productive route case across nouns and pronouns, contrasting with INS `-m`. The old lexical licensing restriction is closed; `ram` retains only its separately fossilized INS `ram`.
 - Productive naming is now settled as the restricted impersonal SAY+ORIENTEE construction of G-SYN-015: generic A is suppressed, the named participant controls U as the implicit ORIENTEE, and the designation remains non-PO content. Established-name identification remains zero-copular `X-GEN hat NAME`.
 
 ## Provisional systems
@@ -418,9 +425,9 @@ Phase 2 is now complete. The place-personhood regression adds bounded salvage, r
 
 The sacred-cycle lexical and register bottleneck list is closed. In addition to the earlier lexical fields, the language now has canonical NEG `an`, content interrogative `mi`, polar `he`, linker/coordinator `ja`, explicit ALL/NONE `uru/mau`, zero-copular nominal identity, ESS+STAND role predication, LIVE/SIT existential strategies, a full LIVE/GROW life-cycle profile, conventional HANDLE-converb+MOVE CARRY, impersonal SAY+ORIENTEE naming, lexical STORY `sapa`, food-domain EDIBLE `sena`, earth/sky/air vocabulary, cyclical season versus genealogical era, OLD/NEW statives, and the three-layer sacred title system.
 
-Full sacred-text translation and ritual-register/metaphor regression are complete, and the corpus-wide constructional regression has synchronized the sacred cycle, folktales, heroic bridge saga, and assembly code with current grammar. The assembly code confirms that hospitality, spoken obligation, witness-source distinctions, accepted custody, ecological reciprocity, and relational compensation can be expressed without a separate legal grammar. The next useful work is consolidation: test the spreading bare-DEP conditional in additional ordinary discourse, extend the new LIVE/SIT existential contrast beyond the saga, test impersonal naming outside a single regression, and keep neutral custody distinct from culpability in further uses of `pur`. The heroine's personal name and any explicit descendant-of-creator formulation remain intentionally unset.
+Full sacred-text translation and ritual-register/metaphor regression are complete, and the corpus-wide constructional regression has synchronized the sacred cycle, folktales, heroic bridge saga, and assembly code with current grammar. The assembly code confirms that hospitality, spoken obligation, witness-source distinctions, accepted custody, ecological reciprocity, and relational compensation can be expressed without a separate legal grammar. The next useful work is consolidation: test ordinary `matut` IF/WHEN and `hapim` BECAUSE in additional connected discourse, extend the LIVE/SIT existential contrast beyond the saga, test impersonal naming outside a single regression, and keep neutral custody distinct from culpability in further uses of `pur`. The heroine's personal name and any explicit descendant-of-creator formulation remain intentionally unset.
 
-New lexical exceptions should be retained only after they recur outside a single poetic line. Additional conservative `-mi` route nouns remain lexical and require independently conventional route senses.
+New lexical exceptions should be retained only after they recur outside a single poetic line. PERL `-mi` is now productive across ordinary nouns; route nouns no longer require separate lexical licensing.
 
 Permanent regression examples live in `EXAMPLES.tsv`; canonical sacred orthography and translations live above in this file.
 
