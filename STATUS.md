@@ -76,7 +76,7 @@ Kimi saw fish; Nemi saw bird; Kimi saw the crawler; Nemi saw the person.
 `Kimi inpisinua. Nemi inpisinua. Kat sikupa.`  
 Kimi understood; Nemi understood; gifts passed reciprocally.
 
-`Anpike kat risake nipnirupi.`  
+`Anpike kat risake nipinirupi.`  
 What is given returns changed.
 
 `Ratuk re nar nipsinupi.`  
@@ -117,7 +117,7 @@ A hand becomes a path. A person carries a name onward.
 `Nar kat nipkupi. Nar kat anpikupi. Ratu inpinui.`  
 A person carries a gift, gives it onward, and the path grows.
 
-`Risake kat nipnirupi. Ratu inpinui.`  
+`Risake kat nipinirupi. Ratu inpinui.`  
 A gift returns in changed state; the path grows.
 
 `Nar hanje irupi. Hat pirir hanik anpikuppi. Hani tanui irupi.`  
@@ -161,16 +161,16 @@ The child will give the seed away; its receiver will plant it beside the river.
 `Maka nipinui.`  
 Fruit grows. Here the prophecy turns from projected restoration to present reality.
 
-`Mak narik nipmitupi. Mak pirir anpikuppi. Kat nipnirupi.`  
+`Mak narik nipmitupi. Mak pirir anpikuppi. Kat nipinirupi.`  
 A person makes food; gives food to a child; a gift is returned.
 
-`Risake kat nipnirupi. Ratu inpinui.`  
+`Risake kat nipinirupi. Ratu inpinui.`  
 A gift returns changed; the path grows.
 
 `Kat sikupi. Ratumi niprumpi. Munu arupi.`  
 Gifts pass reciprocally; people travel the path; the mist withdraws.
 
-`Anpike kat risake nipnirupi.`  
+`Anpike kat risake nipinirupi.`  
 What is given returns changed.
 
 `Ratuk re nar nipsinupi.`  
