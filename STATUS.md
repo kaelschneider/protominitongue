@@ -416,6 +416,16 @@ The two-pass learnability regression is canonical. Productive PERL is now `-mi` 
 
 Regression updates repair former `-m` PERL examples, establish nonhuman PERSON reference before SOCIAL morphology, retain marked two-AUX scope examples, and add direct tests for `matut`, `hapim`, and stem-theme versus linker behavior. No new structural contradiction surfaced.
 
+## Core degree, numeral, and demonstrative closure — completed
+
+The remaining ordinary-language core gaps are closed. Superlatives extend the existing relational comparative by using exhaustive `uru` ALL as the comparison set; bare gradable predicates remain context-relative unless an explicit standard is supplied. Excess and sufficiency use threshold predicates `tuma` EXCEED and `pura` REACH, while general approximation uses `hami` ABOUT.
+
+The counting inventory is quinary-decimal historically but decimal synchronically: `pe tu juk sem hu` 1–5, fossilized FIVE+N `hup hut hujuk husem` 6–9, and `jun` 10. Higher decades are multiplicative and units additive. Fractions reuse the existing GEN+PART construction (`jukin sa pe` 1/3, `jukin sa tu` 2/3), and distributives use postnumeral `pari` EACH.
+
+Deixis is two-way. Proximal `hira` continues expanded presentative/proximal *`hi`; distal `ara` expands old distal *`a`, whose reduced descendant remains the 3P THING pronoun. Both demonstratives precede the noun, consistent with the later attributive-order decision; LOC gives `hirat` HERE and `arat` THERE. The earlier postnominal wording in G-SYN-021 was stale and has been repaired.
+
+Regression examples EX-0172–EX-0180 test prenominal deixis, DEM+LOC, plural selection with higher numerals, decimal composition, fractional GEN+PART syntax, distributives, approximation, and distal/pronominal historical separation. No new case, degree inflection, fractional morphology, or demonstrative paradigm is required.
+
 ## Active questions
 
 - Lexeme-specific restrictions remain a lexical-growth priority. HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN. RETURN/RESTORE blocks ordinary INCREASE/DECREASE forms for two related but distinct lexical reasons: RETURN is endpoint-oriented toward recovery of a prior state/place/holder, while RESTORE is result-oriented toward recovery of a contextual norm; partial or greater restoration is expressed outside verbal grade. Further exceptions should continue to emerge from connected text rather than being invented abstractly.
