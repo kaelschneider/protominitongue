@@ -259,7 +259,15 @@ Ordinary contemporary prose usually makes the relation overt with clause-initial
 
 **G-SYN-020.** Cardinal numerals follow the noun in the ordinary NP. ONE is compatible with morphologically singular reference; TWO selects plural unless the referent is a conventional coherent natural pair, where established dual morphology remains available; THREE and higher select plural. Ordinals are attributive predicates derived from the corresponding numeral and therefore precede the noun in their DEP attributive form rather than creating a separate ordinal inflectional slot.
 
-**G-SYN-021.** Demonstratives form a proximal/distal contrast and normally occupy the right edge of the NP: `ATTR–N–DEM`. Contrastive demonstrative focus may front the demonstrative across the noun, yielding `ATTR–DEM–N`; this is information-structural movement, not a second demonstrative paradigm. The distal series is historically related to THING pronoun `a` under G-MORPH-016.
+**G-SYN-021.** Demonstratives form a proximal/distal contrast and are attributive elements preceding the noun. When another attributive predicate is present, the ordinary order is `ATTR–DEM–N`; demonstrative focus may move the demonstrative to the left edge of the NP without creating a second paradigm. Proximal `hira` continues an expanded PRESENT/HERE stem based on old presentative *`hi`; distal `ara` is an expanded descendant of old distal *`a`, whose reduced form survives independently as the THING pronoun `a` under G-MORPH-016. The corresponding place adverbs are transparently LOC-marked `hirat` “here” and `arat` “there”.
+
+**G-SYN-022.** Cardinal numerals are `pe` ONE, `tu` TWO, `juk` THREE, `sem` FOUR, `hu` FIVE, `hup` SIX, `hut` SEVEN, `hujuk` EIGHT, `husem` NINE, and `jun` TEN. ONE–FIVE and TEN are inherited roots. SIX–NINE are synchronically ordinary numeral lexemes but retain increasingly transparent traces of older FIVE+N composition (`*hu+pe`, `*hu+tu`, `*hu+juk`, `*hu+sem`). Higher decades are multiplicative: `tu jun` 20, `juk jun` 30; a following unit is additive, so `tu jun juk` is 23. The general NP rules of G-SYN-020 continue to govern noun number.
+
+**G-SYN-023.** Fractions use the existing PART head `sa`. A substantivized denominator numeral bears GEN, with the generalized linker before consonant-only GEN where phonotactics require it; the numerator counts `sa` in ordinary postnominal numeral order. Thus `jukin sa pe` is 1/3 and `jukin sa tu` is 2/3. This is productive PART syntax, not a special fractional paradigm. Distributives use postnumeral `pari` EACH: `N NUM pari` means “NUM each/apiece”.
+
+**G-SYN-024.** Approximation uses preverbal/preconstituent particle `hami` ABOUT/AROUND with semantic scope over the following quantity, measure, time expression, or gradable proposition. It is not restricted to numerals. Excess and sufficiency are explicit threshold constructions: gradable `X` plus `tuma` EXCEED/GO-BEYOND a contextual or overt limit yields “too X”, while `pura` REACH/MEET a contextual or overt requirement yields “X enough”. Bare gradable predicates remain neutral for absolute versus context-relative interpretation; the comparison class is normally supplied by discourse.
+
+**G-SYN-025.** Superlatives are compositional extensions of G-SYN-017: the comparison standard is the exhaustive set marked by `uru` ALL, yielding the sense “X is PROPERTY beyond all relevant Y”. The set noun is recoverable and may be omitted when unambiguous. There is no dedicated superlative exponent.
 
 ## Semantics and pragmatics
 
@@ -309,6 +317,9 @@ ESS result complements also support a conventional change-of-state strategy with
 | --- | --- | --- |
 | N | noun | Includes inherited classed nouns and lexicalized nominal derivatives. |
 | V | verb | Includes eventive and stative verbs; adjectives are stative verbs under G-SYN-003. |
+| NUM | numeral | Cardinal numeral lexeme; may be substantivized for constructions such as fractional denominators. |
+| DEM | demonstrative | Attributive deictic stem; LOC derives the corresponding place adverb. |
+| PART | particle | Function word, coordinator, quantifier-like operator, or discourse/semantic particle. |
 
 ### Project-specific gloss abbreviations
 
