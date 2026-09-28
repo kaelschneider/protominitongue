@@ -368,8 +368,8 @@ The ten norms are:
    If something is received/taken, an appropriate changed return is made.
 
 2. **Passing / Keeping Open — path**  
-   `Ratu nipitire, mire ratu narik nipmitupi.`  
-   If a path is cut, a new path is made. The fixed legal protasis preserves pre-syncope `nipitire` beside ordinary `niptire`.
+   `Ratu niptire, mire ratu narik nipmitupi.`  
+   If a path is cut, a new path is made. The fixed legal protasis preserves pre-syncope `niptire` beside ordinary `niptire`.
 
 3. **Taking / Renewing — seed**  
    `Nata inpike, nata narik nipinitupi. Uru maka narik an inpikupi.`  
@@ -384,8 +384,8 @@ The ten norms are:
    A traveler remains under the roof; food is customarily given to the traveler.
 
 6. **Promising / Answering — word**  
-   `Himak jinipitire, risake kat nipinirupi.`  
-   If a pledge breaks, a fitting changed return is made. Fixed legal `jinipitire` preserves the second listed pre-syncope form.
+   `Himak jiniptire, risake kat nipinirupi.`  
+   If a pledge breaks, a fitting changed return is made. Fixed legal `jiniptire` preserves the second listed pre-syncope form.
 
 7. **Seeing / Speaking — eye**  
    `Sapa narik niphupi. Mik nipsjupi? Mik niphupi?`  
@@ -408,7 +408,7 @@ General escalation remains outside the individual norms:
 `Kat an nipinirupi. Kat an sikupi. Ratu anpirui.`  
 When return is persistently withheld, reciprocal exchange ceases and the path recedes.
 
-Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, the two fixed legal pre-syncope forms, same-role NP coordination, strict inactive MOVE, case-marked temporal/existential framing, impersonal naming, food-domain EDIBLE, elliptical GEN predication, and NOT-ALL quantifier scope.
+Targeted permanent regressions for the new grammar and lexicon are now in `EXAMPLES.tsv`: GROWING `suma`, literal and abstract `pur`, nonlegal bare-DEP conditionals, PATH+SHOW guidance, CAUS-KNOW propositional teaching, responsibility-by-acceptance, the corresponding current-grammar legal forms, same-role NP coordination, strict inactive MOVE, case-marked temporal/existential framing, impersonal naming, food-domain EDIBLE, elliptical GEN predication, and NOT-ALL quantifier scope.
 
 ## Learnability consolidation — completed
 
@@ -426,6 +426,21 @@ Deixis is two-way. Proximal `hira` continues expanded presentative/proximal *`hi
 
 Regression examples EX-0172–EX-0180 test prenominal deixis, DEM+LOC, plural selection with higher numerals, decimal composition, fractional GEN+PART syntax, distributives, approximation, and distal/pronominal historical separation. No new case, degree inflection, fractional morphology, or demonstrative paradigm is required.
 
+
+## Ordinary discourse consolidation — completed
+
+Unplanned multi-speaker regressions confirm that ordinary discourse can remain epistemically sparse while still distinguishing direct perception, inference, and report whenever source matters. Negative KNOW and explicit perceptual predicates handle most uncertainty; reduced `sin` MAYBE/POSSIBLY descends from ABLE `sine`, independent `nuta` THINK denotes deliberate cognition, and lexicalized internal-SAY `jiha` SUPPOSE handles tentative judgment. Opaque adversative `pat` BUT descends historically from an ACROSS/OPPOSITE-SIDE expression related to `pata`; bare correction and contrasting evidence remain available beside it.
+
+Inclusive proposals now use the mildly irregular MOVE/COME-derived finite hortative `-ra`, productive with controllable joint actions and distinct from NECESSARY advice. Demonstratives remain primarily deictic but may take informative attributive classifiers; classifier-bearing forms can identify a particular salient referent and stand without a noun, while bare `hira/ara` remain ordinary THIS/THAT. This light identifying effect is not a definite article and cannot by itself establish nonhuman PERSON status. Default NP order is DEM–NUM–ATTR–N, with classification normally expressed only where informative.
+
+Distal `ara` has also conventionalized as invariant temporal THEN “after that event”. It may resume the preceding event across speakers but does not mean THEREFORE; `ja` and juxtaposition remain ordinary sequencing strategies. The practical-teaching tendency is therefore best analyzed as culturally frequent discourse organization rather than grammar: observable evidence/checking often precedes consequential action, and `hapim` commonly supplies a non-obvious safety reason, but routine actions need neither component.
+
+### Corpus modernization regression
+
+The sacred cycle, remembered herd-path folktale, place-personhood folktale, guest-storyteller folktale, heroic bridge/child-discovery/forest-transformation cycle, and assembly code have been re-audited against the current grammar. Canonical narrative language no longer licenses obsolete morphology or syntax as “ritual grammar”: former fixed pre-syncope legal forms have been normalized to productive forms, and all canonical lines must now parse under the same synchronic grammar as ordinary speech. Sacred and customary register remains distinct through conservative vocabulary, metaphor, repetition, parallelism, and clause compression.
+
+The regression also checks current contrasts wherever their intended meanings occur: LIVE/GROW versus SIT/REMAIN, perception versus KNOW/UNDERSTAND, `pur` responsibility versus culpability, direct witness versus received report, current demonstrative order/classification, `matut` IF/WHEN, `hapim` reason/cause, and temporal `ara`. Newer constructions are not inserted merely for coverage; they appear only where the narrative discourse motivates them. No structural contradiction surfaced.
+
 ## Active questions
 
 - Lexeme-specific restrictions remain a lexical-growth priority. HANDLE/TRANSFER licenses RECP only under neutral MAINTAIN. RETURN/RESTORE blocks ordinary INCREASE/DECREASE forms for two related but distinct lexical reasons: RETURN is endpoint-oriented toward recovery of a prior state/place/holder, while RESTORE is result-oriented toward recovery of a contextual norm; partial or greater restoration is expressed outside verbal grade. Further exceptions should continue to emerge from connected text rather than being invented abstractly.
@@ -442,7 +457,7 @@ No unresolved structural contradiction is known after the corpus-wide constructi
 
 ## Regression coverage
 
-The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, strict active–stative S case/agreement covariance, lexical derivational residue, transfer/posture/knowledge/search REL profiles, information-structure/BNI interaction, PERSON/THING reference under topic competition, and connected stress texts. The sacred-cycle suite now includes the complete canonical orthographic recitation of all three narratives, neutral-only reciprocal TRANSFER, inherent-return REL blocking, SHOW/REVEAL/HIDE, transformation with MOVE versus LIVE/GROW, lexical route `ratu`, compositional FOLLOW, cultivation, promise to a nonhuman SOCIAL person, GROWING→MADE fruit/food construal, body-substance transformations, animal subclasses, deliberate THING→PERSON landscape shifts, a fixed pre-syncope ritual archaism, conventional metaphor regressions for PATH/NAME/MIST/RETURN, and a prophecy whose restoration hinge shifts from IRREALIS to REAL. The first folktale phase now additionally tests ordinary herding, path splitting, OLD/NEW route contrast, loss/recovery of a trail, transparent sleep circumstantials beside lexical `man` DREAM and `sjan` VISION, parallel animal/place SOCIAL personhood, household transmission, and specific zero-copular name identification. No structural contradiction surfaced.
+The permanent corpus now additionally tests constrained high-vowel syncope against nominal linkers, U-indexed verbal chains, `Cj` onsets, blocked illegal outputs (`*pant`, `*panast`, `*niptruki`, `*nipknui`), and post-syncope stress, alongside strict outer-PO two-applicative stacks in both orders, local-person U override against a third-person PO, obligatory U traces in PO relatives, non-PO relatives that preserve the actual U-controller, strict active–stative S case/agreement covariance, lexical derivational residue, transfer/posture/knowledge/search REL profiles, information-structure/BNI interaction, PERSON/THING reference under topic competition, and connected stress texts. The sacred-cycle suite now includes the complete canonical orthographic recitation of all three narratives, neutral-only reciprocal TRANSFER, inherent-return REL blocking, SHOW/REVEAL/HIDE, transformation with MOVE versus LIVE/GROW, lexical route `ratu`, compositional FOLLOW, cultivation, promise to a nonhuman SOCIAL person, GROWING→MADE fruit/food construal, body-substance transformations, animal subclasses, deliberate THING→PERSON landscape shifts, conventional metaphor regressions for PATH/NAME/MIST/RETURN, and a prophecy whose restoration hinge shifts from IRREALIS to REAL. The first folktale phase now additionally tests ordinary herding, path splitting, OLD/NEW route contrast, loss/recovery of a trail, transparent sleep circumstantials beside lexical `man` DREAM and `sjan` VISION, parallel animal/place SOCIAL personhood, household transmission, and specific zero-copular name identification. No structural contradiction surfaced.
 
 
 Phase 2 is now complete. The place-personhood regression adds bounded salvage, repair versus relational restoration, child-led PERSON reference, continued reciprocal resource use, and settlement/architecture vocabulary. The guest-storyteller regression adds received-testimony versus direct-witness contrast, nested direct speech without a quotative, exactly three hearth question-turns, promise conflict, hospitality expressed through house-stay and food transfer, ambiguous custody of a carried object, contextual `hap` message-content, and contamination/taboo versus place-personhood ambiguity. No structural contradiction surfaced.
@@ -497,7 +512,7 @@ Confirmed ordinary-use results:
 - WHERE remains regular interrogative LOC `mit`. COME remains MOVE with proximal `hirat`; DECREASE-MOVE supplies departure.
 - ABANDON is intentional. Accidental leaving uses resultative location and/or `sita` FORGET; forgetting an object/task is distinct from losing knowledge and from losing an object's unknown location.
 - Optional calling particle `i` is a fossil vocative-derived attention call with names/kin terms, not a productive case.
-- Adult-to-child practical teaching favors direct routine commands, observable safety tests, and explicit `hapim` reasons in warnings. “SEE/CHECK first, then …” is frequent but remains provisional as a grammaticalization pathway.
+- Adult-to-child practical teaching favors direct routine commands, observable safety tests, and explicit `hapim` reasons in warnings. Consequential teaching frequently follows evidence/CHECK → action → explicit reason; temporal `ara` can mark “then/after that”. This remains a discourse preference rather than a dedicated construction.
 
 ### Diagnostic compatibility audit
 
