@@ -481,3 +481,45 @@ The reciprocal ending is cyclic rather than sacrificial in isolation: the heroin
 ### Resulting discovery targets
 
 The hero-cycle pass does not require a new grammatical subsystem. Productive spatial postpositions remain a lexical-development target rather than being silently completed here. HEART > INSIDE/CENTER now has unusually strong historical-cultural motivation, but the exact reduced postposition inventory and forms still require independent connected-text testing. The heroine's true personal name likewise remains intentionally unset even though the tradition now establishes that such a name existed and became the forest's name.
+
+
+## Lexical productivity and ordinary-use consolidation
+
+The current pass is accepted and regression-tested. Productive semantic classes provide the default prediction; lexicon entries record only confirmed deviations. A compatibility matrix, when generated, is diagnostic rather than an independent source of canon.
+
+Confirmed ordinary-use results:
+- MAKE permits result-focused MID maker-backgrounding; EAT permits literal reflexive construal without a special reflexive sense.
+- CARRY is synchronically lexical `kera`; ordinary beneficiary applicativization remains productive and is distinct from destination.
+- DRINK and MEND have no special three-way REL profile. RETURN/RESTORE still blocks INCREASE/DECREASE; HANDLE/TRANSFER still restricts RECP to MAINTAIN.
+- PROMISE permits reciprocal commitment around a shared FACT. SEARCH permits reciprocal search/track readings by context. PICK/GATHER permits literal reciprocal participants but does not lexicalize ASSEMBLE.
+- PICK/GATHER `pika`, PLACE `kima`, WISH/DESIRE `nisa`, ABANDON `hara`, HUNGRY `mina`, and object/task FORGET `sita` are ordinary lexemes. WANT is the grammaticalized DEP `nise` auxiliary use of WISH.
+- Living-location construal favors LIVE/GROW while attached/growing and SIT/REMAIN after gathering/detachment; visibly viable detached growth may retain LIVE/GROW. PLACE MID is change into position; SIT is the resulting state.
+- WHERE remains regular interrogative LOC `mit`. COME remains MOVE with proximal `hirat`; DECREASE-MOVE supplies departure.
+- ABANDON is intentional. Accidental leaving uses resultative location and/or `sita` FORGET; forgetting an object/task is distinct from losing knowledge and from losing an object's unknown location.
+- Optional calling particle `i` is a fossil vocative-derived attention call with names/kin terms, not a productive case.
+- Adult-to-child practical teaching favors direct routine commands, observable safety tests, and explicit `hapim` reasons in warnings. “SEE/CHECK first, then …” is frequent but remains provisional as a grammaticalization pathway.
+
+### Diagnostic compatibility audit
+
+Use this as a regression aid, not as a second grammar. Unlisted cells inherit productive semantic-class defaults.
+
+| Lexeme | Confirmed exceptional or newly tested behavior |
+| --- | --- |
+| `ka` HANDLE/TRANSFER | RECP only under MAINTAIN; directional INCREASE/DECREASE block RECP |
+| `nira` RETURN/RESTORE | INCREASE/DECREASE blocked |
+| `mita` MAKE | result-focused MID anticausative licensed |
+| `pisa` EAT | literal REFL possible; no special reflexive sense |
+| `kera` CARRY | beneficiary AFF productive; no productive decomposition |
+| `naka` DRINK | REL-neutral; no aspect-like REL profile |
+| `hima` PROMISE | RECP productive with shared FACT |
+| `sira` SEARCH | RECP productive; mutual search/track context-dependent |
+| `sja` SEE | applicative cannot itself derive SHOW; LEX.CAUS remains distinct |
+| `misa` MEND | REL-neutral; RESTORE remains lexically distinct |
+| `pika` PICK/GATHER | AFF productive; literal RECP only, not ASSEMBLE |
+| `kima` PLACE | MID productive; INCREASE+MID marks salient/intended arrival |
+| `nisa` WISH | FACT favored; experiencer U; AFF productive; REFL only literal |
+| `hara` ABANDON | intentional by lexical meaning |
+| `mina` HUNGRY | fixed inactive/U bodily state |
+| `sita` FORGET | object/task lapse; excludes loss of knowledge and simple unknown-location LOSE |
+
+Next useful work is continued unplanned connected discourse. New lexical restrictions should become canon only when repeated natural usage exposes them; do not pre-fill a universal compatibility grid.
