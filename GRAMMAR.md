@@ -251,6 +251,16 @@ Ordinary contemporary prose usually makes the relation overt with clause-initial
 
 **G-SYN-016.** Ordinary explicit causal linkage uses clause-initial `hapim` BECAUSE before a dependent cause clause: schematically `hapim X V-DEP, Y V-REAL`. The linker grammaticalized from `h-a-p-i-m`, literally SAY-NF-FACT-LNK-INS “by/given the fact”; synchronically connector `hapim` is fixed and does not inflect. Productive FACT nominalizations and EVENT+INS converbs remain independent constructions. Elevated narrative may instead leave causality implicit or use consequential `ja` when the reason relation is recoverable.
 
+**G-SYN-017.** Ordinary comparison is relational rather than a dedicated comparative degree morphology. The standard is construed as the separated reference point, while the gradable predicate itself remains in its ordinary MAINTAIN form: schematically `X STANDARD-DECREASE.REL X-PROPERTY`, “X is PROPERTY relative to/away from STANDARD.” DECREASE on the gradable predicate itself retains G-SEM-003 “become less X” and is not a comparative exponent. Equality uses ordinary NEG DIFFERENT/CHANGED or an appropriate shared-state construction rather than a dedicated equative morpheme.
+
+**G-SYN-018.** Commands do not introduce a dedicated imperative slot. An ordinary directive uses the minimally marked finite predicate with the addressee recoverable from discourse; IRREALIS supplies a stronger projected/emphatic directive when required. Prohibition is transparently `an + command`; no productive fused prohibitive is posited.
+
+**G-SYN-019.** Disjunction uses `mi` in a grammaticalized interrogative-derived coordinator construction between alternatives. This OR use is distinguished from content-question `mi` by coordination position and parallel alternatives; it does not require clause-final `he`.
+
+**G-SYN-020.** Cardinal numerals follow the noun in the ordinary NP. ONE is compatible with morphologically singular reference; TWO selects plural unless the referent is a conventional coherent natural pair, where established dual morphology remains available; THREE and higher select plural. Ordinals are attributive predicates derived from the corresponding numeral and therefore precede the noun in their DEP attributive form rather than creating a separate ordinal inflectional slot.
+
+**G-SYN-021.** Demonstratives form a proximal/distal contrast and normally occupy the right edge of the NP: `ATTR–N–DEM`. Contrastive demonstrative focus may front the demonstrative across the noun, yielding `ATTR–DEM–N`; this is information-structural movement, not a second demonstrative paradigm. The distal series is historically related to THING pronoun `a` under G-MORPH-016.
+
 ## Semantics and pragmatics
 
 **G-SEM-001.** REL describes change or maintenance of relation, not participant role. INCREASE tends toward convergence, connection, entry, strengthening, or scalar increase; DECREASE toward divergence, separation, exit, weakening, or scalar decrease; MAINTAIN follows a stable relation or root-specific baseline. Extensions are conventional to semantic classes and roots.
