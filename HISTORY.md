@@ -125,3 +125,18 @@ HEART `kuru` is a fossil deverbal noun historically related to `kura` BEAT/PULSE
 Two common motion/subsistence verbs preserve opaque lexicalized complexes. `kera` CARRY continues Pre-Proto HANDLE `*ka` + MOVE `*ra`, but is synchronically indivisible and supplies no productive V+V compounding rule. `naka` DRINK likewise reflects an old HANDLE+WATER expression remodeled into an inherited-looking biconsonantal stem; synchronically it is an independent basic verb parallel to EAT.
 
 The heroic cycle also establishes a traditional true-name history. The unnamed traveler of the bridge saga withholds her true personal name through most of her life. In the transformation tale she gives it privately to the grown witness; after she becomes a particular forest, the witness transmits that name as the forest's name. Later explanations variously connect the earlier withholding to ordinary name restraint, suspected descent from Tasi, and the reciprocal obligations created by true-name exchange. The oldest tradition does not choose among these explanations.
+
+
+### Ordinary-life lexical consolidation
+
+A later ordinary-language layer preserved the existing preference for productive morphology where event structure was already predictable while lexicalizing genuinely basic distinctions. HANDLE/TRANSFER continued to supply TAKE and GIVE through INCREASE/DECREASE REL, and MOVE supplied departure through DECREASE plus ordinary spatial case. COME remained MOVE with an overt proximal goal rather than developing a ventive exponent.
+
+Several inherited biconsonantal roots expanded the everyday lexicon: *pk > `pika` PICK/GATHER, *km > `kima` PLACE, *ns > `nisa` WISH/DESIRE, *mn > `mina` HUNGRY, and *st > `sita` FORGET an object/task. WISH/DESIRE developed a frequent dependent construction; DEP `nise` was reanalyzed as WANT AUX while the lexical verb retained propositional FACT complements and experiencer alignment. Cognitive DECREASE-KNOW remained “forget/lose knowledge”, leaving `sita` for neglected objects and intended tasks.
+
+PLACE developed an ordinary middle “become positioned”; an INCREASE+MID variant foregrounded reaching the intended position. MAKE independently extended MID to result-focused maker-backgrounding. These extensions remained lexical-semantic developments rather than a new voice subsystem.
+
+The older HANDLE+MOVE collocation lexicalized fully as `kera` CARRY. Once stored as an independent verb it accepted ordinary applicatives again, including a beneficiary distinct from a spatial destination, without restoring productive decomposition. DRINK `naka` underwent comparable lexicalization but did not acquire a three-way REL profile.
+
+The interrogative LOC `mit` WHERE remained synchronically regular `mi`+LOC; an older “which/what place?” construction reinforced its high-frequency spatial use. A fossil vocative element detached from its old paradigm as optional calling particle `i`, especially with personal names and kin terms, after productive vocative inflection disappeared.
+
+Practical adult-to-child instruction increasingly favored short directives followed by explicit causal explanation when danger mattered. Repeated “SEE/CHECK first, then …” sequences became conventional in food, path, fire, and tool teaching, but at the present stage remain a discourse construction rather than a grammaticalized precautionary auxiliary.
