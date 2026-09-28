@@ -23,6 +23,22 @@ Accepted design context. These facts may motivate later lexical, semantic, pragm
 - **Kinship and gender:** genealogy matters, but upbringing, co-residence, fostering, and reciprocal obligation can create socially genuine kin. Gender is important especially in kinship and reproduction, but cohort, household, skill, and relationship usually organize social life more strongly.
 - **Recurring cultural tensions:** mobility versus attachment to ancestral places; inherited ritual authority versus practical innovation; and caution toward outsiders versus strong hospitality obligations.
 
+
+## Customs and festivals
+
+Accepted cultural canon. These practices allude to the sacred cycle and later folktales through repeated actions rather than doctrinal explanation or literal dramatic reenactment.
+
+- **First-Gathering:** children and elders gather in paired roles. Children are expected to notice and identify wild foods while elders contribute accumulated ecological knowledge; uncertain plants or fungi are not gathered. The gathered foods culminate in a communal meal, reinforcing the heroine tradition of attentive survival knowledge without turning children into unrestricted ritual authorities.
+- **Forest-name rite:** once in the annual cycle, an older child speaks the transformed heroine's true name and the gathered community answers by greeting the forest collectively. Selection favors a child near the transition to adulthood, especially one remembered for noticing something consequential. Outside this rite, the heroine/forest name remains subject to restraint.
+- **Remembered herd-path rite:** seasonal movement begins with the oldest herd animal leading, after which people reopen an overgrown part of the inherited route. A ceremonial continuity object is made for that year's journey, carried until the obstruction is restored, and left at the repaired place rather than retained as an accumulating relic.
+- **Children's notice:** outside formal festivals, adults are conventionally expected to take seriously a child's report of something strange or overlooked. This remains an everyday norm rather than a general ritual reversal of adult authority.
+- **Abandoned settlements:** communities revisit old settlements and repair them primarily enough to sustain travelers and continuing relations with the place. Local traditions differ over how far repair, return, reuse, and eventual resettlement may go; no universal rule resolves the boundary between restoring a place and taking it anew.
+- **Guest-storytelling:** a cold-season/winter gathering gives properly received strangers food and protection in exchange for stories. A wandering storyteller is therefore simultaneously a guest under strong protection and a source whose claims may later be tested through ordinary witness/testimony norms.
+- **Conflicting obligations:** disputes over incompatible promises may be represented by two cords kept intact while witnesses hear the competing obligations. Traditional stories about conflicting promises accompany the practice; resolution is not symbolized by simply destroying one obligation.
+- **Names across life:** adulthood can involve public reception or recognition of a true/personal name, while additional socially meaningful names may accrue through relationships and consequential life events. This coexists with the principle that knowledge or transmission of a name does not make the name alienable property.
+- **Reconciliation and reopening:** compensation is incomplete as a social act until ordinary relations can resume. A blocked path may be physically reopened as a visible analogy, but communities may instead use another locally intelligible act of restored interaction; the PATH metaphor does not impose a single mandatory rite.
+- **Great annual festival:** the largest celebration is structured generationally and alludes to the heroine cycle without impersonating her. Children gather, notice, and discover; adults undertake movement, repair, provisioning, and reciprocal work; elders preserve and tell remembered narratives. Renewal, memory, and forest relations converge, while the daytime actions remain allusive rather than an explicit dramatic reenactment of one canonical myth.
+
 ## Sacred text cycle
 
 The canonical sacred cycle is **The Returning Path**, a three-part narrative corpus used for ritual recitation, mythology, ethical reasoning, and everyday metaphor.
