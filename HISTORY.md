@@ -40,6 +40,12 @@ Late reduction and morphological concatenation expanded the inherited coda syste
 
 This expansion changed mora assignment rather than shortening vowels. An ordinary VCC syllable is capped at 2μ: the first coda is moraic and the second is not. A diphthong or contracted heavy vowel already supplies 2μ, so following codas are nonmoraic and the heavy nucleus remains intact. Consequently no productive coda-conditioned /o/ developed from /au/, and historical source no longer conditions vowel quality before codas.
 
+### Late lexical vowel loss
+
+A small inherited lexical stratum underwent late unstressed vowel loss after the general consonantal root system was already established but before modern repair was fully regularized. The surviving canonical examples are WANDER `*hrk`, COUNT `*knt`, and DECIDE `*pnt`. Their exact lost vowel qualities are not recoverable from the modern language. Synchronically they are indivisible CCC roots: NONFINITE `hirka`, `kinta`, and `pinta` contain ordinary minimum /i/-repair rather than stored lexical vowels, and inflection retains or removes repair only according to the same productive legality test as other roots.
+
+This late reduction belongs to the same broader historical tendency that enriched medial consonant structure, but it did not create a special conservative phonology. In particular, the newer compactification probes WASH `*sp` and BEND/FOLD `*sm` show the opposite surface behavior: citation `sipa, sima` require repair, while compatible U-indexed finite forms can surface compactly as `nipspupi, nipsmupi`.
+
 ### Case morphology
 
 The case paradigm reflects several historical layers rather than a single uniform source. GEN `-n` and DAT `-r` continue old nominal relational elements, while ERG `-k` and ESS `-e` have independent origins.
